@@ -48,12 +48,13 @@ For input aab – ab, aab
 - Given a string which contains vowels and consonants. Find the number of substrings which start with vowel and ends with consonant.
 
 - Given a 2d grid map of 'Y's <b>(Grass)</b> and 'N's <b>(no Grass)</b> where connected grass blocks forms a <b>field</b>. Two fields are separated field by 'no grass' and is formed by connecting grass blocks horizontally or vertically. Only a cow or sheep can graze in one field. Find the count of all the combinations where the number of sheep is even. 
+ ```
 e.g. Grid is YYYN
              NNYN
              NYNY
              NNNY
-       Here the number of fields is 3.      
-
+       Here the number of fields is 3. 
+``` 
 - Given an array of distinct integers and a sum value. Find count of triplets with sum smaller than given sum value. Expected Time Complexity is O(n<sup>2</sup>).
 
 - Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
