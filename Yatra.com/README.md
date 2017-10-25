@@ -72,9 +72,15 @@ e.g. Grid is YYYN
 
 - Rotate a 2D-matrix by 90 degree without using extra space.
 
+- Given a binary tree, Do the reverse level order traversal.
+
 - Given an array find two elements whose sum equal to zero.
 
 - Reverse the elements of stack without using another stack, queue and array.
+
+- Implement Manacher's algorithm.
+
+- Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree
 
 - In a binary tree, find the left facing elements with recursion and without recursion.
 
@@ -107,6 +113,8 @@ e.g. Grid is YYYN
 - Clone a binary tree. Node object is immutable.  
 
 - Implement Kadane's Algorithm.
+
+- Implement Trie with insert, search, and startsWith methods.
 
 - Find the median of unsorted array in linear time.
 
