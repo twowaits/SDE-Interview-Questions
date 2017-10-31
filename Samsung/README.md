@@ -92,17 +92,17 @@ For example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there
 You are given the locations of the office, Mr. Kim’s home, and the customers; the number of the customers is in the range of 5 to 10.
 Write a program that, starting at the office, finds a (the) shortest path visiting all the customers and returning to his home. Your program only have to report the distance of a (the) shortest path.
 
-**Constraints**
+    **Constraints**
 
-5≤N≤10. Each location (x,y) is in a bounded grid, 0≤x≤100, 0≤y≤100, and x, y are integers.
+    5≤N≤10. Each location (x,y) is in a bounded grid, 0≤x≤100, 0≤y≤100, and x, y are integers.
 
-**Input**
+    **Input**
 
-You are given 10 test cases. Each test case consists of two lines; the first line has N, the number of the customers, and the following line enumerates the locations of the office, Mr. Kim’s home, and the customers in sequence. Each location consists of the coordinates (x,y), which is reprensented by ‘x y’.
+    You are given 10 test cases. Each test case consists of two lines; the first line has N, the number of the customers, and the following line enumerates the locations of the office, Mr. Kim’s home, and the customers in sequence. Each location consists of the coordinates (x,y), which is reprensented by ‘x y’.
 
-**Output**
+    **Output**
 
-Output the 10 answers in 10 lines. Each line outputs the distance of a (the) shortest path. Each line looks like ‘#x answer’ where x is the index of a test case. ‘#x’ and ‘answer’ are separated by a space.
+    Output the 10 answers in 10 lines. Each line outputs the distance of a (the) shortest path. Each line looks like ‘#x answer’ where x is the index of a test case. ‘#x’ and ‘answer’ are separated by a space.
 
 
     I/O Example
@@ -173,13 +173,26 @@ The main problem here is to find minimum distance to reach spaceship from source
 
  -  There is a n x n matrix with only 0s & 1s. Letters are formed using 1 and 0.
       For eg.-
-               U is 1 0 1,  V is 1 0 1
-                    1 0 1        1 0 1
-                    1 1 1        0 1 0    
+      
+              
+              
+                   U is 1 0 1,  V is 1 0 1
+                        1 0 1        1 0 1
+                        1 1 1        0 1 0  
+                        
+              
+              
     Likewise there are 6 letters and they can rotated in 90, 180, 270, 360 degree. And if there is a letter, the next column would be filled with 0.
-                Eg. V- 1 0 1 0
+                Eg. 
+                
+                
+                
+                    V- 1 0 1 0
                        1 0 1 0
                        0 1 0 0
+                       
+                
+                
     So we have to count the number of each letter in the matrix.
 
 
