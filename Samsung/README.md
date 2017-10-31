@@ -19,15 +19,15 @@ ____
                           1 1 0 0 1
                           x x S x x  -->highlighted yellow
    ```
-   In the grid above,     
-1: This cell has a coin.  
-2: This cell has an enemy.    
-0: It contains nothing.     
-The highlighted(yellow) zone is the control zone. S is a spaceship that we need to control so that we can get maximum coins.      
-Now, S’s initial position will be at the center and we can only move it right or left by one cell or do not move.
-At each time, the non-highlighted part of the grid will move down by one unit.    
-We can also use a bomb but only once. If we use that, all the enemies in the 5×5 region above the control zone will be killed.  
-If we use a bomb at the very beginning, the grid will look like this:
+     In the grid above,     
+  1: This cell has a coin.  
+  2: This cell has an enemy.    
+  0: It contains nothing.     
+  The highlighted(yellow) zone is the control zone. S is a spaceship that we need to control so that we can get maximum coins.      
+  Now, S’s initial position will be at the center and we can only move it right or left by one cell or do not move.
+  At each time, the non-highlighted part of the grid will move down by one unit.    
+  We can also use a bomb but only once. If we use that, all the enemies in the 5×5 region above the control zone will be killed.  
+  If we use a bomb at the very beginning, the grid will look like this:
  ```
  0 1 0 2 0  --> Non highlighted part
  0 0 0 0 1
@@ -37,11 +37,11 @@ If we use a bomb at the very beginning, the grid will look like this:
  1 1 0 0 1
  x x S x x  --> highlighted yellow
  ```
- As soon as, the spaceship encounters an enemy or the entire grid has come down, the game ends.     
-For example,    
-At the very first instance, if we want to collect a coin we should move left **( coins=1)**. This is because when the grid comes down by 1 unit we have a coin on the second position and by moving left we can collect that coin. Next, we should move right to collect another coin **( coins=2)** .
-After this, remain at the same position **( coins=4)**.
-This is the current situation after collecting 4 coins.
+   As soon as, the spaceship encounters an enemy or the entire grid has come down, the game ends.     
+  For example,    
+  At the very first instance, if we want to collect a coin we should move left **( coins=1)**. This is because when the grid comes down by 1 unit we have a coin on the second position and by moving left we can collect that coin. Next, we should move right to collect another coin **( coins=2)** .
+  After this, remain at the same position **( coins=4)**.
+  This is the current situation after collecting 4 coins.
  ```
  0 1 0 2 0                0 1 0 0 0
 0 2 2 2 1 -->after using 0 0 0 0 1
@@ -80,10 +80,11 @@ Input is given as:
      if parent has no child : (P()())
      ```
 - A company sells its products with a unique serial number on it. Company has has found that there are some products that don’t sell well which are identified to have ominous numbers in the serial number of the product. So if a serial number of the product contains atmost ’k’ ominous number then it won’t sell.
-
- Given a range form s to e, you need to find number of products that would sell, leaving out the products that contains atmost ’k’ ominous numbers.     ``
-Input: First line contains the number of test cases, followed buy the range s to e, 1     
-``
+   Given a range form s to e, you need to find number of products that would sell, leaving out the products that contains atmost ’k’ ominous numbers. 
+   
+ ``
+ Input: First line contains the number of test cases, followed buy the range s to e, 1     
+ ``
 - You are given N unique numbers a1<a2<a3<...an. Find out the count of all possible binary search tress that can be constructed using these numbers.
 For example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there are 14 BST.
 
