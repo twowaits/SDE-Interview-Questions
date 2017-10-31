@@ -8,6 +8,41 @@
 * [References](#ref)
 ____
 <b name="coding">Coding round questions</b><br/>
+- Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes.
+  It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe.
+  The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore ,then it is able to inspect the connected pipes. However, we cannot observe every pipe because the length of endoscope is limited.
+
+  When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kind of pipes, and description for each pipe are shown below:
+  
+  
+        | S.No | Pipe           | Connected to  |
+        | -----|:-------------: | -------------:|
+        | 1    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/1.png ) | Up, Down, Left, Right |
+        | 2    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/2.png ) | Up, Down              |
+        | 3    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/3.png ) | Left, Right           |
+        | 4    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/4.png ) | Up, Right             |
+        | 5    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/5.png ) | Down, Right           |
+        | 6    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/6.png ) | Down, Left            |
+        | 7    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/7.png ) | Up, Left              |
+
+  When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore.
+   #### Input
+   In the first line, T, the number of total test cases is given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the ground water pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines information of the map of ground water pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
+
+   #### Output
+   Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to observe using the endoscope.
+
+   #### Constraints
+   1≤ T ≤100
+
+   1≤ N, M ≤50
+
+   0≤ X < N
+
+   0≤ Y < M
+
+   1≤ L ≤ 20
+         
 - Given a graph print either of the set of the vertices that are colored with the same color. And if the graph is not bipartite print “-1”. Test cases also included the cases when a graph is not connected.
 - You’ll be given a grid as below:
    ```
