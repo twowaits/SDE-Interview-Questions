@@ -18,6 +18,8 @@ ____
 - Find missing number unsorted contiguous array.
 - Find Number of common Guests in all parties if user give the input in the following format.
 The guests list for parties is in one line separated by Comma(,).
+     ```
+     
       Input: 122,444,2223,122,1111,122,2233,123,333,333,444,
         1111,122
       Output:
@@ -28,6 +30,8 @@ The guests list for parties is in one line separated by Comma(,).
         1111:2
         122:4
         123:1
+        
+     ```    
 
         
 
