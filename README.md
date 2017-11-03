@@ -3,6 +3,8 @@
 
 - [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
 
+- [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
+
 #### Note:
      This repo is for educational purposes only.
 
