@@ -5,6 +5,8 @@
 
 - [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
 
+- [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
+
 #### Note:
      This repo is for educational purposes only.
 
