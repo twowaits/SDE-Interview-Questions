@@ -48,8 +48,11 @@ The guests list for parties is in one line separated by Comma(,).
 - Decimal to Binary program using recursion.
 - Find the largest Number of Array using recursion.
 - WAP to sort a Linked List.
+- Program for converting Little to Big Endian.
 - Find the center element of a linked list?
 - Print left view of Binary Search Tree.
+- Implement circular linked list.
+- Write a program on pallindrome linked list and stack implementation using linked list.
 - Program to remove duplicates from linked list.
 - Program to detect if there is any loop in linked list.
 - Write program for maximum of 4 numbers in good readable, optimized code.
@@ -61,6 +64,7 @@ The guests list for parties is in one line separated by Comma(,).
 - What are DBMS, RDBMS and ORDBMS ?
 - What is DDL, DML and DCL?
 - What is clustered indexing?
+- Transaction and normalisation.
 
 <br/>
 <br/>
@@ -69,6 +73,9 @@ The guests list for parties is in one line separated by Comma(,).
 - Define Semaphores, Fragmentation, Normalization?  
 - Discuss about Deadlock, Cyclic wait.
 - Paging and segmentation.
+- What is thrashing?
+- What is the difference between mutex and binary semaphore?
+- Can you name some IPC(Inter-process communication) mechanism?
 
 <br/>
 <br/>
