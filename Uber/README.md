@@ -152,16 +152,6 @@ with the following details:
 - WAP to find the k smallest values in a binary search tree.
 - Program to find the distance between two keys in a binary tree, no parent pointers are given.
 <br/><br/>
-<i><u name="dbms">DBMS</u></i>
-
-
-
-<br/>
-<br/>
-<i><u name="os">Operating System</u></i>
-
-<br/>
-<br/>
 <i><u name="misc">Miscellaneous</u></i>
 
 - There is a primary machine and a secondary(backup machine). Write a program to sync files from primary to backup machine.
