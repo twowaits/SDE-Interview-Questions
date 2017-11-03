@@ -48,6 +48,8 @@ The guests list for parties is in one line separated by Comma(,).
 - Decimal to Binary program using recursion.
 - Find the largest Number of Array using recursion.
 - WAP to sort a Linked List.
+- Find the center element of a linked list?
+- Print left view of Binary Search Tree.
 - Program to remove duplicates from linked list.
 - Program to detect if there is any loop in linked list.
 - Write program for maximum of 4 numbers in good readable, optimized code.
@@ -87,6 +89,6 @@ The guests list for parties is in one line separated by Comma(,).
 - Abstract class and Interface in Java.
 - What is difference between virtual and static class.
 - Differentiate between Call by value, call by address, call by refrence.
-
+- Implement operator overloading in C++?  
   
 
