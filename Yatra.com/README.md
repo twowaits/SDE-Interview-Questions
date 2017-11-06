@@ -82,6 +82,8 @@ e.g. Grid is YYYN
 
 - Implement Manacher's algorithm.
 
+- Find a pair of elements swapping which makes sum of two arrays same. If not possible, return -1. Time complexity should be less than O(n^2).
+
 - Perform reverse level order traversal using TreeMap(Java).
 
 - Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree
