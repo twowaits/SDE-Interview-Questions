@@ -74,11 +74,15 @@ e.g. Grid is YYYN
 
 - Given a binary tree, Do the reverse level order traversal.
 
+- Given coordinates of points find closest pair points distance.
+
 - Given an array find two elements whose sum equal to zero.
 
 - Reverse the elements of stack without using another stack, queue and array.
 
 - Implement Manacher's algorithm.
+
+- Perform reverse level order traversal using TreeMap(Java).
 
 - Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree
 
