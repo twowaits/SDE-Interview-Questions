@@ -8,6 +8,13 @@
 * [References](#ref)
 ____
 <b name="coding">Coding round questions</b><br/>
+#### Popular Tags
+<kbd>dynamic-programming</kbd>
+<kbd>Graph</kbd>
+<kbd>backtracking</kbd>
+<kbd>DFS</kbd>
+<kbd>BFS</kbd>
+<kbd>Bipartite-Graph</kbd>
 - Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes.
   It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe.
   The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore ,then it is able to inspect the connected pipes. However, we cannot observe every pipe because the length of endoscope is limited.
