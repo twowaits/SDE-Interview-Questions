@@ -12,9 +12,14 @@ ____
 - Display all numbers between 32-62 which ends with 5.
 - Write a program that accepts a decimal number and outputs the binary representation of that number.
 - Given ASCII values, output the string. 
+- You are given an m x n 2D matrix. Rotate the image by 90 degrees (anti-clockwise).
 - Write a program to convert infix to postfix.
+- Write a program to print transpose of a given matrix.
+- Given a 2D array, find the maximum sum subarray in it. 
+- Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
 - Given a text file, I want the words to be scanned from it, along with their occurrences, sort them in descending order, & display the top 10 words.
 - Find the second largest number.
+- Find whether two strings are anagram of each other.
 - Find missing number unsorted contiguous array.
 - Find Number of common Guests in all parties if user give the input in the following format.
 The guests list for parties is in one line separated by Comma(,).
