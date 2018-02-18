@@ -158,4 +158,6 @@ with the following details:
 - Design an alarm system for a driverless car.
 - Design an algorithm to operate elevators to pick up people on different floors of a building.
 - Given a restaurant menu and a budget, output all the possible ways to use up the budget.
-- How would you find the words that became obsolete in English language between 16th and 17th century? You may use a search engine.   
+- How would you find the words that became obsolete in English language between 16th and 17th century? You may use a search engine.
+
+## Feel free to show you love :heart: by putting a star :star: on this project :v: .
