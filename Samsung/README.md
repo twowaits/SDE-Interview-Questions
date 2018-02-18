@@ -419,3 +419,5 @@ only 2 process can write to file and 1 can read file at a time .
 - There are some exceptions that cannot be caught by try catch. How to catch such exceptions? Can we prevent our program to crash if we are not able to catch such exceptions.
 - What is name mangling, and how does it work?
 - What does malloc(0) return?
+
+## Feel free to show you love :heart: by putting a star :star: on this project :v: .
