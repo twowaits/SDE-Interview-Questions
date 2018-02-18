@@ -9,7 +9,7 @@
 
 #### Note:
      This repo is for educational purposes only.
-##### Feel free to show you love :heart: by putting a :star: on this project :v: .
+## Feel free to show you love :heart: by putting a :star: on this project :v: .
 <b name="ref">References</b>
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
 - [Career Cup](https://www.careercup.com/)
