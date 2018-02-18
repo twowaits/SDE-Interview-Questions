@@ -187,7 +187,11 @@ students. How might a SQL join arise naturally in such a database?
 - Draw Class diagram of Training and Placement Cell of your college.
 ---
 
+## Feel free to show you love :heart: by putting a star :star: on this project :v: .
+
 <b name="ref">References</b>
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
 - [Career Cup](https://www.careercup.com/)
 - [Glassdoor](https://www.glassdoor.co.in/index.htm)
+
+
