@@ -160,4 +160,5 @@ with the following details:
 - Given a restaurant menu and a budget, output all the possible ways to use up the budget.
 - How would you find the words that became obsolete in English language between 16th and 17th century? You may use a search engine.
 
-## Feel free to show you love :heart: by putting a star :star: on this project :v: .
+
+## Feel free to show your love :heart: by putting a star :star: on this project :v: .
