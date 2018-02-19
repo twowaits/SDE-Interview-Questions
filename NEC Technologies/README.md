@@ -102,5 +102,6 @@ The guests list for parties is in one line separated by Comma(,).
 - What is difference between virtual and static class.
 - Differentiate between Call by value, call by address, call by refrence.
 - Implement operator overloading in C++?  
+
   
-## Feel free to show you love :heart: by putting a star :star: on this project :v: .
+## Feel free to show your love :heart: by putting a star :star: on this project :v: .
