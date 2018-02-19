@@ -420,4 +420,5 @@ only 2 process can write to file and 1 can read file at a time .
 - What is name mangling, and how does it work?
 - What does malloc(0) return?
 
-## Feel free to show you love :heart: by putting a star :star: on this project :v: .
+
+## Feel free to show your love :heart: by putting a star :star: on this project :v: .
