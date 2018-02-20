@@ -1,1 +1,2 @@
-*.md linguist-language=markdown
+* linguist-vendored
+*.md linguist-vendored=false
