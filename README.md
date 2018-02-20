@@ -9,6 +9,7 @@
 
 #### Note:
      This repo is for educational purposes only.
+#### For contributing see <a href="InterviewQuestions/CONTRIBUTING.md">Contributing guidelines</a> .     
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .
 <b name="ref">References</b>
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
