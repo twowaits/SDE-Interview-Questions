@@ -4,6 +4,8 @@
 
 - [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
 
+- [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
+
 - [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
 
 - [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
