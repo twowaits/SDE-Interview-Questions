@@ -1,3 +1,6 @@
+
+![](https://github.com/rishabh115/Interview-Questions/blob/master/thumbnail.png)
+
 # Companies
 
 - [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
