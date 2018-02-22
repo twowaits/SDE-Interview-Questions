@@ -21,23 +21,23 @@ ____
 
   When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kind of pipes, and description for each pipe are shown below:
   
-  
- | S.No | Pipe           | Connected to  |
- | -----|:-------------: | -------------:|
- | 1    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/1.png ) | Up, Down, Left, Right |
- | 2    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/2.png ) | Up, Down              |
- | 3    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/3.png ) | Left, Right           |
- | 4    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/4.png ) | Up, Right             |
- | 5    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/5.png ) | Down, Right           |
- | 6    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/6.png ) | Down, Left            |
- | 7    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/7.png ) | Up, Left              |
+
+   | S.No | Pipe           | Connected to  |
+   | -----|:-------------: | -------------:|
+   | 1    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/1.png ) | Up, Down, Left, Right |
+   | 2    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/2.png ) | Up, Down              |
+   | 3    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/3.png ) | Left, Right           |
+   | 4    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/4.png ) | Up, Right             |
+   | 5    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/5.png ) | Down, Right           |
+   | 6    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/6.png ) | Down, Left            |
+   | 7    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/7.png ) | Up, Left              |
 
   When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore.
    #### Input
    In the first line, T, the number of total test cases is given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the ground water pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines information of the map of ground water pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
 
    #### Output
-   Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to observe using the endoscope.
+   Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to  observe using the endoscope.
 
    #### Constraints
    1≤ T ≤100
@@ -78,13 +78,13 @@ ____
  0 0 1 0 0
  1 1 0 0 1
  x x S x x  --> highlighted yellow
- ```
-   As soon as, the spaceship encounters an enemy or the entire grid has come down, the game ends.     
-  For example,    
-  At the very first instance, if we want to collect a coin we should move left **( coins=1)**. This is because when the grid comes down by 1 unit we have a coin on the second position and by moving left we can collect that coin. Next, we should move right to collect another coin **( coins=2)** .
-  After this, remain at the same position **( coins=4)**.
-  This is the current situation after collecting 4 coins.
- ```
+   ```
+     As soon as, the spaceship encounters an enemy or the entire grid has come down, the game ends.     
+    For example,    
+    At the very first instance, if we want to collect a coin we should move left **( coins=1)**. This is because when the grid comes down by 1 unit we have a coin on the second position and by moving left we can collect that coin. Next, we should move right to collect another coin **( coins=2)** .
+    After this, remain at the same position **( coins=4)**.
+    This is the current situation after collecting 4 coins.
+   ```
  0 1 0 2 0                0 1 0 0 0
 0 2 2 2 1 -->after using 0 0 0 0 1
 x x S x x -->bomb        x x S x x
@@ -312,7 +312,7 @@ Example of Output
 
   #### Output
   For each test case, you should print "Case #T" in the first line where T means the case number. 
-  For each test case, you should output the minimum number of movements to catch a defending piece at the first line of each test case. If not moveable, output equals ‘-1’.
+  For each test case, you should output the minimum number of movements to catch a defending piece at the first line of each test case.   If not moveable, output equals ‘-1’.
 
     
 - You are busy to promote a newly released film in a movie theatre . the title is 'Biochemical Laughing Bomb' which is about terror. Guerillas drop a biochemical laughing bomb in the middle of a city. once exposed, you have to laugh all your life. The bomb will contaminate four people around it during t second, and another four around each of them during another one second. However, you won't be contaminated if you are not in the adjacent four directions. as the below shows the location of the bomb and affected people , and shows contamination process in seconds and you can figure out that the whole city is contaminated in 8 seconds.
@@ -327,6 +327,84 @@ The coordinate of the row and column on which the bomb fall is given by being se
 #### Output
 For each test case, you should print "Case #T" in the first line where T means the case number. For each test case, you should output how long does it take to contaminate al people on the first row of each test case.     
 
+- Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes. It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe. The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore ,then it is able to inspect the connected pipes. However, we cannot observe every pipe because the length of endoscope is limited.
+
+  When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kind of pipes, and description for each pipe are shown below:
+
+  S.No	Pipe	Connected to
+  1	Up, Down, Left, Right
+  2	Up, Down
+  3	Left, Right
+  4	Up, Right
+  5	Down, Right
+  6	Down, Left
+  7	Up, Left
+  When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore.
+
+  Input
+  In the first line, T, the number of total test cases is given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the ground water pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines information of the map of ground water pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
+
+  Output
+  Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to observe using the endoscope.
+
+  Constraints
+  1≤ T ≤100
+
+  1≤ N, M ≤50
+
+  0≤ X < N
+
+  0≤ Y < M
+
+  1≤ L ≤ 20
+
+- Given number of pipes 1..n, Find two largest pipes of maximum length possible. 
+Ex: input - 1,2,3,4,6 
+Output - The maximum length possible is 8. 
+Pipe1 - 2,6 
+Pipe2 - 1,3,4
+
+- A Research team want to establish a research center in a region where they found some rare-elements. They want to make it closest to all the rare-elements as close as possible so that they can reduce overall cost of research over there. It is given that all the rare-element’s location is connected by roads. It is also given that Research Center can only be build on road. Team decided to assign this task to a coder. If you feel you have that much potential.. 
+
+  Here is the Task :- Find the shortest of the longest distance of research center from given locations of rare-elements. 
+
+  Locations are given in the matrix cell form where 1 represents roads and 0 no road.. 
+  Number of rare-element and their location was also given(number<=5) 
+  and order of square matrix was less than equal to (20).
+
+- There is a source (S) and destination (D) and a spacecraft has to go from S to D. There are N number of wormholes in between
+which has following properties:
+
+ Each wormhole has an entry and an exit.
+ Each wormhole is bi-directional i.e. one can enter and exit from any of the ends.
+The time to cross the wormhole is given and the space craft may or may not use the wormhole
+to reach D.
+The time taken to travel outside wormhole between two points (x1, y1) and (x2, y2) is given by a formula
+      |x1 - x2| + |y1 - y2|
+
+  where, (x1, y1) and (x2, y2) are the co-ordinates of two points.
+  The co-ordinates of S and D are given and we have to find the minimum time to reach D from S.
+
+  Note: It’s not mandatory to consider all the wormholes.
+
+- There are n balloons and n bullets and each balloon is assigned with a particular number (point). Whenever a particular balloon is shot the no of points increases by
+  1.the multiplication of point assigned to balloon on left and that of right side.
+
+  2.point assigned to left if no right exists
+
+  3.point assigned to right if no left exists.
+
+  4.the point assigned to itself if no other balloon exists.
+
+  You have to output the maximum no of points possible.
+
+  Input
+
+  1 2 3 4
+
+  Output
+
+  20
 
 ----
 <b name="tech">Technical Interview Questions</b>
@@ -356,7 +434,10 @@ For each test case, you should print "Case #T" in the first line where T means t
 
 - What is view in DBMS?
 - What is Indexing?
-
+- You have a student table having 3 attributes student_name, subject and marks. Find the subject-wise maximum mark of students. Arrange the subjects in ascending order and marks in descending order
+- Primary indexing vs Secondary indexing vs cluster indexing, multilevel indexing.
+- Sparse indexing vs dense indexing.
+- Lossless decomposition vs Lossy decomposition.
 <br/>
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -396,9 +477,12 @@ only 2 process can write to file and 1 can read file at a time .
 - What is  L-value and R-value reference?
 - State various principles of OOPS.
 - Define MFC COM and DCOM.
+- Difference between NULL and NIL.
 - What is meant by Big and Small Endian? How would you know that Machine code is Big or Small Endian?
 - What is friend class and function in C++?
 - What is Virtual Function in C++?
+- Explain VTABLE and VPTR?
+- Difference between sizeOf(void) and sizeOf(void*).
 - Full form of conio.
 - Describe Java's garbage collection.
 - Explain Abstract and pure Virtual function in detail.
