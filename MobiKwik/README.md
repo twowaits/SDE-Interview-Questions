@@ -42,12 +42,20 @@ ____
 - Write codes for Heap sort, Radix sort and Merge sort.
 - Find the whether the linked list has a loop or not.
 - Find the meeting point of the loop in linked list.
-
+- Reverse a linked list by recursion.
+- Reverse a stack without using extra memory.
+- Make balanced BST from given sorted linked list.
+- Given a string, find the maximum substring having equal number of 1's and equal number of 0's.
+- Find the total number of ways in which 2 x N strip can be filled with 2 x 1 brick. ( O(log n)). 
+- Find the elements having sum equal to k from BST in O(n) time comlexity.
+- Find the maximum square sub matrix from a given matrix filled with only '0' or '1'.
+- Find 35/3 whithout using recursion.
 
 <i><u name="dbms">DBMS</u></i>
 - Make a normalised database of Student Database in college, right from ER to normalized relational database.
 - Foreign key, primary key and the entity types.
 - Indexing, clustering and joins.
+- Write a query for maximum number.
 - Difference between the “having by” and “group by”?
 
 
@@ -72,3 +80,5 @@ ____
 - What restrictions are placed on the location of a package statement within a source code file ?
 - What is the immediate superclass of the Applet class?
 - What is the size of an empty class in C++ and Java? Why is it not zero? sizeof(); returns 1 in the case of C++.
+- Explain compile time polymorphism and runtime polymorphism.
+- What is the reason for single inheritance in Java ?
