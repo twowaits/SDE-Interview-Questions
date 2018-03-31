@@ -48,8 +48,8 @@ ____
 - Given a string, find the maximum substring having equal number of 1's and equal number of 0's.
 - Find the total number of ways in which 2 x N strip can be filled with 2 x 1 brick. ( O(log n)). 
 - Find the elements having sum equal to k from BST in O(n) time comlexity.
-- Find the maximum square sub matrix from a given matrix filled with only '0' or '1'.
-- Find 35/3 whithout using recursion.
+- Find the maximum square submatrix from a given matrix filled with only '1'.
+- Find 35/3 without using recursion.
 
 <i><u name="dbms">DBMS</u></i>
 - Make a normalised database of Student Database in college, right from ER to normalized relational database.
