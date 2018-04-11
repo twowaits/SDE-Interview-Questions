@@ -31,19 +31,8 @@ ____
      Reserved seat will be given like "1A 2B 40G".
 - Design a class to calculate moving average of last N numbers in a stream of real numbers.
 - Format a string of numbers to display a currency - example" "1234.678" to "1,234.68".
-- Given an array find the next greater element,
-   [2,4,3,6,5,8,2]
-
-⇒ [8,8,8,8,8,2,-1]
--
-        1
-      /   \
-     2     3
-    / \    / \
-   4    5  6  7
-      /
-     8  
-Find the distance between any two nodes of the tree.
+- Given an array find the next greater element.
+- Find the distance between any two nodes of the tree.
 
 ----
 <b name="tech">Technical Interview Questions</b>
