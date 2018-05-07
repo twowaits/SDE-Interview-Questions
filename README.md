@@ -19,7 +19,7 @@
 
 - [Yatra.com](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
 
--[Zomato](https://github.com/rishabh115/InterviewQuestions/blob/master/Zomato/README.md)
+- [Zomato](https://github.com/rishabh115/InterviewQuestions/blob/master/Zomato/README.md)
 
 #### Note:
      This repo is for educational purposes only.
