@@ -9,6 +9,7 @@
 ____
 <b name="coding">Coding round questions</b><br/>
 
+- Given a sorted array arr[] and a number x, write a function that counts the occurrences of x in arr[]. (O(Log(N)))
 - A text file contains {candidateID,voterID} details of an ongoing voting.
 Read this file in real time and report top 5 candidates.
 Also report a fraud if a Voter tries to vote twice or try to vote more then one candidate.
