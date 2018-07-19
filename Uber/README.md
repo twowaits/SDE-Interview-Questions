@@ -159,6 +159,10 @@ with the following details:
 - Design an algorithm to operate elevators to pick up people on different floors of a building.
 - Given a restaurant menu and a budget, output all the possible ways to use up the budget.
 - How would you find the words that became obsolete in English language between 16th and 17th century? You may use a search engine.
+- Design a price surge system, both at a high level and the architecture
+- Design a distributed system for sorting of large files.  
+- Design Netflix
+- Design Online Spreadsheets
 
 
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .
