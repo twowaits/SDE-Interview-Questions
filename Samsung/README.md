@@ -427,6 +427,8 @@ which has following properties:
 - Write a program to create circular queue?  
 - Detect and remove loop in linked list.
 - Design LRU data structure.
+- WAP for finding nth node from the end in the linked list.
+- Explain KMP Algorithm.
 - Zigzag traversal between two singly linked list.
 - There is a N*M matrix where each row is sorted. Find the kth largest element in matrix?
 - Print sum of all prime numbers within a given range.
@@ -436,6 +438,14 @@ which has following properties:
 - Given two polynomials represented by two arrays, write a function that multiplies given two polynomials.
 - What are the disadvantages of stack.
 - Write a program to find when we get stack overflow if we are using recursive functions.
+- How cycle detection is different in directed and undirected graphs? 
+- Write a program to append a C-style string to the end of another C-style string. You were supposed to
+write a function like void concat(char* a , char* b) such that after calling this function a becomes
+a+b(concatenation of a and b). Assume that size of a is greater than length of a+length of b.No
+library functions were to be used. Not even strlen.
+- Why do we need trie data structure?Tell one another technique which does the same job as trie
+with same time complexity? Then why trie is preferred over that one?(The other technique which I
+told was hashing).
 <br/><br/>
 <i><u name="dbms">DBMS</u></i>
 
@@ -445,6 +455,7 @@ which has following properties:
 - Primary indexing vs Secondary indexing vs cluster indexing, multilevel indexing.
 - Sparse indexing vs dense indexing.
 - Lossless decomposition vs Lossy decomposition.
+- Describe join operation w.r.t databases. 
 <br/>
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -468,6 +479,17 @@ which has following properties:
 - There is a file and 5 processes. How can you grant access so that
 only 2 process can write to file and 1 can read file at a time .
 - Stack pointer vs Frame pointer.
+- Explain spooling.
+- You are given a process A. The scheduler is using Priority Based Round Robin Technique for
+scheduling various process. Suppose at some instant A was being run and it entered its critical
+section. And there it acquired a resource X. Meanwhile another process B comes to the ready
+queue. B has more priority than A. Now the preemption occurs and scheduler decides to run B and it
+also wants t own resource X to complete some task. Now B won’t be able to take the resource as A
+is already having it but since it has higher priority it must run before A. So is this condition a
+deadlock? Explain with reasons. 
+- What is starvation? Out of priority based round robin scheduling and priority based scheduling , which one is more likely
+to suffer from the problem of starvation? How to recover from starvation?
+
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
 
@@ -475,6 +497,8 @@ only 2 process can write to file and 1 can read file at a time .
 - Implement you own strcat() function. Dont use string header.
 - Difference between TCP and UDP.
 - What is Inline functions?
+- Make a utility function in C to detect memory leaks in any program given its source code,you are allowed to modify input program   minimally for this purpose.
+- Balloon burst problem.
 - Write a program to allocate a 3D-array dynamically.
 - Write your own typedef operator.
 - What is meant by Early binding and late binding.
@@ -506,10 +530,17 @@ only 2 process can write to file and 1 can read file at a time .
 - Explain MultiLevel inheritance.
 - Memory layout of C program.
 - What is structure padding ?
+- What are memset and memcopy? 
 - What is function pointer?
 - There are some exceptions that cannot be caught by try catch. How to catch such exceptions? Can we prevent our program to crash if we are not able to catch such exceptions.
 - What is name mangling, and how does it work?
 - What does malloc(0) return?
+- There are 25 horses and 1 racing track. You can conduct a race of atmost 5 horses on that track. You
+need to find fastest 3 horses. What is the minimum number of races do you require? 
+- You are given 8 batteries and 1 torch. 4 batteries are working and 4 are dead. The torch
+  accommodates 2 batteries. If both the batteries are working then the torch will glow otherwise not.
+ What is the minimum number of times you need to switch the torch to find out 2 working batteries? 
+- 
 
 
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .
