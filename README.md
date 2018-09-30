@@ -23,8 +23,9 @@
 
 #### Note:
      This repo is for educational purposes only.
-     
-     Like this repo ? Contribute new questions this hacktoberfest and be a part of it. #Hacktoberfest_2018
+
+
+Like this repo ? Contribute new questions this hacktoberfest and be a part of it. #Hacktoberfest_2018
 #### For contributing see <a href="https://github.com/rishabh115/InterviewQuestions/blob/master/CONTRIBUTING.md">Contributing guidelines</a> .     
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .
 <b name="ref">References</b>
