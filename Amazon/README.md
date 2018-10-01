@@ -12,6 +12,7 @@ ____
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not   changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
+- Given a linekd list convert it to an alternate linked list
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
