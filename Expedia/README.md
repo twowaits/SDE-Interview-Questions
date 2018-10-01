@@ -57,6 +57,7 @@ Find the minimum number of hops Harry would need to reach the top of the pole.
       Output : 251678
 
 - Implement atoi to convert a string to an integer.
+- N queen problem
 
 - There is an infinite integer grid at which N people have their houses on. They decide to unite at
 a common meeting place, which is someone's house.
