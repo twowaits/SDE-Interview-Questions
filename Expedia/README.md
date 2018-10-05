@@ -69,10 +69,16 @@ Find a common meeting place which minimises the sum of the travel times of all t
   The following N lines will contain two integers saying the x & y coordinate of the i-th person.
   
   Output Format:
-  M M = min sum of all travel times;      
-  
+  M M = min sum of all travel times;   
+- Ashley has a bunch of coins she wants to arrange into staircases. She starts with row of 1 coin which goes on top of a row of 2 coins, then 3 coins and so on. Each row should have exactly 1 more coin than the row above it. Determine the number of complete rows of coins in her finished staircase.
+
+  For example, if she's got 6 coins, she can create a stairase with 1 coin in the top row, 2 in the second and 3 in the third. She can complete 3 rows. It would take atleast 4 more coins, 10 coins total, for her to be able to create a 4th complete row. 
 ----
 <b name="tech">Technical Interview Questions</b>
 
 -  A server can call an API once per second. How would you ensure that it calls 1/sec given that it's a multithreaded environment. If there are multiple servers how would you ensure that the calls still remain 1/sec.
 
+<i><u name="misc">Miscellaneous</u></i>
+- What is the __init__.py file in Python?
+- What does the double underscore represent in Python? 
+- Puzzle: You are given 8 identical looking balls. One of them is heavier than the rest of the 7 (all the others weigh exactly the same). You a provided with a simple mechanical balance and you are restricted to only 2 uses. Find the heavier ball.
