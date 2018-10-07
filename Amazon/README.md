@@ -5,6 +5,7 @@
    * [Data Structures and Algorithms](#dsalg)
    * [DBMS](#dbms)
    * [Operating System](#os)
+   * [System Design](#design)
    * [Miscellaneous](#misc)
 * [References](#ref)
 ____
@@ -25,6 +26,21 @@ ____
 <br/>
 <br/>
 <i><u name="os">Operating System</u></i>
+
+<br/>
+<br/>
+<i><u name="design">System Design</u></i>
+1. Design a system that controls traffic lights with below assumptions:
+
+  - A group of traffic lights has two components: main lights and pedestrian lights.
+  - Main traffic lights has three colors: red, yellow and green. 
+  - Pedestrian lights has two colors: red and green.
+  - Pedestrian lights' colors are reversed from main lights: 
+    - Main: red/yellow - pedestrian's: green 
+    - Main: green - pedestrian: red
+  - There is a button for pedestrian lights, if button is pushed in advance, pedestrian's lights change colors according to the main ones, if button isn't pushed, pedestrian's lights remain red.
+  - A typical junction has 4 group of lights.
+  - Additional question: design the system in a way that allows cars which start from one junction after a red light don't have to stop at the next one.
 
 <br/>
 <br/>
