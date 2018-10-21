@@ -50,7 +50,7 @@ ____
 
      1≤ L ≤ 20
 
-- Men's restroom problem : It is a well-researched fact that men in a restroom generally prefer to maximize their distance from already occupied stalls, by occupying the middle of the longest sequence of unoccupied places. For example, consider the situation where ten stalls are empty. For detailed version, check the following link. <br>
+- Men's restroom problem : It is a well-researched fact that men in a restroom generally prefer to maximize their distance from already occupied stalls, by occupying the middle of the longest sequence of unoccupied places. For detailed version, check the following link. <br>
 Link : https://stackoverflow.com/questions/32645046/urinal-algorithm-a-simple-optimization
 
 - Given a graph print either of the set of the vertices that are colored with the same color. And if the graph is not bipartite print “-1”. Test cases also included the cases when a graph is not connected.
