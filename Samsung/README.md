@@ -330,45 +330,6 @@ In order to protect the city from the epidemic, create a program that figures ou
 
   #### Output
   For each test case, you should print "Case #T" in the first line where T means the case number. For each test case, you should output how long does it take to contaminate al people on the first row of each test case.     
-
-- Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes. It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe. The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore ,then it is able to inspect the connected pipes. However, we cannot observe every pipe because the length of endoscope is limited.
-
-  When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kind of pipes, and description for each pipe are shown below:
-
-    S.No	Pipe	Connected to
-    1	Up, Down, Left, Right
-    
-    2	Up, Down
-    
-    3	Left, Right
-    
-    4	Up, Right
-    
-    5	Down, Right
-    
-    6	Down, Left
-    
-    7	Up, Left
-
-    When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate  the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore.
-
-  Input
-  In the first line, T, the number of total test cases is given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the ground water pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines information of the map of ground water pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
-
-  Output
-  Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to observe using the endoscope.
-
-    Constraints
-    1≤ T ≤100
-
-    1≤ N, M ≤50
-
-    0≤ X < N
-
-    0≤ Y < M
-
-    1≤ L ≤ 20
-
 - Given number of pipes 1..n, Find two largest pipes of maximum length possible. 
 Ex: input - 1,2,3,4,6 
 Output - The maximum length possible is 8. 
