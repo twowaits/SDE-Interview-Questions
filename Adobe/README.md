@@ -1,5 +1,5 @@
 
-# Adobe Interview Questions
+# Paytm Interview Questions
 * [Coding Round Questions](#coding)
 * [Technical Interview Questions](#tech)
    * [Data Structures and Algorithms](#dsalg)
