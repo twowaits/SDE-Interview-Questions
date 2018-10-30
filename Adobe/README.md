@@ -3,7 +3,6 @@
 * [Coding Round Questions](#coding)
 * [Technical Interview Questions](#tech)
    * [Data Structures and Algorithms](#dsalg)
-* [References](#ref)
 ____
 <b name="coding">Coding round questions</b><br/>
 - In given integer array, if any integer is repeating then replace it with a number greater than that number which has not been inserted yet in the array. 
