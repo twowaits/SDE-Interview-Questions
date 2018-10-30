@@ -127,6 +127,7 @@ for ex. arr = [1,0,3,9,2] then ans would be 10 = 1 + 9 (non adjacent element)  .
 - Implement the substring method.
 - Create a data structure that stores integers, let then add, delete. It also should be be able to return the minimum diff value of the current integers.
 - Given a 2D array of either '\' or '/', find out how many pieces this rectangle is divided into graphically.
+- Write a function which returns nth root of a number.
 For a 2X2 matrix with
 ```
 /\
