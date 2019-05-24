@@ -164,6 +164,7 @@ with the following details:
 - Design a distributed system for sorting of large files.  
 - Design Netflix
 - Design Online Spreadsheets
+- Design Twitter
 
 
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .
