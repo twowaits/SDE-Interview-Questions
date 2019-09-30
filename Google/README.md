@@ -15,3 +15,14 @@ ____
   By rotating A any number of times in one direction, we should get B.
 
 - We have to paint n boards of length {A1, A2, .. An}. There are k painters available and each takes 1 unit time to paint 1 unit of board. The problem is to find the minimum time to get this job done under the constraints that any painter will only paint continuous sections of boards, say board {2, 3, 4} or only board {1} or nothing but not board {2, 4, 5}.
+
+
+Question: Find longest word in dictionary that is a subsequence of a given string
+
+  Given a string S and a set of words D, find the longest word in D that is a subsequence of S.
+  Word W is a subsequence of S if some number of characters, possibly zero, can be deleted from S to form W, without reordering the  remaining characters.
+  Note: D can appear in any format (list, hash table, prefix tree, etc.
+  For example, given the input of S = "abppplee" and D = {"able", "ale", "apple", "bale", "kangaroo"} the correct output would be "apple"
+  The words "able" and "ale" are both subsequences of S, but they are shorter than "apple".
+  The word "bale" is not a subsequence of S because even though S has all the right letters, they are not in the right order.
+  The word "kangaroo" is the longest word in D, but it isn't a subsequence of S.
