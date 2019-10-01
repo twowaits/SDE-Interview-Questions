@@ -3,7 +3,7 @@
 
 # Companies
 
-- [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
+- [Expedia india ](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
 
 - [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
 
@@ -11,11 +11,11 @@
 
 - [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
 
-- [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
+- [PayPal india](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
 
 - [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
 
-- [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
+- [Ube india](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
 
 - [Yatra.com](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
 
