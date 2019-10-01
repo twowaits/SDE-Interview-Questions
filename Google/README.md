@@ -1,17 +1,17 @@
 
 # Google Interview Questions
 
-* [Quiz Round(Telephone) Questions](#quiz)
+* [Quiz Round(Telephonic) Questions](#quiz)
+* [Coding Round Questions](#coding)
+
 ____
 
 
-<b name="coding">Quiz Round(Telephone) questions</b><br/>
+<b name="quiz">Quiz Round(Telephonic) questions</b><br/>
 
 - What is the approximate value of 2 to the power of 24.
 - Average and Worst case time complexity of Merge Sort and Quick Sort
 - What does the *.find()* function of C++ Collection returns when the item is not there in the collection.
-
-* [Coding Round Questions](#coding)
 ____
 
 
