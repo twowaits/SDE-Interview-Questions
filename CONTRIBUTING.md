@@ -2,6 +2,7 @@
 
 Please make sure that your pull request adheres to the following guidelines:
 - For each company, make a separate pull request.
+- Pull requests pertaining to grammatical mistakes, removing whitespaces or renaming are highly discouraged.
 - The pull request and commit message should include what was added/removed.
 - Ensure that you don't replicate the same content.
 - Do not forget to mention the references in the footer section.
