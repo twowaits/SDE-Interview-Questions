@@ -11,11 +11,15 @@ Please make sure that your pull request adheres to the following guidelines:
 - Technical Interview Questions includes DS Algo, DBMS, OS and Miscellaneous sections.
 - Miscellaneous may include questions from design patterns, software development, system design and Object Oriented Programming.
 
+**Note:** - If there is a telephonic round, add it before coding round questions as given below.
+
+
 Happy Coding! :v:
 
 ## Sample template
 
 ## COMPANY_NAME Interview Questions
+* [Telephonic Round Questions](#telephonic)
 * [Coding Round Questions](#coding)
 * [Technical Interview Questions](#tech)
    * [Data Structures and Algorithms](#dsalg)
