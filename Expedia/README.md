@@ -35,7 +35,7 @@ ____
 e.g: ``[2 3 5 3 7 9 5 3 7]``      
 Output: ``[3 3 3 5 5 7 7 2 9]``
 
-- You are given two string (like two statements). You have to remove all the words of second string from first string and print the remaining first string. Please maintain the order of the remaining words from the first string. You will be only removing the first word, not all occurrence of a word.
+- You are given two string (like two statements). You have to remove all the words of second string from first string and print the remaining first string. Please maintain the order of the remaining words from the first string. You will be only removing the first word, not all occurrences of a word.
       Example: Str1 = "A Statement is a Statement"
                Str2 = "Statement a"
       Output: "A is Statement"
@@ -70,9 +70,9 @@ Find a common meeting place which minimises the sum of the travel times of all t
   
   Output Format:
   M M = min sum of all travel times;   
-- Ashley has a bunch of coins she wants to arrange into staircases. She starts with row of 1 coin which goes on top of a row of 2 coins, then 3 coins and so on. Each row should have exactly 1 more coin than the row above it. Determine the number of complete rows of coins in her finished staircase.
+- Ashley has a bunch of coins she wants to arrange into staircases. She starts with a row of 1 coin which goes on top of a row of 2 coins, then 3 coins and so on. Each row should have exactly 1 more coin than the row above it. Determine the number of complete rows of coins in her finished staircase.
 
-  For example, if she's got 6 coins, she can create a stairase with 1 coin in the top row, 2 in the second and 3 in the third. She can complete 3 rows. It would take atleast 4 more coins, 10 coins total, for her to be able to create a 4th complete row. 
+  For example, if she's got 6 coins, she can create a stairase with 1 coin in the top row, 2 in the second and 3 in the third. She can complete 3 rows. It would take at least 4 more coins, 10 coins total, for her to be able to create a 4th complete row. 
 ----
 <b name="tech">Technical Interview Questions</b>
 
