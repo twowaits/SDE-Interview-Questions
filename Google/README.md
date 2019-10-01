@@ -1,17 +1,19 @@
 
 # Google Interview Questions
 
-* [Quiz Round(Telephonic) Questions](#quiz)
+* [Telephonic Round Questions](#quiz)
 * [Coding Round Questions](#coding)
 
 ____
 
 
-<b name="quiz">Quiz Round(Telephonic) questions</b><br/>
+<b name="quiz">Telephonic Round Questions</b><br/>
 
 - What is the approximate value of 2 to the power of 24.
-- Average and Worst case time complexity of Merge Sort and Quick Sort
+- Average and Worst case time complexity of Merge Sort and Quick Sort.
 - What does the *.find()* function of C++ Collection returns when the item is not there in the collection.
+- Mention few implementation of Map interface in Java.
+- What is the advantage of using Heapsort over Mergesort ?
 ____
 
 
