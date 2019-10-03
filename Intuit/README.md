@@ -34,8 +34,8 @@
 
 <br/>
 <br/>
-<i><u name="design">System Design</u></i>
+<b name="design">System Design</b><br/>
  - Design a HTML 5 page to parse JSON data
-<br/>
+ ---
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
