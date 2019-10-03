@@ -13,6 +13,28 @@ ____
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not   changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
+
+- Part A: Given a string of parentheses, as such: "((()))", determine if the string is a valid ordering of parentheses.
+  Valid string examples:
+    - "()()()"
+    - "((()))"
+    - "(())()"
+    - "((())())  
+  Invalid string examples:
+    - "())()"
+    - ")))((("
+    - "(())())"
+  Return type: boolean
+  Part B: Given a string of mixed brackets, as such: "([{}])", determine if the string is a valid ordering of parentheses.
+    Valid string examples:
+      - "{{}}[[]](())"
+      - "({([])})"
+      - "()[]{}"
+    Invalid string examples:
+      - "{{}}[{]}()"
+      - "{[()()])}"
+  Return type: boolean
+  
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
