@@ -11,3 +11,7 @@ ____
 -Given a positive number N. The task is to round N to nearest multiple of 10. Number can be so big and can contains 1000 of digits.
 - At an ATM Machine, you are given a amount to withdraw, and some denominations of the Notes available in the ATM Machine. Find the number of ways in which you can withdraw the amount.
 - You are given 2 Linked List where each List represents a number, i.e, if the linked list of length 3 is represented as 2->4->1, than it represents the number 241. You need to implement a function that computes the sum of these 2 numbers(represented as a linked list) and the resultant number should also be represented as a linked list.
+-Given a string of consecutive digits and a number Y, the task is to find the number of minimum sets such that every set follows the below rule:
+	Set should contain consecutive numbers
+	No digit can be used more than once.
+	The number in the set should not be more than Y.
