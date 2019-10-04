@@ -70,6 +70,8 @@ ____
   <i><u>Bonus points for:</u></i>
   
   Use of concurrency
+- Find the total number of heaps that could be formed with n distinct integers. It has a dynamic programming approach. Use the following link for the solution after trying it yourself: 
+  https://www.geeksforgeeks.org/number-ways-form-heap-n-distinct-integers/
 
 
 ----
