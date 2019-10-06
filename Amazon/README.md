@@ -24,6 +24,7 @@ ____
 
 <br/>
 <i><u name="design">System Design</u></i>
+
  - Design a system that controls traffic lights with below assumptions:  
  
   1. A group of traffic lights has two components: main lights and pedestrian lights.
