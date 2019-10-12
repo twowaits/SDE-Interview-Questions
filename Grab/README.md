@@ -70,6 +70,7 @@ ____
   <i><u>Bonus points for:</u></i>
   
   Use of concurrency
+- Find the total number of heaps that could be formed with n distinct integers. It has a dynamic programming approach.
 
 
 ----
@@ -86,6 +87,7 @@ ____
 - Reverse a sentence of words.
 - How do you check that a given binary tree is a valid balanced binary search tree?  
 - You receive a bit stream (0 and 1). Continuously receive a stream of bit, each time, you have to determine whether the current value is divisibility by 3 and print True or False.
+- Given an array of unsorted positive integers, find the length of maximum subarray containing consecutive integers.
 
 <br/>
 <i><u name="dbms">DBMS</u></i>
@@ -98,3 +100,10 @@ ____
 - What is a singleton class and how to protect it from reflection?
 - Explain JVM architecture.
 - What is Stack Frame ?
+- What are dockers and containers?
+
+
+----
+<b name="refer">References</b>
+<br/>
+- Reference for: the number of heaps from n-distinct integer: https://www.geeksforgeeks.org/number-ways-form-heap-n-distinct-integers/

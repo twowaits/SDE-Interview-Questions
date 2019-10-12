@@ -42,3 +42,8 @@ ____
 <i><u name="design">System Design</u></i>
 - Implementation of undo and redo in a word processor
 - Searching a word document for a word
+- Given a string of consecutive digits and a number Y, the task is to find the number of minimum sets such that every set follows the below rule:
+	1. Set should contain consecutive numbers
+	1. No digit can be used more than once.
+	1. The number in the set should not be more than Y.
+
