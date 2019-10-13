@@ -9,11 +9,11 @@ ____
 
 <b name="quiz">Telephonic Round Questions</b><br/>
 
-- What is the approximate value of 2 to the power of 24.
+- What is the approximate value of 2 to the power of 24?
 - Average and Worst case time complexity of Merge Sort and Quick Sort.
-- What does the *.find()* function of C++ Collection returns when the item is not there in the collection.
+- What does the *.find()* function of C++ Collection returns when the item is not there in the collection?
 - Mention few implementation of Map interface in Java.
-- What is the advantage of using Heapsort over Mergesort ?
+- What is the advantage of using Heapsort over Mergesort?
 ____
 
 
@@ -21,7 +21,7 @@ ____
 
 - Given (x, y) coordinates, create a function such that each coordinate is uniquely mapped to an integer. Also make sure that given an integer, you should be able to find (x, y) coordinates. So F(x, y) = z and also that inverse F(z) = (x, y).
 - You are given an array of million numbers and provided a range of index (say left, right). For multiple queries, each with input left and right indexes, output the maximum in that range.
-- Given an array of integers arr[], find the number of recycled pairs in the array. A recycled pair of two numbers {a, b} has the following properties :
+- Given an array of integers arr[], find the number of recycled pairs in the array. A recycled pair of two numbers {a, b} has the following properties:
 
   A should be smaller than B.
   Number of digits should be same.
