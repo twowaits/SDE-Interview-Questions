@@ -13,6 +13,7 @@ ____
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not   changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
+- Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -42,6 +43,12 @@ ____
   - A typical junction has 4 group of lights.
   - Additional question: design the system in a way that allows cars which start from one junction after a red light don't have to stop at the next one.
 
+2. Design a card game by considering following assumptions:
+
+  - There should me more than one method of cards distribution such as even distribution, uneven distribution, etc.
+  - There are multiple situations which could be considered as winning situation:
+    - One who finishes all his cards early.
+    - One who earns the maximum points at the last.
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
