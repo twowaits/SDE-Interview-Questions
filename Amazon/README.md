@@ -38,12 +38,12 @@ ____
    1. A typical junction has 4 group of lights.
    1. Additional question: design the system in a way that allows cars which start from one junction after a red light don't have to stop at the next one.
 
-2. Design a card game by considering following assumptions:
+  - Design a card game by considering following assumptions:
 
-  - There should me more than one method of cards distribution such as even distribution, uneven distribution, etc.
-  - There are multiple situations which could be considered as winning situation:
-    - One who finishes all his cards early.
-    - One who earns the maximum points at the last.
+    1. There should me more than one method of cards distribution such as even distribution, uneven distribution, etc.
+    1. There are multiple situations which could be considered as winning situation:
+      - One who finishes all his cards early.
+      - One who earns the maximum points at the last.
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
