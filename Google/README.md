@@ -26,5 +26,9 @@ ____
   A should be smaller than B.
   Number of digits should be same.
   By rotating A any number of times in one direction, we should get B.
-
+  
 - We have to paint n boards of length {A1, A2, .. An}. There are k painters available and each takes 1 unit time to paint 1 unit of board. The problem is to find the minimum time to get this job done under the constraints that any painter will only paint continuous sections of boards, say board {2, 3, 4} or only board {1} or nothing but not board {2, 4, 5}.
+- Given a valid sentence without any spaces between the words and a dictionary of valid English words, find all possible ways to break the sentence in individual dictionary words. Sample input output is as follows: <br/>
+  Sample Input:  {i, like, sam, sung, samsung, mobile, ice, cream, icecream, man, go, mango}, "ilikesamsungmobile"  <br/>
+  Sample Output: i like sam sung mobile
+                 i like samsung mobile
