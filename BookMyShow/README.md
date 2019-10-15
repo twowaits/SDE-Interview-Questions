@@ -17,6 +17,7 @@ ____
 A particular bit of a number can be changed to zero by only one of the two operations available at a time,  
 	- if (i+1)th bit is 1 and all the bits from (i+2)th bit to the least significant bit is zero.  
 	- least significant bit can be toggled
+- Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
 
 ----
 <b name="tech">Technical Interview Questions</b>
@@ -29,6 +30,7 @@ A particular bit of a number can be changed to zero by only one of the two opera
 <i><u name="os">Operating System</u></i>
 
 - What is cache invalidation? Implement LRU cache.
+- What are semaphores?
 <br/>
 
 <i><u name="cn">Computer Networks</u></i>
