@@ -12,6 +12,7 @@ ____
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not   changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
 - Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
+- Given phone digits, print all possible words that can be formed from them.
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -26,13 +27,13 @@ ____
 <br/>
 <i><u name="design">System Design</u></i>
 
- - Design a system that controls traffic lights with below assumptions:  
- 
+ - Design a system that controls traffic lights with below assumptions:
+
    1. A group of traffic lights has two components: main lights and pedestrian lights.
-   1. Main traffic lights has three colors: red, yellow and green. 
+   1. Main traffic lights has three colors: red, yellow and green.
    1. Pedestrian lights has two colors: red and green.
-   1. Pedestrian lights' colors are reversed from main lights: 
-     - Main: red/yellow - pedestrian's: green 
+   1. Pedestrian lights' colors are reversed from main lights:
+     - Main: red/yellow - pedestrian's: green
      - Main: green - pedestrian: red
    1. There is a button for pedestrian lights, if button is pushed in advance, pedestrian's lights change colors according to the main ones, if button isn't pushed, pedestrian's lights remain red.
    1. A typical junction has 4 group of lights.
@@ -44,6 +45,10 @@ ____
     1. There are multiple situations which could be considered as winning situation:
       - One who finishes all his cards early.
       - One who earns the maximum points at the last.
+
+  - Design a task management system like Trello with the following assumptions:
+    1. User can move tasks from one lane to the other and move it back.
+    2. This should have a state diagram with many end states.
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
