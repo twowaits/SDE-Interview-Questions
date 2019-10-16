@@ -13,6 +13,9 @@ ____
 - Given a number, find its corresponding Roman numeral.
 - Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
 - Given phone digits, print all possible words that can be formed from them.
+- You are given an array of integers. Return an array of the same size where the element at each index is the product of all the elements in the original array except for the element at that index.
+For example, an input of [1, 2, 3, 4, 5] should return [120, 60, 40, 30, 24].
+You cannot use division in this problem.
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
