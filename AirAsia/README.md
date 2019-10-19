@@ -15,6 +15,7 @@ ____
 
 ----
 <b name="tech">Technical Interview Questions</b>
+
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
 
@@ -27,14 +28,13 @@ ____
 - Find all the permutations of a given string.
 - Given an array, return the index of the first non-recurring element.
 
+<br/>
+<i><u name="dbms">DBMS</u></i>
+
+- Given a job table with job_id, job_start_date and job_end_date, find all the jobs that were active in the given interval of time, say from 10th August 2019 to 10th September 2019.
 
 <br/>
 <i><u name="os">Operating System</u></i>
 
 - Explain the difference between processes and threads.
 - Explain different CPU scheduling algorithms.
-<br/>
-
-<i><u name="dbms">DBMS</u></i>
-
-- Given a job table with job_id, job_start_date and job_end_date, find all the jobs that were active in the given interval of time, say from 10th August 2019 to 10th September 2019.
