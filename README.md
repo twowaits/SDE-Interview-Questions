@@ -47,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://in.linkedin.com/in/shrutiab"><img src="https://avatars0.githubusercontent.com/u/10259707?v=4" width="100px;" alt="Shruti Bhutaiya"/><br /><sub><b>Shruti Bhutaiya</b></sub></a><br /><a href="https://github.com/rishabh115/Interview-Questions/commits?author=shrutibhutaiya" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/akshit04"><img src="https://avatars0.githubusercontent.com/u/20995986?v=4" width="100px;" alt="Akshit Kharbanda"/><br /><sub><b>Akshit Kharbanda</b></sub></a><br /><a href="https://github.com/rishabh115/Interview-Questions/commits?author=akshit04" title="Code">💻</a></td>
   </tr>
 </table>
 
