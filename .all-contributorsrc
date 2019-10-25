@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sesubash",
+      "name": "Subash Selvaraj",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4628269?v=4",
+      "profile": "https://github.com/sesubash",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Interview-Questions",
+  "projectOwner": "rishabh115",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
