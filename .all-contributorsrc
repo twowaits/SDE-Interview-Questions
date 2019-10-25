@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "CheshtaK",
+      "name": "Cheshta Kwatra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32400008?v=4",
+      "profile": "https://github.com/CheshtaK",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Interview-Questions",
+  "projectOwner": "rishabh115",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
