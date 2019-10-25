@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kartikay101",
+      "name": "Kartikay Shandil ",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21268943?v=4",
+      "profile": "https://github.com/kartikay101",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Interview-Questions",
+  "projectOwner": "rishabh115",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
