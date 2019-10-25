@@ -21,6 +21,7 @@ ____
 - Reverse Level Order Traversal
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
+- Write a function that takes an unsigned integer and returns the number of 1 bits it has.
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
