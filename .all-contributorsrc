@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tanaytoshniwal",
+      "name": "Tanay Toshniwal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19304171?v=4",
+      "profile": "https://tanaytoshniwal.me",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Interview-Questions",
+  "projectOwner": "rishabh115",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
