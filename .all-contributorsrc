@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "shrutibhutaiya",
+      "name": "Shruti Bhutaiya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10259707?v=4",
+      "profile": "https://in.linkedin.com/in/shrutiab",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Interview-Questions",
+  "projectOwner": "rishabh115",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
