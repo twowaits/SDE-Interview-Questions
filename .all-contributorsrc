@@ -10,12 +10,23 @@
       "name": "Dhruv Aggarwal",
       "avatar_url": "https://avatars2.githubusercontent.com/u/13146014?v=4",
       "profile": "https://github.com/dhruv-aggarwal",
-      "contributions": [
+         "contributions": [
         "code"
       ]
-    }
-  ],
-  "contributorsPerLine": 7,
+   } 
+      "login": "shrutibhutaiya",
+      "name": "Shruti Bhutaiya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10259707?v=4",
+      "profile": "https://in.linkedin.com/in/shrutiab",
+       "contributions": [
+        "code"
+      ]
+     },{ 
+      "login": "akshit04",
+      "name": "Akshit Kharbanda",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20995986?v=4",
+      "profile": "https://github.com/akshit04"}],
+
   "projectName": "Interview-Questions",
   "projectOwner": "rishabh115",
   "repoType": "github",
