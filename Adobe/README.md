@@ -22,12 +22,12 @@ ____
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
 - Validate if a given string is numeric.
-  Examples:
-          "0" => true
-          " 0.1 " => true
-          "abc" => false
-          "1 a" => false
-          "2e10" => true
+  Examples: </br>
+          "0" => true </br>
+          " 0.1 " => true </br>
+          "abc" => false </br>
+          "1 a" => false </br>
+          "2e10" => true </br>
   Return 0 / 1 ( 0 for false, 1 for true ) for this problem
 
 ----
