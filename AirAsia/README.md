@@ -1,0 +1,40 @@
+## AirAsia Interview Questions
+
+* [Coding Round Questions](#coding)
+* [Technical Interview Questions](#tech)
+   * [Data Structures and Algorithms](#dsalg)
+   * [DBMS](#dbms)
+   * [Operating System](#os)
+____
+<b name="coding">Coding round questions</b><br/>
+
+- Given an array A, divide it into two arrays say B and C, such that the sum of elements in array B is greater than or equal to sum of elements in array C and array B should have minimum number of elements.  
+- Given an array, return the number of recurring elements.  
+- Given an array, find the Longest Increasing Subsequence (LIS).
+- Find the median of two sorted arrays.
+
+----
+<b name="tech">Technical Interview Questions</b>
+
+<br/>
+<i><u name="dsalg">Data Structures and Algorithms</u></i>
+
+- Given an array A, arrange it in a zig-zag manner. By zig-zag manner, what is meant is that "A[0] < A[1] > A[2] < A[3] > A[4] ...."
+- Explain merge sort.
+- Explain difference between Binary trees and AVL trees.
+- What data structure is used in the internal implementation of hashmaps?
+- You are given the stock prices of a company for the month, you can buy stocks and sell stocks on any particular day, provided the stocks are bought before they are sold. You need to do "n" such buy-sell transactions and maximize the profit.
+- Given a infinite sorted binary array of 0's and 1's, find the index where the first 1 is present.
+- Find all the permutations of a given string.
+- Given an array, return the index of the first non-recurring element.
+
+<br/>
+<i><u name="dbms">DBMS</u></i>
+
+- Given a job table with job_id, job_start_date and job_end_date, find all the jobs that were active in the given interval of time, say from 10th August 2019 to 10th September 2019.
+
+<br/>
+<i><u name="os">Operating System</u></i>
+
+- Explain the difference between processes and threads.
+- Explain different CPU scheduling algorithms.

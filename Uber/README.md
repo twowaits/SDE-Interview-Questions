@@ -101,6 +101,10 @@ for ex. arr = [1,0,3,9,2] then ans would be 10 = 1 + 9 (non adjacent element)  .
 
  ["Hi Sivasrinivas,(1/3)", "your Uber is arriving(2/3)", "now!(3/3)"].
 - Write a function to tell us if a full deck of cards shuffledDeck is a single riffle of two other halves half1 and half2.
+- Given a number N. print in how many ways it can be represented as N = a+b+c+d , 1< =a< =b< =c< = d; 1<=N< = 5000
+- Given two number l and r (l<=r<=10^6) find most frequent digit among all prime numbers between l and r inclusive. if frequency is same print highest digit.
+
+
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>

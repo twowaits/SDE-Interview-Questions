@@ -411,6 +411,7 @@ library functions were to be used. Not even strlen.
 - Why do we need trie data structure?Tell one another technique which does the same job as trie
 with same time complexity? Then why trie is preferred over that one?(The other technique which I
 told was hashing).
+- Given a binary tree remove nodes to make it 'Perfect'. Print all removed nodes.
 <br/><br/>
 <i><u name="dbms">DBMS</u></i>
 
@@ -454,7 +455,7 @@ is already having it but since it has higher priority it must run before A. So i
 deadlock? Explain with reasons. 
 - What is starvation? Out of priority based round robin scheduling and priority based scheduling , which one is more likely
 to suffer from the problem of starvation? How to recover from starvation?
-
+- Static and dynamic memory allocation and followup questions on stack and heap.
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
 
@@ -505,7 +506,7 @@ need to find fastest 3 horses. What is the minimum number of races do you requir
 - You are given 8 batteries and 1 torch. 4 batteries are working and 4 are dead. The torch
   accommodates 2 batteries. If both the batteries are working then the torch will glow otherwise not.
  What is the minimum number of times you need to switch the torch to find out 2 working batteries? 
-- 
-
+- How to prevent multiple object instantiations of a class ?
+- Explain the math behind gradient descent ?
 
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .

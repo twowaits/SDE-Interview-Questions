@@ -13,3 +13,8 @@ ____
 - You are given 2 Linked List where each List represents a number, i.e, if the linked list of length 3 is represented as 2->4->1, than it represents the number 241. You need to implement a function that computes the sum of these 2 numbers(represented as a linked list) and the resultant number should also be represented as a linked list.
 - Implement a function that accepts two integers arrays 'arr1' and 'arr2' of sizes n and m respectively as its argument to find and return the sum of all uncommon elements in two arrays(elements which are present in only one of the array). Return -1 if both arrays are null. If one of the array is null then return sum of all elements of the other array.
 - A function accepts 2 int arrays - value array 'valarr' and index array 'indexarr', both of length 'l', as its arguments. Implement the function to permute the given value array according to the index array provided. Return the modified value array from the function.
+- Given a string of consecutive digits and a number Y, the task is to find the number of minimum sets such that every set follows the below rule:
+	1. Set should contain consecutive numbers
+	1. No digit can be used more than once.
+	1. The number in the set should not be more than Y.
+
