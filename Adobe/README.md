@@ -21,6 +21,15 @@ ____
 - Reverse Level Order Traversal
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
+- Validate if a given string is numeric.
+  Examples: </br>
+          "0" => true </br>
+          " 0.1 " => true </br>
+          "abc" => false </br>
+          "1 a" => false </br>
+          "2e10" => true </br>
+  Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
