@@ -12,6 +12,8 @@ ____
 - Reverse the each word of the given paragraph.
 - WAP to find height of BST.
 - Form the maximum number from the elements of the array.
+- Write a code to swap adjacent elements in a linked list (both iteratively and recursively).
+- Write a code to remove two consecutive same numbers from a linked list (both iteratively and recursively).
 ----
 <b name="tech">Technical Interview Questions</b>
 
