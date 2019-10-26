@@ -21,6 +21,7 @@ ____
 - Reverse Level Order Traversal
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
+- K’th Smallest/Largest Element in Unsorted Array
 - Validate if a given string is numeric.
   Examples: </br>
           "0" => true </br>
