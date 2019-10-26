@@ -74,14 +74,13 @@ Find a common meeting place which minimises the sum of the travel times of all t
 
   For example, if she's got 6 coins, she can create a stairase with 1 coin in the top row, 2 in the second and 3 in the third. She can complete 3 rows. It would take atleast 4 more coins, 10 coins total, for her to be able to create a 4th complete row. 
 
-- Given an array of n integers.
-- The problem is to find maximum length of the subsequence with difference between adjacent elements as either 0 or 1.
+- Given an array of n integers. The problem is to find maximum length of the subsequence with difference between adjacent elements as either 0 or 1.
 
-Input : arr[] = {2, 5, 6, 3, 7, 6, 5, 8}
+    Input : arr[] = {2, 5, 6, 3, 7, 6, 5, 8}
 
-Output : 5
+    Output : 5
 
-The subsequence is {5, 6, 7, 6, 5}. 
+    The subsequence is {5, 6, 7, 6, 5}. 
 
 ----
 <b name="tech">Technical Interview Questions</b>
