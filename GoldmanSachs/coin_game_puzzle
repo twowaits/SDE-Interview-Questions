@@ -1,0 +1,9 @@
+Suppose you and me are playing a game on a round table and we both have an infinite number of coins.
+
+The rules are as follows:
+• It is a turn-based game, so you and I take turns alternatively (1coin per turn)
+• We have to place the coin on the table and coins cannot be put on top of each other.
+• Coins may not be moved once put on the table.
+• if there isn’t any room to put coins on the table, the person who placed the last possible coin wins.
+
+So if I give you the opportunity to go first, which move you’ll start with to ensure victory?
