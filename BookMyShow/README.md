@@ -11,13 +11,13 @@
 ____
 <b name="coding">Coding round questions</b><br/>
 
-- Given two strings, return minimum no of modifications to convert one string into anagram of other.  
-- Given preorder traversal of a tree, check if it is the pre order traversal of a BST  
+- Given two strings, return minimum no of modifications to convert one string into an anagram of others.  
+- Given preorder traversal of a tree, check if it is the pre-order traversal of a BST  
 - Given a number n, we want to reduce this number to zero. Return minimum no of operations to be performed.  
 A particular bit of a number can be changed to zero by only one of the two operations available at a time,  
-	- if (i+1)th bit is 1 and all the bits from (i+2)th bit to the least significant bit is zero.  
-	- least significant bit can be toggled
-- Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
+    - if (i+1)th bit is 1 and all the bits from (i+2)th bit to the least significant bit is zero.  
+    - the least significant bit can be toggled
+- Given an expression string exp, write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
 
 ----
 <b name="tech">Technical Interview Questions</b>
@@ -41,9 +41,9 @@ A particular bit of a number can be changed to zero by only one of the two opera
 <i><u name="misc">Miscellaneous</u></i>
 
 - Questions on asynchronous Javascript.
-	- Promises
-	- Async/await
-	- Is Nodejs singe-threaded?  
-	- Javascript event loop
+    - Promises
+    - Async/await
+    - Is Nodejs singe-threaded?  
+    - Javascript event loop
 - Phone number validation along with all use cases
 

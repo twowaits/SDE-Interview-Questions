@@ -10,7 +10,7 @@ ____
 - Program for Binary To Decimal Conversion
 - Check if a given array can represent Preorder Traversal of Binary Search Tree
 - Sort an array of 0s, 1s and 2s
-- Check if a number is Palindrome
+- Check if a number is a Palindrome
 - Pascal's Triangle
 - Trapping Rain Water
 - Count Inversions in an array | Set 1 (Using Merge Sort)

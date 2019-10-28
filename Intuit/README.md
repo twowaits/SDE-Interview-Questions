@@ -5,7 +5,7 @@
 * [References](#ref)
 ____
 <b name="coding">Coding round questions</b><br/>
-- You have been two integers n and m where n is the size of the array and m is the number of the edges. The next line contains an array of size n and next m lines contains two integers x and y each which represents that there exists a bidirectional edge between x and y. We have to output the number of permutations of the array which are lucky. A permutation is said to be lucky if for every Vi in the array there exists an edge between Vi and Vi+1.
+- You have been two integers n and m where n is the size of the array and m is the number of the edges. The next line contains an array of size n and next m lines contain two integers x and y each which represents that there exists a bidirectional edge between x and y. We have to output the number of permutations of the array which are lucky. A permutation is said to be lucky if for every Vi in the array there exists an edge between Vi and Vi+1.
 
 
 
@@ -27,7 +27,7 @@ ____
 
 <br/>
 
-- You have been given a mXn matrix and an integer k as input. You have to print the count of all the submatrices of the current matrix whose sum is divisible by k.
+- You have been given an mXn matrix and an integer k as input. You have to print the count of all the submatrices of the current matrix whose sum is divisible by k.
 
     Eg Input: 2 2 2 Output: 5 ( [1,3], [2,4], [2], [4], [1,2,3,4] )
 
