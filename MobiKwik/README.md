@@ -24,6 +24,7 @@ ____
       PUSH d: put the new value(d) after "peak", then print the value of "peak".
       INC x d : add the new value(d) from index 0 to x elements, then print
                 the value of "peak".
+- Given a graph of connected and unconnected cities and cost for connecting unconnected cities were provided and we were asked to find minimum cost to connect all cities.
 ----
 <b name="tech">Technical Interview Questions</b>
 
@@ -82,3 +83,5 @@ ____
 - What is the size of an empty class in C++ and Java? Why is it not zero? sizeof(); returns 1 in the case of C++.
 - Explain compile time polymorphism and runtime polymorphism.
 - What is the reason for single inheritance in Java?
+- What is the reason for single inheritance in Java ?
+- How to compute 33/5 without using ‘/’, ‘%’ and ‘*’ operator.
