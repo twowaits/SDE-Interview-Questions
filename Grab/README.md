@@ -106,4 +106,4 @@ ____
 ----
 <b name="refer">References</b>
 <br/>
-- Reference for: the number of heaps from n-distinct integer: https://www.geeksforgeeks.org/number-ways-form-heap-n-distinct-integers/
+- <a href="https://www.geeksforgeeks.org/number-ways-form-heap-n-distinct-integers">Geeksforgeeks</a>
