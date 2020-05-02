@@ -16,24 +16,24 @@ ____
   [2]->[4]->[5]->[7]->[3]->[7]
   ```
 - Find the count of all perfect squares between two numbers a and b.
-- Given an array of N integers, find the longest leading fragment of array which contains equal no. of X and Y. Expected time complexity is O(n).
-- There're 3 kinds of bus ticket.
+- Given an array of N integers, find the longest leading fragment of the array which contains equal no. of X and Y. Expected time complexity is O(n).
+- There're 3 kinds of the bus ticket.
       1: ticket 1 cost 2 and can be used for a day.
       2: ticket 2 cost 7 and can be used for a consecutive 7 days.
       3: ticket 3 cost 25 can be used for a month. Assume month here means 30 consecutive days.
 
-  Now there's a array filled with elements. Each element value is a date for a person to travel. This array has already been sorted in ascending order, like {1,3,4,5,11,12,23,24,30}.
-  Obviously the final day is 30th and first day is 1st.
+  Now there's an array filled with elements. Each element value is a date for a person to travel. This array has already been sorted in ascending order, like {1,3,4,5,11,12,23,24,30}.
+  The final day is 30th and the first day is 1st.
 
-  So for any given array from a person to travel, how can this person cost least ?
-- Given N rows of seats in a movie theater, each row with seats labeled A to K some seats are reserved. A 3 person family want seats next to each other (seats across aisle is not allowed), return all available options.
+  So for any given array from a person to travel, how can this person cost least?
+- Given N rows of seats in a movie theatre, each row with seats labelled A to K some seats are reserved. A 3 person family want seats next to each other (seats across the aisle is not allowed), return all available options.
 
      Reserved seat will be given like "1A 2B 40G".
-- Design a class to calculate moving average of last N numbers in a stream of real numbers.
+- Design a class to calculate the moving average of last N numbers in a stream of real numbers.
 - Format a string of numbers to display a currency - example" "1234.678" to "1,234.68".
 - Given an array find the next greater element.
 - Find the distance between any two nodes of the tree.
-- There is NPM JSON API for getting NPM packages info. For example the following URL allows for getting information about the latest version of "forever" package:
+- There is NPM JSON API for getting NPM packages info. For example, the following URL allows for getting information about the latest version of "forever" package:
   http://registry.npmjs.org/forever/latest
   This request will result in a JSON, containing many fields, including dependencies field:
   ```dependencies: {
@@ -52,13 +52,13 @@ ____
 
   In a correct implementation, getAllDependencies("forever") should return an array with length about 200+ (as of the time we wrote this question and might be different in the future).
 
-  Include a list of tools that needs to be installed to run your code and instructions on how to run your program.
+  Include a list of tools that need to be installed to run your code and instructions on how to run your program.
   
   <i><u>NOTE:</u></i>
   
-  1. Don’t try to code your solution in browser environment, response from NPM API will not pass CORS checks in browser.
+  1. Don’t try to code your solution in a browser environment, the response from NPM API will not pass CORS checks in the browser.
   2. You should not care about package versions (only need the latest).
-  3. You should not care about development dependencies.
+  3. You should not care about the development of dependencies.
   4. The function should return the array (or a promise of the array if your function is async), instead of just printing the result.
   
   <i><u>Base level expectations:</u></i>
@@ -71,22 +71,22 @@ ____
   
   Use of concurrency
 - Find the total number of heaps that could be formed with n distinct integers. It has a dynamic programming approach.
-
+- Write a program which takes JSON as input and gives prettified JSON.
 
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
-<i><u name="dsalg">Data Structures and Algorithms</u></i>
+<i><u name="dialogue">Data Structures and Algorithms</u></i>
 - Minimum Element in Stack.
-- Top view of tree.
+- Top view of the tree.
 - Flip the ith bit without using ~.
 - Queue using two stacks.
 -  Right view of a binary search tree.
 -  Find out the last nth node in a linked list.
-- Write code for column wise tree traversal.
+- Write code for column-wise tree traversal.
 - Reverse a sentence of words.
 - How do you check that a given binary tree is a valid balanced binary search tree?  
-- You receive a bit stream (0 and 1). Continuously receive a stream of bit, each time, you have to determine whether the current value is divisibility by 3 and print True or False.
+- You receive a bitstream (0 and 1). Continuously receive a stream of bit, each time, you have to determine whether the current value is divisibility by 3 and print True or False.
 - Given an array of unsorted positive integers, find the length of maximum subarray containing consecutive integers.
 
 <br/>
@@ -96,14 +96,14 @@ ____
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
 
-- What is the use of join() and yield() in Thread.
+- What is the use of join() and yield() in Thread?
 - What is a singleton class and how to protect it from reflection?
 - Explain JVM architecture.
-- What is Stack Frame ?
+- What is a Stack Frame?
 - What are dockers and containers?
 
 
 ----
 <b name="refer">References</b>
 <br/>
-- Reference for: the number of heaps from n-distinct integer: https://www.geeksforgeeks.org/number-ways-form-heap-n-distinct-integers/
+- <a href="https://www.geeksforgeeks.org/number-ways-form-heap-n-distinct-integers">Geeksforgeeks</a>
