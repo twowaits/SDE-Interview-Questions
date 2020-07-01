@@ -1,4 +1,5 @@
-# Twitter Interview Questions
+
+# Atlassian Interview Questions
 * [Coding Round Questions](#coding)
 * [Technical Interview Questions](#tech)
    * [Data Structures and Algorithms](#dsalg)
@@ -7,14 +8,11 @@
    * [System Design](#design)
    * [Miscellaneous](#misc)
 * [References](#ref)
-
+____
 <b name="coding">Coding round questions</b><br/>
-- Given a tuple for eg.(a,b,c) Output:  (*, *, *), (*, *, c), (*, b, *), (*, b, c), (a, *, *), (a, *, c), (a, b, *), (a, b, c) 
-- Convert infix expression into postfix
-- Write code that walks through all source code starting from a root directory and create a histogram of the number of characters per line across all files.
-- "Critique" a snippet of code pasted on collabedit.
-- Given an array with all elements sorted on each individual row and column find the K-th smallest one.
-- Implement a hast table.
+- Two strings are anagrams if they are permutations of each other. For example, “aaagmnrs” is an anagram of “anagrams”. Given an array of strings, remove each string that is an anagram of an earlier string, then return the remaining array in sorted order.
+
+- Given an array of n points in the plane, and the problem is to find out the closest pair of points in the array. 
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -22,8 +20,6 @@
 
 <br/><br/>
 <i><u name="dbms">DBMS</u></i>
-
-
 
 <br/>
 <br/>

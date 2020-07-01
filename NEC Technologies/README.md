@@ -16,13 +16,13 @@ ____
 - Write a program to convert infix to postfix.
 - Write a program to print transpose of a given matrix.
 - Given a 2D array, find the maximum sum subarray in it. 
-- Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
+- Given a binary search tree, write a function kth smallest to find the kth smallest element in it.
 - Given a text file, I want the words to be scanned from it, along with their occurrences, sort them in descending order, & display the top 10 words.
-- Find the second largest number.
-- Find whether two strings are anagram of each other.
+- Find the second-largest number.
+- Find whether two strings are an anagram of each other.
 - Find missing number unsorted contiguous array.
-- Find Number of common Guests in all parties if user give the input in the following format.
-The guests list for parties is in one line separated by Comma(,).
+- Find Number of common Guests in all parties if the user gives the input in the following format.
+The guest's list for parties is in one line separated by Comma(,).
      ```
      
       Input: 122,444,2223,122,1111,122,2233,123,333,333,444,
@@ -48,27 +48,27 @@ The guests list for parties is in one line separated by Comma(,).
 - Write a program in C/C++ to sort an Array in O(n).
 - WAP to reverse a linked list.
 - Implement queue.
-- What are the advantages of doubly linked list.
+- What are the advantages of a doubly linked list?
 - Various types of Hashing-Linear, Quadratic and Mid-Square.
 - Decimal to Binary program using recursion.
 - Find the largest Number of Array using recursion.
 - WAP to sort a Linked List.
 - Program for converting Little to Big Endian.
-- Find the center element of a linked list?
-- Print left view of Binary Search Tree.
-- Implement circular linked list.
-- Write a program on pallindrome linked list and stack implementation using linked list.
-- Program to remove duplicates from linked list.
-- Program to detect if there is any loop in linked list.
-- Write program for maximum of 4 numbers in good readable, optimized code.
+- Find the centre element of a linked list?
+- Print left the view of Binary Search Tree.
+- Implement a circular linked list.
+- Write a program on palindrome linked list and stack implementation using a linked list.
+- Program to remove duplicates from the linked list.
+- Program to detect if there is any loop in the linked list.
+- Write a program for a maximum of 4 numbers in good readable, optimized code.
 
 <br/><br/>
 <i><u name="dbms">DBMS</u></i>
 
 - Database design using Normalization.
-- What are DBMS, RDBMS and ORDBMS ?
+- What are DBMS, RDBMS and ORDBMS?
 - What is DDL, DML and DCL?
-- What is clustered indexing?
+- What has clustered indexing?
 - Transaction and normalisation.
 
 <br/>
@@ -76,10 +76,10 @@ The guests list for parties is in one line separated by Comma(,).
 <i><u name="os">Operating System</u></i>
 
 - Define Semaphores, Fragmentation, Normalization?  
-- Discuss about Deadlock, Cyclic wait.
+- Discuss Deadlock, Cyclic wait.
 - Paging and segmentation.
 - What is thrashing?
-- What is the difference between mutex and binary semaphore?
+- What is the difference between a mutex and binary semaphore?
 - Can you name some IPC(Inter-process communication) mechanism?
 
 <br/>
@@ -88,19 +88,19 @@ The guests list for parties is in one line separated by Comma(,).
 
 - How to implement a class in C?
 - Difference between C and C++.
-- What is template ?
+- What is a template?
 - Elaborate upon the fact of inheritance in C structures.
-- How can you make the same variable accessible to two C programs ?
+- How can you make the same variable accessible to two C programs?
 - Define Synchronization, Desynchronization, Interim, Manipulation(Java).
 - Name the technologies to store Sequential Files.
 - Difference between exe and dll.
 - Discussion about Volatile(in C).
 - Difference between const, const pointer, const to pointer(in C).
-- What is virtual function in C++? What is pure virtual function?
-- What is dual core, cache m/m, throughput of processors.
+- What is a virtual function in C++? What is a pure virtual function?
+- What is dual-core, cache m/m, the throughput of processors?
 - Abstract class and Interface in Java.
-- What is difference between virtual and static class.
-- Differentiate between Call by value, call by address, call by refrence.
+- What is the difference between virtual and static class?
+- Differentiate between Call by value, call by address, call by reference.
 - Implement operator overloading in C++?  
 
   

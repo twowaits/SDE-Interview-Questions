@@ -17,7 +17,7 @@ ____
 <kbd>Bipartite-Graph</kbd>
 - Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes.
   It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe.
-  The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore ,then it is able to inspect the connected pipes. However, we cannot observe every pipe because the length of endoscope is limited.
+  The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected, if the length of the endoscope is long enough to explore,  then it can inspect the connected pipes. However, we cannot observe every pipe because the length of the endoscope is limited.
 
   When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kind of pipes, and description for each pipe are shown below:
   
@@ -32,12 +32,12 @@ ____
    | 6    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/6.png ) | Down, Left            |
    | 7    | ![](https://github.com/rishabh115/InterviewQuestions/raw/master/Samsung/res/7.png ) | Up, Left              |
 
-   When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore.
+   When the map of the groundwater pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of the pipe which are available to explore. Length of endoscope means the range up to which endoscope can explore.
      #### Input
-     In the first line, T, the number of total test cases is given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the ground water pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines information of the map of ground water pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
+     In the first line, T, the number of total test cases are given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the groundwater pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines, information about the map of the groundwater pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
 
      #### Output
-     Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to  observe using the endoscope.
+     Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to observe using the endoscope.
 
      #### Constraints
      1≤ T ≤100
@@ -49,8 +49,12 @@ ____
      0≤ Y < M
 
      1≤ L ≤ 20
-         
-- Given a graph print either of the set of the vertices that are colored with the same color. And if the graph is not bipartite print “-1”. Test cases also included the cases when a graph is not connected.
+
+- Men's restroom problem: It is a well-researched fact that men in a restroom generally prefer to maximize their distance from already occupied stalls, by occupying the middle of the longest sequence of unoccupied places. For a detailed version, check the following link. <br>
+Link: https://stackoverflow.com/questions/32645046/urinal-algorithm-a-simple-optimization
+
+- Given a graph print either of the set of the vertices that are colored with the same color. And if the graph is not bipartite print “-1”. Test cases also included cases when a graph is not connected.
+
 - You’ll be given a grid as below:
      ```
                             0 1 0 2 0 --> Non highlighted part
@@ -90,16 +94,16 @@ ____
   x x S x x -->bomb        x x S x x
    ```
  Now, we can use the bomb to get out of this situation. After this, we can collect at most 1 coin. So maximum coins=5.
-- A Research team want to establish a research center in a region where they found some rare-elements.They want to make it closest to all the rare-elements as close as possible so that they can reduce overall cost of research over there.It is given that all the rare-element’s location is connected by roads.It is also given that Research Center can only be build on road.Team decided to assign this task to a coder.If you feel you have that much potential.                   
-  Here is the Task :- Find the shortest of the longest distance of research center from given locations of rare-elements.     
-  locations are given in the matrix cell form where 1 represents roads and 0 no road..
+- A Research team want to establish a research center in a region where they found some rare-elements.They want to make it closest to all the rare-elements as close as possible so that they can reduce overall cost of research over there. It is given that all the rare elements location is connected by roads. It is also given that Research Center can only be built on the road. The team decided to assign this task to a coder.If you feel you have that much potential.                   
+  Here is the Task:- Find the shortest of the longest distance of the research centre from given locations of rare-elements.     
+  locations are given in the matrix cell form where 1 represents roads and 0 no road...
   number of rare-element and their location was also given(number<=5)
   and order of square matrix was less than equal to (20).
-- Given a Binary Tree where each node has positive and negative values. Convert this to a tree where each node contains the sum of the left and right sub trees in the original tree. The values of leaf nodes are changed to 0.
+- Given a Binary Tree where each node has positive and negative values. Convert this to a tree where each node contains the sum of the left and right subtrees in the original tree. The values of leaf nodes are changed to 0.
 - Write a function that calculates the day of the week for any particular date in the past or future. A typical application is to calculate the day of the week on which someone was born or some other special event occurred.
-- Given a Binary Tree, write a function that returns the size of the largest subtree which is also a Binary Search Tree (BST). If the complete Binary Tree is BST, then return the size of whole tree.
+- Given a Binary Tree, write a function that returns the size of the largest subtree which is also a Binary Search Tree (BST). If the complete Binary Tree is BST, then return the size of the whole tree.
 - You are given an array of integers which represents positions available and an integer c(cows).   
-  Now you have to choose c positions such that minimum difference between cows is maximized.
+  Now you have to choose c positions such that the minimum difference between cows is maximized.
   ```
   For example,
   1 3 5 8 10
@@ -107,10 +111,10 @@ ____
   output: 4
   1 5 10
    ```
-- Given a Binary Tree and a node x in it, find distance of the closest leaf to x in Binary Tree. If given node itself is a leaf, then distance is 0.
-- Given random points in a 2-D plane, construct a convex polygon with minimum area of covering and which encompasses all the given points.
+- Given a Binary Tree and a node x in it, find the distance of the closest leaf to x in Binary Tree. If given node itself is a leaf, then the distance is 0.
+- Given random points in a 2-D plane, construct a convex polygon with a minimum area of coverage and which encompasses all the given points.
 - Given a graph, find out if it can be colored using 2 colors. If Yes, print numbers of vertices with any one of the colour, followed by such vertices in sorted order. If No just print -1
-- Given a 2 D matrix where 1 represent the places where the frog can jump and 0 represent the empty spaces, the frog can move freely in horizontal direction (on 1’s only) without incurring any cost (jump). A vertical jump from a given point of the matrix to other point on the matrix can be taken (on 1’s only) with cost as the number of jumps taken.        
+- Given a 2 D matrix where 1 represents the places where the frog can jump and 0 represent the empty spaces, the frog can move freely in the horizontal direction (on 1’s only) without incurring any cost (jump). A vertical jump from a given point of the matrix to another point on the matrix can be taken (on 1’s only) with cost as the number of jumps taken.        
   Given a source and destination, the frog has to reach the destination minimizing the cost (jump)
 - Given a directed graph. Check whether a graph contain a cycle or not.
 - Given a level K , you have to find out the sum of data of all the nodes at level K in a binary tree.
@@ -125,15 +129,15 @@ ____
    Given a range form s to e, you need to find number of products that would sell, leaving out the products that contains atmost ’k’ ominous numbers. 
    
  ``
- Input: First line contains the number of test cases, followed buy the range s to e, 1     
+ Input: First line contains the number of test cases, followed by the range s to e, 1     
  ``
-- You are given N unique numbers a1<a2<a3<...an. Find out the count of all possible binary search tress that can be constructed using these numbers.
-For example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there are 14 BST.
+- You are given N unique numbers a1<a2<a3<...an. Find out the count of all possible binary search trees that can be constructed using these numbers.
+For example with 3 elements 1,2,3, there are 5 possible BST and for 1,2,3,4 there are 14 BST.
 
-- Given an NxM (N rows and M columns) integer matrix with non-negative values (0..MAX_INT inclusive). What is the maximum sum from going top left (0, 0) to bottom right (N-1, M-1) ? The condition is that when you're at point (p, q), you can only move to either right (p, q+1) or down (p+1, q).
-- Mr. Kim has to deliver refrigerators to N customers. From the office, he is going to visit all the customers and then return to his home. Each location of the office, his home, and the customers is given in the form of integer coordinates (x,y) (0≤x≤100, 0≤y≤100) . The distance between two arbitrary locations (x1, y1) and (x2, y2) is computed by |x1-x2| + |y1-y2|, where |x| denotes the absolute value of x; for instance, |3|=|-3|=3. The locations of the office, his home, and the customers are all distinct. You should plan an optimal way to visit all the N customers and return to his among all the possibilities.       
-  You are given the locations of the office, Mr. Kim’s home, and the customers; the number of the customers is in the range of 5 to 10.
-  Write a program that, starting at the office, finds a (the) shortest path visiting all the customers and returning to his home. Your program only have to report the distance of a (the) shortest path.
+- Given an NxM (N rows and M columns) integer matrix with non-negative values (0..MAX_INT inclusive). What is the maximum sum from going top left (0, 0) to bottom right (N-1, M-1)? The condition is that when you're at the point (p, q), you can only move to either right (p, q+1) or down (p+1, q).
+- Mr Kim has to deliver refrigerators to N customers. From the office, he is going to visit all the customers and then return to his home. Each location of the office, his home, and the customers is given in the form of integer coordinates (x,y) (0≤x≤100, 0≤y≤100). The distance between two arbitrary locations (x1, y1) and (x2, y2) is computed by |x1-x2| + |y1-y2|, where |x| denotes the absolute value of x; for instance, |3|=|-3|=3. The locations of the office, his home, and the customers are all distinct. You should plan an optimal way to visit all the N customers and return to his among all the possibilities.       
+  You are given the locations of the office, Mr Kim’s home, and the customers; the number of the customers is in the range of 5 to 10.
+  Write a program that, starting at the office, finds a (the) shortest path visiting all the customers and returning to his home. Your program only has to report the distance of a (the) shortest path.
 
     **Constraints**
 
@@ -141,7 +145,7 @@ For example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there
 
     **Input**
 
-    You are given 10 test cases. Each test case consists of two lines; the first line has N, the number of the customers, and the following line enumerates the locations of the office, Mr. Kim’s home, and the customers in sequence. Each location consists of the coordinates (x,y), which is reprensented by ‘x y’.
+    You are given 10 test cases. Each test case consists of two lines; the first line has N, the number of the customers, and the following line enumerates the locations of the office, Mr Kim’s home, and the customers in sequence. Each location consists of the coordinates (x,y), which is represented by ‘x y’.
 
     **Output**
 
@@ -173,11 +177,11 @@ For example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there
 
     #3 366
 
-- Given a graph question. We have to find the loop in the graph if it exist and print the nodes of the loop in sorted order.
+- Given a graph question. We have to find the loop in the graph if it exists and print the nodes of the loop in sorted order.
 
 - You are given an old touch smartphone numbers having dial pad and calculator app.
-  The goal is to type a number on dialpad.
-  Calculator have 1-9 and +, -, \* , /, = as operations. But as phone is old, some of the numbers and some operations can't be touched.
+  The goal is to type a number on dial-pad.
+  Calculator have 1-9 and +, -, \* , /, = as operations. But as the phone is old, some of the numbers and some operations can't be touched.
   But you can always make a number using other numbers and operations. There could be multiple ways of making a number. You have to find minimum operation for making a number.  
   For ex: lets say 1,4,6,7,8,9 works and +,-,* works.
   2,3,5 and / doesn't work.     
@@ -185,21 +189,21 @@ For example with 3 elements 1,2,3 there are 5 possible BST and for 1,2,3,4 there
   If you have to type 5 -> '1+4=' that requires 4 operations. There could be other ways to make '5'.  
     The goal is to find minimum operations.
 
-- There are N pots. Every pots has some water in it. They may be partially filled . Every pot is associated with overflow number O which tell how many minimum no. of stones required for that pot to overflow. The crow know O1 to On(overflow no. for all the pots). Crow wants some K pots to be overflow. So the task is minimum number of stones he can make K pots overflow in worst case.
+- There are N pots. Every pot has some water in it. They may be partially filled. Every pot is associated with overflow number O which tell how many minimum no. of stones required for that pot to overflow. The crow knows O1 to On(overflow no. for all the pots). Crow wants some K pots to be overflow. So the task is a minimum number of stones he can make K pots overflow in the worst case.
 
     Array of overflow no--. {1,...,On}   
     Number of pots--n     
     No of pots to overflow-- k
 
-    Let say two pots are there with overflow no.s {5,58}, and crow has to overflow one pot(k=1). So crow will put 5 stones in pot with  overflow no.(58), it will not overflow, then he will put in pot with overflow no.(5), hence the total no. of stones to make overflow one pot is=10.
+    Let say two pots are there with overflow no.s {5,58}, and the crow has to overflow one pot(k=1). So crow will put 5 stones in a pot with overflow no.(58), it will not overflow, then he will put in the pot with overflow no.(5), hence the total no. of stones to make overflow one-pot is=10.
 
 - You are given 2 convex hulls. Find all the common points that lie in the intersection of these 2 convex hulls.
 
-- There is one spaceship. X and Y co-odinate of source of spaceship and destination spaceship is given. There are N number of warmholes; each warmhole has 5 values.
-  First 2 values are starting co-ordinate of warmhole and after that value no. 3 and 4 represents ending co-ordinate of warmhole and last 5th value is represents cost to pass through this warmhole. Now these warmholes are bi-directional.
+- There is one spaceship. X and Y co-ordinate of the source of spaceship and destination spaceship is given. There is N number of wormholes; each wormhole has 5 values.
+  First 2 values are starting co-ordinate of the wormhole and after that value no. 3 and 4 represent ending co-ordinate of the wormhole and last 5th value is represents a cost to pass through this wormhole. Now, these warmholes are bi-directional.
   Now the to go from (x1,y1) to (x2,y2) is abs(x1-x2)+abs(y1-y2).
-  The main problem here is to find minimum distance to reach spaceship from source to destination co-ordinate using any number of warm-hole. It is ok if you wont use any warmhole.
-- There is an island surrounded by oil mines. You will be given n companies and m oil mines having values. You have to distribute the mines to "n" companies in fair manner. Remember the companies can have oil mines adjacent to each other and not in between of each others.After distributing them compute the difference of oil mines from the company getting highest and company getting lowest. This number should be minimum.(then only the distribution can be termed as fair).
+  The main problem here is to find the minimum distance to reach spaceship from source to destination co-ordinate using any number of warm-hole. It is ok if you won't uses any warmhole.
+- There is an island surrounded by oil mines. You will be given n companies and m oil mines having values. You have to distribute the mines to "n" companies in fair manner. Remember the companies can have oil mines adjacent to each other and not in between of each other.After distributing them compute the difference of oil mines from the company getting highest and company getting lowest. This number should be minimum.(then only the distribution can be termed as fair).
 
 
         Example
@@ -326,45 +330,6 @@ In order to protect the city from the epidemic, create a program that figures ou
 
   #### Output
   For each test case, you should print "Case #T" in the first line where T means the case number. For each test case, you should output how long does it take to contaminate al people on the first row of each test case.     
-
-- Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes. It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe. The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore ,then it is able to inspect the connected pipes. However, we cannot observe every pipe because the length of endoscope is limited.
-
-  When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kind of pipes, and description for each pipe are shown below:
-
-    S.No	Pipe	Connected to
-    1	Up, Down, Left, Right
-    
-    2	Up, Down
-    
-    3	Left, Right
-    
-    4	Up, Right
-    
-    5	Down, Right
-    
-    6	Down, Left
-    
-    7	Up, Left
-
-    When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate  the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore.
-
-  Input
-  In the first line, T, the number of total test cases is given. From the second line, T test cases are given. In the first line of each test case, N, the height of the map of the ground water pipes, M, the width, R, the vertical location of the water pipe where to put in the endoscope, C, the horizontal location of it, and the length of the endoscope L are given. In the following N lines information of the map of ground water pipe is given. Each line has M numbers. Each number (from 1 to 7) means the type of water pipe for that point. 0 means there is no water pipe buried in that place.
-
-  Output
-  Print the respective answer for T test cases in total for T lines. The answer is the number of water pipes which is available to observe using the endoscope.
-
-    Constraints
-    1≤ T ≤100
-
-    1≤ N, M ≤50
-
-    0≤ X < N
-
-    0≤ Y < M
-
-    1≤ L ≤ 20
-
 - Given number of pipes 1..n, Find two largest pipes of maximum length possible. 
 Ex: input - 1,2,3,4,6 
 Output - The maximum length possible is 8. 
@@ -427,6 +392,8 @@ which has following properties:
 - Write a program to create circular queue?  
 - Detect and remove loop in linked list.
 - Design LRU data structure.
+- WAP for finding nth node from the end in the linked list.
+- Explain KMP Algorithm.
 - Zigzag traversal between two singly linked list.
 - There is a N*M matrix where each row is sorted. Find the kth largest element in matrix?
 - Print sum of all prime numbers within a given range.
@@ -436,6 +403,15 @@ which has following properties:
 - Given two polynomials represented by two arrays, write a function that multiplies given two polynomials.
 - What are the disadvantages of stack.
 - Write a program to find when we get stack overflow if we are using recursive functions.
+- How cycle detection is different in directed and undirected graphs? 
+- Write a program to append a C-style string to the end of another C-style string. You were supposed to
+write a function like void concat(char* a , char* b) such that after calling this function a becomes
+a+b(concatenation of a and b). Assume that size of a is greater than length of a+length of b.No
+library functions were to be used. Not even strlen.
+- Why do we need trie data structure?Tell one another technique which does the same job as trie
+with same time complexity? Then why trie is preferred over that one?(The other technique which I
+told was hashing).
+- Given a binary tree remove nodes to make it 'Perfect'. Print all removed nodes.
 <br/><br/>
 <i><u name="dbms">DBMS</u></i>
 
@@ -445,6 +421,7 @@ which has following properties:
 - Primary indexing vs Secondary indexing vs cluster indexing, multilevel indexing.
 - Sparse indexing vs dense indexing.
 - Lossless decomposition vs Lossy decomposition.
+- Describe join operation w.r.t databases. 
 <br/>
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -468,6 +445,17 @@ which has following properties:
 - There is a file and 5 processes. How can you grant access so that
 only 2 process can write to file and 1 can read file at a time .
 - Stack pointer vs Frame pointer.
+- Explain spooling.
+- You are given a process A. The scheduler is using Priority Based Round Robin Technique for
+scheduling various process. Suppose at some instant A was being run and it entered its critical
+section. And there it acquired a resource X. Meanwhile another process B comes to the ready
+queue. B has more priority than A. Now the preemption occurs and scheduler decides to run B and it
+also wants t own resource X to complete some task. Now B won’t be able to take the resource as A
+is already having it but since it has higher priority it must run before A. So is this condition a
+deadlock? Explain with reasons. 
+- What is starvation? Out of priority based round robin scheduling and priority based scheduling , which one is more likely
+to suffer from the problem of starvation? How to recover from starvation?
+- Static and dynamic memory allocation and followup questions on stack and heap.
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
 
@@ -475,6 +463,8 @@ only 2 process can write to file and 1 can read file at a time .
 - Implement you own strcat() function. Dont use string header.
 - Difference between TCP and UDP.
 - What is Inline functions?
+- Make a utility function in C to detect memory leaks in any program given its source code,you are allowed to modify input program   minimally for this purpose.
+- Balloon burst problem.
 - Write a program to allocate a 3D-array dynamically.
 - Write your own typedef operator.
 - What is meant by Early binding and late binding.
@@ -506,10 +496,17 @@ only 2 process can write to file and 1 can read file at a time .
 - Explain MultiLevel inheritance.
 - Memory layout of C program.
 - What is structure padding ?
+- What are memset and memcopy? 
 - What is function pointer?
 - There are some exceptions that cannot be caught by try catch. How to catch such exceptions? Can we prevent our program to crash if we are not able to catch such exceptions.
 - What is name mangling, and how does it work?
 - What does malloc(0) return?
-
+- There are 25 horses and 1 racing track. You can conduct a race of atmost 5 horses on that track. You
+need to find fastest 3 horses. What is the minimum number of races do you require? 
+- You are given 8 batteries and 1 torch. 4 batteries are working and 4 are dead. The torch
+  accommodates 2 batteries. If both the batteries are working then the torch will glow otherwise not.
+ What is the minimum number of times you need to switch the torch to find out 2 working batteries? 
+- How to prevent multiple object instantiations of a class ?
+- Explain the math behind gradient descent ?
 
 ## Feel free to show your love :heart: by putting a star :star: on this project :v: .
