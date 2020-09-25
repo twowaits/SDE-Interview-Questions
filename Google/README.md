@@ -14,6 +14,7 @@ ____
 - What does the *.find()* function of C++ Collection return when the item is not there in the collection.
 - Mention few implementations of Map interface in Java.
 - What is the advantage of using Heapsort over Mergesort?
+- Assume you're using a program which uses dynamic memory allocation and you're working with a libary which does not have malloc function.How would you implement your own malloc function?
 ____
 
 
