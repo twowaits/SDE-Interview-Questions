@@ -45,7 +45,7 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
    1. Main traffic lights have three colors: red, yellow and green.
    1. Pedestrian lights have two colors: red and green.
    1. Pedestrian lights' colors are reversed from main lights:
-     - Main: red/yellow - pedestrian's: green
+     - Main: red/yellow - pedestrian: green
      - Main: green - pedestrian: red
    1. There is a button for pedestrian lights if the button is pushed in advance, pedestrian's lights change colors according to the main ones if the button isn't pushed, pedestrian's lights remain red.
    1. A typical junction has 4 groups of lights.
