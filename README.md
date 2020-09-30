@@ -4,19 +4,59 @@
 
 # Companies
 
+- [Adobe](https://github.com/rishabh115/InterviewQuestions/blob/master/Adobe/README.md)
+
+- [AirAsia](https://github.com/rishabh115/InterviewQuestions/blob/master/AirAsia/README.md)
+
+- [Amazon](https://github.com/rishabh115/InterviewQuestions/blob/master/Amazon/README.md)
+
+- [American Express](https://github.com/rishabh115/InterviewQuestions/blob/master/AmericanExpress/README.md)
+
+- [Atlassian](https://github.com/rishabh115/InterviewQuestions/blob/master/Atlassian/README.md)
+
+- [Book My Show](https://github.com/rishabh115/InterviewQuestions/blob/master/BookMyShow/README.md)
+
+- [Box](https://github.com/rishabh115/InterviewQuestions/blob/master/Box/README.md)
+
 - [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
 
+- [Facebook](https://github.com/rishabh115/InterviewQuestions/blob/master/Facebook/README.md)
+
+- [Flipkart](https://github.com/rishabh115/InterviewQuestions/blob/master/Flipkart/README.md)
+
+- [Google](https://github.com/rishabh115/InterviewQuestions/blob/master/Google/README.md)
+
 - [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
+
+- [Groupon](https://github.com/rishabh115/InterviewQuestions/blob/master/Groupon/README.md)
+
+- [Intuit](https://github.com/rishabh115/InterviewQuestions/blob/master/Intuit/README.md)
+
+- [LinkedIn](https://github.com/rishabh115/InterviewQuestions/blob/master/LinkedIn/README.md)
+
+- [Microsoft](https://github.com/rishabh115/InterviewQuestions/blob/master/Microsoft/README.md)
 
 - [MobiKwik](https://github.com/rishabh115/Interview-Questions/blob/master/MobiKwik/README.md)
 
 - [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
 
+- [Netflix](https://github.com/rishabh115/InterviewQuestions/blob/master/Netflix/README.md)
+
+- [Ola Cabs](https://github.com/rishabh115/InterviewQuestions/blob/master/Ola%20Cabs/README.md)
+
+- [Palantir](https://github.com/rishabh115/InterviewQuestions/blob/master/Palantir/README.md)
+
 - [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
 
 - [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
 
+- [Thoughtworks](https://github.com/rishabh115/InterviewQuestions/blob/master/Thoughtworks/README.md)
+
+- [Twitter](https://github.com/rishabh115/InterviewQuestions/blob/master/Twitter/README.md)
+
 - [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
+
+- [Walmart Labs](https://github.com/rishabh115/InterviewQuestions/blob/master/Walmart%20Labs/README.md)
 
 - [Yatra.com](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
 
