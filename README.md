@@ -22,7 +22,7 @@
 
 - [Zomato](https://github.com/rishabh115/InterviewQuestions/blob/master/Zomato/README.md)
 
-- [Amazon](https://github.com/durgesh0187/SDE-Interview-Questions/tree/master/Amazon/README.md)
+- [Amazon](https://github.com/durgesh0187/InterviewQuestions/blog/master/Amazon/README.md)
 
 #### Note:
      This repo is for educational purposes only.
