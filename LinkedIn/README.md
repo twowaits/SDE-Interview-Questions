@@ -1,12 +1,8 @@
-LinkedIn Interview Questions
-
-Online Coding Round
-Interview Round 1
-Interiew Round 2
-Interview Round 3 (HR + Technical)
 
 
-Online Coding Round
+# LinkedIn Interview Questions
+
+## Online Coding Round
 1) Given a binary search tree and a key, if key is found in tree, return 1 else -1.
 
 2) Given a string, find the number of distinct substrings (should optimise time and space complexity)
@@ -15,7 +11,7 @@ Online Coding Round
 
 
 
-Interview 1:
+## Interview Round 1
 1) Given a boolean expression, find the number of ways to parenthesise it so that it evaluates to true.
 
 2) Optimal Strategy for a Game.
@@ -25,14 +21,13 @@ Interview 1:
 3) Given n stairs , you climb 1 , 2 or 3 stairs at a time . Find the number of ways to reach the nth step.
 
 
-Interview 2:
+## Interview Round 2
 1) Given the pointer to the root of the tree and two values val1 and val2 . Find the length of path between the values val1 and val2 in the binary tree. { handle corner cases where both the values are on the same path}
 
 2) Given a mapping between numbers and alphabets. find the number of ways to decode a sequence of numbers 
 
 
-
-Interview 3:
+## Interview Round 3 (HR + Technical)
 1) Given a matrix of 0 s and 1 s Find the number of connected components having 1s 
 
 2) Given a tree check if it is a binary search tree or not constraints: space complexity O(1)
