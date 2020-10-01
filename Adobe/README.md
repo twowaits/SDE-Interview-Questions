@@ -3,6 +3,9 @@
 * [Coding Round Questions](#coding)
 * [Technical Interview Questions](#tech)
    * [Data Structures and Algorithms](#dsalg)
+   * [DBMS](#dbms)
+   * [Operating System](#os)
+   * [Miscellaneous](#misc)
 * [References](#ref)
 ____
 <b name="coding">Coding round questions</b><br/>
@@ -35,5 +38,36 @@ ____
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
+- Explain quick sort
+- Implement a circular linked List where the values ​​of the nodes alternate between positive and negative. Ex: " 1-> -2 -> 3 -> -4 -> 1" 
+- How to remove a key in a leaf node without causing underflow in a B-tree ?
+- Explain FIFO
+- What is the advantage of the Heap over the Stack?
+- What is the minimum number of nodes that a binary tree can have?
+- How is Huffman's algorithm used?
+- What is a priority queue?
+- Pointers allocate memory for data storage. True or False?
+
 <br/>
+<i><u name="dbms">DBMS</u></i>
+
+- What is the purpose of normalization in DBMS?
+- What are the main differences between Primary key and Unique Key?
+- What is meant by trigger?
+- What is 2NF in the DBMS?
+- What is a degree of Relation?
+
 <br/>
+<i><u name="os">Operating System</u></i>
+
+- Give an example of deadlock
+- Give an example of a strategy to synchronize threads
+
+<br/>
+<i><u name="misc">Miscellaneous</u></i>
+
+- What are the disadvantages of file processing systems?
+- Explain counting sort
+- Can Binary Search be used for linked lists?
+- What are Red-Black Trees?
+- What are Infix, Prefix, Postfix notations?
