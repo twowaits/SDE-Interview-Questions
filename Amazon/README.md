@@ -23,6 +23,9 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Given an array consisting many inner arrays, flatten the array into one:
   example: input: [[6,4,7,[9,5,4,[2,4,8]]],[2,2,7],[9,0,7,[9,3,1,8,5]]]
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
+- A positive integer is magical if it is divided by either A or B. Return the N-th magical number. Since the answer may be very large, Return it modulo 10^9 + 7.
+  example: input: N=1, A=2, B=3
+           output: 2
 </br>
 
 ----
