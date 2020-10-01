@@ -30,6 +30,9 @@ ____
           "1 a" => false </br>
           "2e10" => true </br>
   Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+ - Implement LRU cache
+ - Find the numeric value of the integer passed as a string
+ - Search an element in an array rotated unknown number of times.
 
 ----
 <b name="tech">Technical Interview Questions</b>
