@@ -17,16 +17,16 @@ ____
 - Given an input string, reverse the string word by word.
     ```
     For example,
-    Givens = "the sky is blue",
+    Given = "the sky is blue",
     return "blue is sky the".
     ```
 - Find the maximum sum of the subarray.
 
 - We define a `k-subsequence` of an array as follows:
 
- 1) it is a subsequence of consecutive elements in the array.
+ 1) It is a subsequence of consecutive elements in the array.
 
- 2) the sum of the subsequence's elements s is evenly divisible by k`(i.e. s % k == 0)`.  
+ 2) The sum of the subsequence's elements s is evenly divisible by k`(i.e. s % k == 0)`.  
   Given an integer and input array, find out the number of k-subsequences.
   Example: k=3 and array be `[1 2 3 4 1] `
   Output: 4 `({1 2},{1,2,3},{2,3,4},{3})`.  
@@ -69,7 +69,7 @@ Find a common meeting place which minimises the sum of the travel times of all t
   The following N lines will contain two integers saying the x & y coordinate of the i-th person.
   
   Output Format:
-  M M = min sum of all travel times;   
+  M (M = min sum of all travel times)  
 - Ashley has a bunch of coins she wants to arrange into staircases. She starts with a row of 1 coin which goes on top of a row of 2 coins, then 3 coins and so on. Each row should have exactly 1 more coin than the row above it. Determine the number of complete rows of coins in her finished staircase.
 
   For example, if she's got 6 coins, she can create a staircase with 1 coin in the top row, 2 in the second and 3 in the third. She can complete 3 rows. It would take at least 4 more coins, 10 coins total, for her to be able to create a 4th complete row. 
