@@ -24,6 +24,8 @@
 
 - [Amazon](https://github.com/durgesh0187/InterviewQuestions/blog/master/Amazon/README.md)
 
+- [Adobe](https://github.com/durgesh0187/InterviewQuestions/blog/master/Adobe/README.md)
+
 #### Note:
      This repo is for educational purposes only.
      
