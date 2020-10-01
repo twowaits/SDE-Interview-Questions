@@ -6,15 +6,16 @@
 	* [Data Structures And Algorithms](#dsalg)
 	* [Miscellaneous](#misc)
 
-
+____
 <b name="coding">Coding round questions</b><br/>
+
 * Given a binary search tree and a key, if key is found in tree, return 1 else -1.
 
 * Given a string, find the number of distinct substrings (should optimise time and space complexity)
 
 * Given a string, find the number of distinct palindromic substrings (should optimise time complexity)
 
-
+____
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
