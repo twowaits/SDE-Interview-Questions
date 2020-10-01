@@ -1,1 +1,45 @@
 
+# Flipkart Interview Questions
+* [Coding Round Questions](#coding)
+* [Technical Interview Questions](#tech)
+   * [Data Structures and Algorithms](#dsalg)
+   * [DBMS](#dbms)
+   * [Operating System](#os)
+   * [Miscellaneous](#misc)
+* [References](#ref)
+____
+<b name="coding">Coding round questions</b><br/>
+- Paths requiring minimum number of jumps to reach end of array
+- Find the row having a maximum number of 1s in a binary matrix where each row is sorted. 
+- Clone a stack without using extra space. 
+- Design a stack with push pop and find min operations in o(1) time.
+- Explain external merge sorting. And try to optimize it if possible.
+- Given a string s1 and another string s2, what is the smallest substring in s1 that contains all the characters of s2 ? (most efficient solution)
+---
+<b name="tech">Technical Interview Questions</b>
+<br/>
+<i><u name="dsalg">Data Structures and Algorithms</u></i>
+- Given set of words which I have to treat as dictionary as new lexicographic order. I have to learn from set of string as print lexicographic order of each character.
+- Generate n numbers in ascending order which are having given k factors. Discuss various approaches. Discussed on various approaches.
+- Simple dp question that a frog can take 1 or 2 step. Number of ways to reach nth position.
+- Given a string s1 from a dictionary and a string s2 from a dictionary, find the minimum number of steps to transform s1 to s2 under the following conditions:
+  You can change the implementaion of dictionary
+  Every transformation should belong to the dictionary
+  You are given a O(1) library function F(s1,s2) which returns True or False for the query ‘can s2 be obtained from s1 with a single transformation’
+- Convert a BST to sorted doubly linked list without any extra space. 
+
+<i><u name="dbms">DBMS</u></i>
+- what tables would you like to used for online shopping like flipkart. He asked the the primary keys for every table and foreign key if there are any.
+- He then asked me about mapping of these keys and what type of mapping to be used here(one to one, many to many or many to one).
+
+<i><u name="os">Operating System</u></i>
+- Multithreading and its examples
+<br>
+
+<i><u name="misc">Miscellaneous</u></i>
+-  Projects and Internship
+- There are billions of URL given. Come up with a efficient data structure that returns ip address of these urls.
+- Print the boundary of a tree.
+-  Database Mgt System
+- Given a large stream of strings, return the top 10 most frequently occurring string . (Hash map + min heap of size 10 is the solution.)
+-  Trie data structure
