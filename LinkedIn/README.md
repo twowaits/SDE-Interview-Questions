@@ -36,5 +36,5 @@ ____
 * Given a tree check if it is a binary search tree or not constraints: space complexity O(1)
 
 </br>
-<i><u name="misc">Miscellaneous</u></i>
+<i><u name="misc">Miscellaneous</u></i></br>
 * Asked questions on my resume and challenges faced in my project. Other behavioral question.
