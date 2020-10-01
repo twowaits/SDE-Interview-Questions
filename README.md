@@ -26,6 +26,8 @@
 
 - [Adobe](https://github.com/durgesh0187/InterviewQuestions/blog/master/Adobe/README.md)
 
+- [Google](https://github.com/durgesh0187/InterviewQuestions/blog/master/Google/README.md)
+
 #### Note:
      This repo is for educational purposes only.
      
