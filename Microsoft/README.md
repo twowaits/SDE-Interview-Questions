@@ -17,4 +17,4 @@ ____
     1. Set should contain consecutive numbers
     1. No digit can be used more than once.
     1. The number in the set should not be more than Y.
-
+-Write a program to check if a binary tree is BST or not.
