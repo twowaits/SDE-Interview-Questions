@@ -4,6 +4,12 @@
 
 ____
 <b name="coding">Coding round questions</b><br/>
+How would you explain Cloud to your grandmother?
+What is the difference between C++ and Java?
+Explain the concept of big O notation
+How does the internet work?
+Describe what happens an Office 365 user shares a Word doc with another user from a technical standpoint?
+Design an algorithm to highlight relevant documents to a user on their Microsoft Word dashboard.
 
 - Write a program to reverse digits of an integer.
 - Write a function that calculates the day of the week for any particular date in the past or future.
