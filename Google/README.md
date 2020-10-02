@@ -34,3 +34,13 @@ ____
   Sample Input:  {i, like, sam, sung, Samsung, mobile, ice, cream, icecream, man, go, mango}, "ilikesamsungmobile"  <br/>
   Sample Output: I like sam sung mobile
                  I like Samsung mobile
+                
+- You are given a string S ( having lowercase English letters only). In one operation, you can remove the substring “pr” from the string S and get amount X or you can remove the substring “rp” and get the amount Y. 
+Find the maximum amount you can get if you perform zero or more such operations optimally. 
+
+    Note : 
+
+    - Substring of a string S is defined as a continuous sequence of characters in S.
+    - After removing “pr” or “rp”, the order of remaining letters should remain the same.
+- Given an array A of N integers and another array B of M integers (not necessarily distinct). The task is to find the minimum number of elements to be added in B so that A becomes subsequence of B. Note that you can add elements at any position in B. 
+A subsequence is a sequence that can be derived by deleting some or no elements from the sequence without changing the order of remaining elements. 
