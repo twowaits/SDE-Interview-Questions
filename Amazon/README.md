@@ -23,6 +23,10 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Given an array consisting many inner arrays, flatten the array into one:
   example: input: [[6,4,7,[9,5,4,[2,4,8]]],[2,2,7],[9,0,7,[9,3,1,8,5]]]
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
+           
+- Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+- Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and then again from left to right and so on).
 </br>
 
 ----
@@ -61,6 +65,12 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
   - Design a task management system like Trello with the following assumptions:
     1. User can move tasks from one lane to the other and move it back.
     2. This should have a state diagram with many end states.
+    
+  - Design an app which lets user check the next train from her/his current station location (local train station is considered)
+      
+     1. Read the user's current location .
+     2. Show the user next train with the details of the train like which track it comes , whats the destination and so on .
+    
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
