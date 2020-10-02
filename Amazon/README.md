@@ -11,6 +11,12 @@ ____
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
+- Search in a row wise and column wise sorted matrix
+- Given an array of random numbers, move all zeroes to the end of an array. 
+- Given a sorted dictionary (array of words) of an alien language, find the order of characters in the language.
+- Given n ropes of different lengths, we need to connect these ropes into one rope. The cost to connect two ropes is equal to the sum of their lengths. We need to connect the ropes with minimum cost.
+- Given an N-ary tree, find the subtree with the maximum average. Return the root of the subtree.
+- Search an element in a sorted and rotated array
 - Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
 - Given phone digits, print all possible words that can be formed from them.
 - Check if a binary tree is subtree of another binary tree
