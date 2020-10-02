@@ -23,6 +23,9 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Given an array consisting many inner arrays, flatten the array into one:
   example: input: [[6,4,7,[9,5,4,[2,4,8]]],[2,2,7],[9,0,7,[9,3,1,8,5]]]
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
+           
+- Search in a row wise and column wise sorted matrix.Given an n x n matrix and a number x, find the position of x in the matrix if it is present in it.Otherwise, print “Not Found”. 
+  
 </br>
 
 ----
