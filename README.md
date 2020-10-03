@@ -4,9 +4,9 @@
 
 # Companies
 
-- [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
+- [Expedia](Expedia/README.md)
 
-- [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
+- [Grab](Grab/README.md)
 
 - [MobiKwik](https://github.com/rishabh115/Interview-Questions/blob/master/MobiKwik/README.md)
 
