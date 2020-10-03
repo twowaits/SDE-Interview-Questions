@@ -19,7 +19,16 @@ You cannot use division in this problem.
 - Given a linked list and two integers M and N.
   Traverse the linked list such that you retain M nodes then delete next N nodes, continue the same till the end of the linked list.
 For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should return Linked List: 1->2->5->6
+-Given two integer arrays A and B of size N.
+There are N gas stations along a circular route, where the amount of gas at station i is A[i].
 
+You have a car with an unlimited gas tank and it costs B[i] of gas to travel from station i
+to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.
+
+Return the minimum starting gas station’s index if you can travel around the circuit once, otherwise return -1.
+
+You can only travel in one direction. i to i+1, i+2, … n-1, 0, 1, 2.. Completing the circuit means starting at i and
+ending up at i again.
 - Given an array consisting many inner arrays, flatten the array into one:
   example: input: [[6,4,7,[9,5,4,[2,4,8]]],[2,2,7],[9,0,7,[9,3,1,8,5]]]
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
