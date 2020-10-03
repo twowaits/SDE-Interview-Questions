@@ -4,7 +4,15 @@
 
 # Companies
 
+- [Adobe](https://github.com/rishabh115/InterviewQuestions/blob/master/Adobe/README.md)
+
+- [Amazon](https://github.com/rishabh115/InterviewQuestions/blob/master/Amazon/README.md)
+
 - [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
+
+- [Facebook](https://github.com/rishabh115/InterviewQuestions/blob/master/Facebook/README.md)
+
+- [Google](https://github.com/rishabh115/InterviewQuestions/blob/master/Google/README.md)
 
 - [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
 
@@ -13,6 +21,8 @@
 - [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
 
 - [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
+
+- [Paytm](https://github.com/rishabh115/InterviewQuestions/blob/master/Paytm/README.md)
 
 - [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
 
