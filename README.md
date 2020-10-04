@@ -4,33 +4,33 @@
 
 # Companies
 
-- [Adobe](https://github.com/rishabh115/InterviewQuestions/blob/master/Adobe/README.md)
+- [Adobe](Adobe/README.md)
 
-- [Amazon](https://github.com/rishabh115/InterviewQuestions/blob/master/Amazon/README.md)
+- [Amazon](Amazon/README.md)
 
-- [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
+- [Expedia](Expedia/README.md)
 
-- [Facebook](https://github.com/rishabh115/InterviewQuestions/blob/master/Facebook/README.md)
+- [Facebook](Facebook/README.md)
 
-- [Google](https://github.com/rishabh115/InterviewQuestions/blob/master/Google/README.md)
+- [Google](Google/README.md)
 
-- [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
+- [Grab](Grab/README.md)
 
-- [MobiKwik](https://github.com/rishabh115/Interview-Questions/blob/master/MobiKwik/README.md)
+- [MobiKwik](MobiKwik/README.md)
 
-- [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
+- [NEC Technologies](NEC%20Technologies/README.md)
 
-- [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
+- [PayPal](PayPal/README.md)
 
-- [Paytm](https://github.com/rishabh115/InterviewQuestions/blob/master/Paytm/README.md)
+- [Paytm](Paytm/README.md)
 
-- [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
+- [Samsung Research Institute](Samsung/README.md)
 
-- [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
+- [Uber](Uber/README.md)
 
-- [Yatra.com](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
+- [Yatra.com](Yatra.com/README.md)
 
-- [Zomato](https://github.com/rishabh115/InterviewQuestions/blob/master/Zomato/README.md)
+- [Zomato](Zomato/README.md)
 
 #### Note:
      This repo is for educational purposes only.

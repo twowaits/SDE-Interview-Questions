@@ -37,3 +37,7 @@ ____
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
 <br/>
 <br/>
+
+ - Implement LRU cache
+ - Find the numeric value of the integer passed as a string
+ - Search an element in an array rotated unknown number of times.
