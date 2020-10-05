@@ -15,6 +15,14 @@ ____
 - Design a stack with push pop and find min operations in o(1) time.
 - Explain external merge sorting. And try to optimize it if possible.
 - Given a string s1 and another string s2, what is the smallest substring in s1 that contains all the characters of s2 ? (most efficient solution)
+- Given two list of strings, do the following operations of each pair of strings with same index.
+  Operation: compute the minimum no. of changes required to make them anagram(rearrange characters of the first string to make another string).
+  ```
+    Eg: (abc,def) = 3
+        (abc,cde) = 2
+        (aab,bba) = 1
+        (aaa,bbb) = 3
+  ```
 ---
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -27,6 +35,27 @@ ____
   Every transformation should belong to the dictionary
   You are given a O(1) library function F(s1,s2) which returns True or False for the query ‘can s2 be obtained from s1 with a single transformation’
 - Convert a BST to sorted doubly linked list without any extra space. 
+- Given an array of integers, for each element find the smallest element bigger than it and is present to its right. (Expected time complexity O(nlogn)
+- Given a complete binary tree, such that level order traversal is sorted. Find an element K in this tree efficiently. (Obviously better than O(n))
+- Given an array of sorted integers(both positive and negative), you have to find the square array, which contains a square of each element of the given array in sorted order.
+(Expected time complexity O(n))
+- Given an n-ary tree, you have to burn all the leaves first. Now, some new leaves will form so you burn them too. Repeat this process until you burn the root node. Your task is to print all the leaves which burn at a time in one line. 
+  ```
+  Eg :              1
+                  /   \
+                2      3
+              /  \    /  \
+             4    5  6    7
+           /  \
+          8    9
+
+  O/P:	8 9 5 6 7
+        4 3
+        2
+        1	
+  ```
+ - Given an array of integers(both positive and negative), you have to compute the minimum value of abs(sum of all numbers)
+   You can change the sign of any element any number of times.
 
 <i><u name="dbms">DBMS</u></i>
 - what tables would you like to used for online shopping like flipkart. He asked the the primary keys for every table and foreign key if there are any.
