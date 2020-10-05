@@ -11,11 +11,7 @@
 
 - [American Express](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/AmericanExpress)
 
-- [Atlassian](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Atlassian)
-
 - [BookMyShow](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/BookMyShow)
-
-- [Box](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Box)
 
 - [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
 
@@ -26,8 +22,6 @@
 - [Google](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Google)
 
 - [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
-
-- [Groupon](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Groupon)
 
 - [Intuit](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Intuit)
 
@@ -43,19 +37,13 @@
 
 - [Ola Cabs](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Ola%20Cabs)
 
-- [Palantir](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Palantir)
-
 - [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
 
 - [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
 
-- [Thoughtworks](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Thoughtworks)
-
 - [Twitter](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Twitter)
 
 - [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
-
-- [Walmart Labs](https://github.com/Hinal-Srivastava/SDE-Interview-Questions/tree/master/Walmart%20Labs)
 
 - [Yatra.com](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
 
