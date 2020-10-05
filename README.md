@@ -53,5 +53,6 @@ Like this repo ? Contribute new questions this hacktoberfest and be a part of it
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
 - [Career Cup](https://www.careercup.com/)
 - [Glassdoor](https://www.glassdoor.co.in/index.htm)
+- [Leetcode discuss](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=most_relevant&query=Facebook)
 
 
