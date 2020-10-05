@@ -12,6 +12,7 @@ ____
 <br>
 <b name="tech">First Technical Interview</b>
 <br>
+
 - Implement the fastest Sorting technique.
 
 - Given a sentence find the word which has maximum length and is even.
@@ -21,17 +22,21 @@ ____
 <br>
 <b name="techtwo">Second Technical Interview</b>
 <br>
+
 <i>DBMS</i>
+
 - Types Of Keys
 - Indexes and types of Indexes 
 - What is view and where it is stored
 
 <i>OS</i>
+
 - What is deadlock 
 - How to prevent deadlock explain Bankers Algorithem 
 - Disk Scheduling Algorithem
 
 <i>DSA</i>
+
 - Given a stream of data perform addition of the data.
 
 
