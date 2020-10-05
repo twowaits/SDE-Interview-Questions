@@ -34,3 +34,5 @@ ____
   Sample Input:  {i, like, sam, sung, Samsung, mobile, ice, cream, icecream, man, go, mango}, "ilikesamsungmobile"  <br/>
   Sample Output: I like sam sung mobile
                  I like Samsung mobile
+
+- Counting Subarrays : You are given an array that contain N positive integers a1,a2,a3...aN , where all ai are pairwise distinct. For each ai, you are required to determine the number of subarrays such that the minimum value of that subarray is ai. A subarray is a contigious set of elements of an array. For each test case print N space-seperated integers where the i'th element denotes the number of subarrays in which the minimun value is a[i].
