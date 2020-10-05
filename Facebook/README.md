@@ -47,6 +47,15 @@ ____
 - Given a square matrix, turn it by 90 degrees in anti-clockwise direction without using any extra space.
 - Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have same width and the width is 1 unit.
 - Given that integers are read from a data stream. Find median of elements read so for in efficient way. For simplicity assume there are no duplicates. 
+- Given unique array of integers, sort them into wave like sequence (any valid sequence will suffice). Follow up: How'd you handle duplicate numbers? Example: [1, 4, 7, 2] => [1, 4, 2, 7]
+- Given a string, convert it to pig latin which follows these rules: 
+   1. If a word starts with a consonant and a vowel, put the first letter of the word at the end of the word and add "ay."
+   2. If a word starts with two consonants move the two consonants to the end of the word and add "ay."
+   3. If a word starts with a vowel add the word "way" at the end of the word.
+- Given 2 numbers as linked lists, sum them up. Example: (1 -> 2 -> 3 and 4 -> 5 -> 6 gives 5 -> 7 -> 9)
+- Given two words, check if they are isomorphic (can you make both of them with the same letters)
+- Given a string, reduce the string by removing 3 or more consecutive identical characters. You should greedily remove characters from left to right. Example: "aaabbbc" -> "c" 
+- Given two strings s and t , write a function to determine if t is an anagram of s.
 
 <i><u name="dbms">DBMS</u></i>
 
