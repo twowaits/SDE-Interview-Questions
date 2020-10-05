@@ -9,6 +9,7 @@ ____
 
 <b name="quiz">Telephonic Round Questions</b><br/>
 
+- Given a Binary Search Tree (BST) and a range [min, max], remove all keys which are outside the given range.
 - What is the approximate value of 2 to the power of 24?
 - The average and worst-case time complexity of Merge Sort and Quick Sort.
 - What does the *.find()* function of C++ Collection return when the item is not there in the collection.
