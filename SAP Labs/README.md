@@ -5,7 +5,7 @@
 ____
 <b name="coding">Coding round questions</b><br/>
 
-- Given an array of strings dates[], the task is to sort these dates in ascending order.Each date is of the form dd/mmm/yyyy where:
+- Given an array of strings dates[], the task is to sort these dates in ascending order.Each date is of the form dd/mm/yyyy.
 
 - Print pair of numbers from given array having minimum absolute value.
 <br>
@@ -15,8 +15,8 @@ ____
 
 - Implement the fastest Sorting technique.
 
-- Given a sentence find the word which has maximum length and is even.
-  eg: I like to eat banana 
+- Given a sentence find the word which has maximum length and is even.<br>
+  eg: String s= I like to eat banana <br>
   output: banana  
 <br>
 <br>
@@ -36,7 +36,6 @@ ____
 - Disk Scheduling Algorithem
 
 <i>DSA</i>
-
 - Given a stream of data perform addition of the data.
 
 
