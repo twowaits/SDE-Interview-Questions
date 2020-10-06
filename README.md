@@ -1,8 +1,8 @@
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors)
 ![](https://github.com/rishabh115/Interview-Questions/blob/master/thumbnail.png)
 
-# Companies
+# Companies<sup>*</sup>
 
 | | Companies|
 | ------ | ------ |
@@ -15,6 +15,10 @@
 | **U** | [Uber](Uber/README.md) | 
 | **Y** | [Yatra.com](Yatra.com/README.md) | 
 | **Z** | [Zomato](Zomato/README.md) | 
+
+## Announcements👐
+
+There are many unfinished articles in this repo. Feel free to contribute or create the issue. 
 
 #### Note:
      This repo is for educational purposes only. If you are going to contribute, don't do symbolic  contribution. 
