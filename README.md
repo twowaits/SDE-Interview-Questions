@@ -4,23 +4,17 @@
 
 # Companies
 
-- [Expedia](Expedia/README.md)
-
-- [Grab](Grab/README.md)
-
-- [MobiKwik](MobiKwik/README.md)
-
-- [NEC Technologies](NEC%20Technologies/README.md)
-
-- [PayPal](PayPal/README.md)
-
-- [Samsung Research Institute](Samsung/README.md)
-
-- [Uber](Uber/README.md)
-
-- [Yatra.com](Yatra.com/README.md)
-
-- [Zomato](Zomato/README.md)
+| | Companies|
+| ------ | ------ |
+| **E** | [Expedia](Expedia/README.md) |
+| **G** | [Grab](Grab/README.md) | 
+| **M** | [MobiKwik](MobiKwik/README.md) | 
+| **N** | [NEC Technologies](NEC%20Technologies/README.md) | 
+| **P** | [PayPal](PayPal/README.md) | 
+| **S** | [Samsung Research Institute](Samsung/README.md) | 
+| **U** | [Uber](Uber/README.md) | 
+| **Y** | [Yatra.com](Yatra.com/README.md) | 
+| **Z** | [Zomato](Zomato/README.md) | 
 
 #### Note:
      This repo is for educational purposes only. If you are going to contribute, don't do symbolic  contribution. 
