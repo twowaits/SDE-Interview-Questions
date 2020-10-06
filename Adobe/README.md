@@ -22,6 +22,10 @@ ____
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
 - K’th Smallest/Largest Element in Unsorted Array
+- Smallest/highest element in the left/right side (Multiple time asked)
+- Stock span problem
+- Top View of a bst
+- Sort an array by their frequency
 - Validate if a given string is numeric.
   Examples: </br>
           "0" => true </br>
