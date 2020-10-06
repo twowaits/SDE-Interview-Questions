@@ -19,7 +19,7 @@
 #### Note:
      This repo is for educational purposes only. If you are going to contribute, don't do symbolic  contribution. 
      Strictly adhere to contributing guidelines and hacktoberfest rules. Fixing grammar, typos and formatting only
-     is complete non-sense. And non-sense is highly discouraged.
+     is complete nonsense. And nonsense is highly discouraged.
      
 ## Top Contributors ✨
 
