@@ -13,6 +13,8 @@ ____
 - Check if a number is a Palindrome
 - Pascal's Triangle
 - Trapping Rain Water
+- Merge two sorted linked lists II
+- Given a collection of numbers write all possible permutations
 - Count Inversions in an array | Set 1 (Using Merge Sort)
 - Write an Efficient Function to Convert a Binary Tree into its Mirror Tree
 - Find the middle of a given linked list in C and Java
