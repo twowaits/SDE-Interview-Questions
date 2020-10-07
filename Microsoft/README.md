@@ -5,6 +5,7 @@
 ____
 <b name="coding">Coding round questions</b><br/>
 
+- Write a program to check if a binary tree is BST or not.
 - Write a program to reverse digits of an integer.
 - Write a function that calculates the day of the week for any particular date in the past or future.
 - Given a binary tree and data value of a node. The task is to find the sum of cousin nodes of a given node. If the given node has no cousins then return -1.

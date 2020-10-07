@@ -34,3 +34,16 @@ ____
   Sample Input:  {i, like, sam, sung, Samsung, mobile, ice, cream, icecream, man, go, mango}, "ilikesamsungmobile"  <br/>
   Sample Output: I like sam sung mobile
                  I like Samsung mobile
+                 
+- Given two integer arrays A and B of size N.<br>
+  There are N gas stations along a circular route, where the amount of gas at station i is A[i].<br>
+  You have a car with an unlimited gas tank and it costs B[i] of gas to travel from station i<br>
+  to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.<br>
+  Return the minimum starting gas station’s index if you can travel around the circuit once, otherwise return -1.<br>
+  You can only travel in one direction. i to i+1, i+2, … n-1, 0, 1, 2.. Completing the circuit means starting at i and
+  ending up at i again.<br>
+  
+- Given a string A, partition A such that every substring of the partition is a palindrome.<br>
+  Return the minimum cuts needed for a palindrome partitioning of A.<br>
+    Sample Input: "aba"
+    Sample Output: 0 
