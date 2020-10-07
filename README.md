@@ -2,7 +2,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors)
 ![](https://github.com/rishabh115/Interview-Questions/blob/master/thumbnail.png)
 
-# Companies<sup>*</sup>
+# Companies<sup title="Companies whose are articles are properly ready">*</sup>
 
 | | Companies|
 | ------ | ------ |
