@@ -6,6 +6,7 @@
    * [DBMS](#dbms)
    * [Operating System](#os)
    * [System Design](#design)
+   * [Miscellaneous](#misc)
 * [References](#ref)
 
 ____
@@ -41,6 +42,7 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
+
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
 
 - Given two expressions in the form of a tree. Where each node is either a token or an operator. Check if the given expressions are same. Tokens can not be compared i.e their value in not defined. And the operator behaves similar to addition having properties like commutative and associative.
@@ -66,10 +68,13 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Given a matrix find a submatrix with the maximum sum. 
 - Given a row-wise and column-wise sorted matrix find a given element. 
 - Find the lowest common ancestor of a binary tree which has links to its parents.
-
-
 <br/>
+
 <i><u name="dbms">DBMS</u></i>
+
+- Difference between Vertical and Horizontal Scaling.
+- Sharding
+- Indexing in DBMS.
 
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -79,8 +84,8 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Thrashing in OS
 - Difference between virtual addressing and translation lookaside buffer(TLB)
 - As a developer how would you make your programs knowing the fact that the system implements paging.
-
 <br/>
+
 <i><u name="design">System Design</u></i>
 
 - How is a URL shortened?  
@@ -90,10 +95,8 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Design a service or tool that monitor the number of requests per a window time a service agrees to allow. If the number of request exceeds the rate limiter blocks all the excess calls.
 - Design a Restaurant Management System.
 - You are in charge of writing a software for a slot machine. On press of a button, the slot machine should output the roll of 2 dice. Constraints: Do not use the random library and secondly the probability of the dice rolls should be equal.
-
-
 <br/>
-<br/>
+
 <i><u name="misc">Miscellaneous</u></i>
 
 - Projects and Internship
@@ -102,7 +105,8 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Given two very big numbers (each more than 500 digits), multiply them.
 - Three Qualities why we should hire you?
 </br>
-____
+
+----
 <b name="ref">References</b><br/>
 
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
