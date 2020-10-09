@@ -35,4 +35,28 @@ ____
   Sample Output: I like sam sung mobile
                  I like Samsung mobile
 
-- Counting Subarrays : You are given an array that contain N positive integers a1,a2,a3...aN , where all ai are pairwise distinct. For each ai, you are required to determine the number of subarrays such that the minimum value of that subarray is ai. A subarray is a contigious set of elements of an array. For each test case print N space-seperated integers where the i'th element denotes the number of subarrays in which the minimun value is a[i].
+
+- Counting Subarrays : 
+  You are given an array that contain N positive integers a1,a2,a3...aN , where all ai are pairwise distinct. <br>
+  For each ai, you are required to determine the number of subarrays such that the minimum value of that subarray is ai. <br>
+  A subarray is a contigious set of elements of an array. For each test case print N space-seperated integers where the i'th element denotes the number of subarrays in which the minimun value is a[i].<br>
+  <br>
+  
+- Given two integer arrays A and B of size N.<br>
+  There are N gas stations along a circular route, where the amount of gas at station i is A[i].<br>
+  You have a car with an unlimited gas tank and it costs B[i] of gas to travel from station i<br>
+  to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.<br>
+  Return the minimum starting gas station’s index if you can travel around the circuit once, otherwise return -1.<br>
+  You can only travel in one direction. i to i+1, i+2, … n-1, 0, 1, 2.. Completing the circuit means starting at i and
+  ending up at i again.<br>
+  
+- Given a string A, partition A such that every substring of the partition is a palindrome.<br>
+  Return the minimum cuts needed for a palindrome partitioning of A.<br>
+    Sample Input: "aba"
+    Sample Output: 0 
+
+- Counting Subarrays : 
+  You are given an array that contain N positive integers a1,a2,a3...aN , where all ai are pairwise distinct. <br>
+  For each ai, you are required to determine the number of subarrays such that the minimum value of that subarray is ai. <br>
+  A subarray is a contigious set of elements of an array. For each test case print N space-seperated integers where the i'th element denotes the number of subarrays in which the minimun value is a[i].<br>
+  <br>
