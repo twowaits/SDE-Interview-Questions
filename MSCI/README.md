@@ -6,6 +6,8 @@
    * [DBMS](#dbms)
    * [Operating System](#os)
    * [System Design](#design)
+* [References](#ref)
+
 ____
 <b name="coding">Coding round questions</b><br/>
 </br>
@@ -33,6 +35,7 @@ and a scale which you can use only three times, how do you find the false pearl?
 <i><u name="os">Operating System</u></i>
 - Familiarity with Linux.
 - Familiarity with MacOS Terminal.
+- Python and other Object Oriented Programs.
 <br/>
 
 <i><u name="design">System Design</u></i>
@@ -43,4 +46,11 @@ and a scale which you can use only three times, how do you find the false pearl?
 <br/>
 
 <i><u name="misc">Miscellaneous</u></i>
+- There is a movement towards Object Oriented Programming in the firm.
 - Knowledge of the different stock exchanges, financial markets, and what they each trade is a bonus.
+
+----
+<b name="ref">References</b><br/>
+
+- [Paul Masurel](https://fulmicoton.com/)
+- [Investopedia](https://www.investopedia.com/)
