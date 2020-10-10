@@ -15,6 +15,10 @@ ____
 - Mention few implementations of Map interface in Java.
 - What is the advantage of using Heapsort over Mergesort?
 - Assume you're using a program which uses dynamic memory allocation and you're working with a libary which does not have malloc function.How would you implement your own malloc function?
+- which data structure is used to implement DFS and which one is used for BFS?
+- what is the lookup time for a HashSet?
+- Heap is implemented using which data structure?
+- which sorting algorithm is best in terms of time complexity?
 ____
 
 
@@ -47,3 +51,17 @@ ____
   Return the minimum cuts needed for a palindrome partitioning of A.<br>
     Sample Input: "aba"
     Sample Output: 0 
+- Given a map containing employee to manager mappings, find all employees under each manager who directly or indirectly reports to him.<br>
+  For example, consider below employee-manager pairs :<br>
+   Sample Input: A->A<br>
+		 B->A<br>
+ 		 C->B<br>
+		 D->B<br>
+		 E->D<br>
+		 F->E<br>
+   Sample Output: A-> B, D, C, E, F<br>
+		  B-> D, C, E, F<br>
+		  C-><br>
+		  D-> E, F<br>
+		  E-> F<br>
+		  F-><br>
