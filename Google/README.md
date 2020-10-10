@@ -17,7 +17,7 @@ ____
 - Assume you're using a program which uses dynamic memory allocation and you're working with a libary which does not have malloc function.How would you implement your own malloc function?
 - which data structure is used to implement DFS and which one is used for BFS?
 - what is the lookup time for a HashSet?
-- Heap is implemented using which data srtucture?
+- Heap is implemented using which data structure?
 - which sorting algorithm is best in terms of time complexity?
 ____
 
