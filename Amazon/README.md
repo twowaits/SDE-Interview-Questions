@@ -31,9 +31,15 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
+ - There is an infinite stream of Products. Write a program to print top 10 cheapest products at any given point of time. Do it within fixed amount of memory i.e. you can't consume unknown amount of memory. (Hint: Heaps)
+ - Given n fences, WAP to paint them with k colours such that not more than 2 consecutive fences are of same colour.
+ - Suppose there are 2 glasses with capacities 5 litres and 3 litres. The glasses can only be completely filled or completely emptied. The water can be transferred from one glass to another, for eg. 5 ltrs glass can transfer all water to 3 ltrs glass and 2 ltrs of water will be left in 5 ltrs of glass. You cannot partially empty or fill any glass. The goal is to get 4 ltrs of water in any one glass. WAP to do this with n number of glasses with given capacities for each and the final capacity to achieve being k in any 1 glass. Print the least number of steps required to do so.
+ - Given a large 2D array with numbers increasing as you go right or you go down. Convert this into a sorted 1D array in fixed amount of memory. (Hint: Heaps)
 
 <br/>
 <i><u name="dbms">DBMS</u></i>
+- Difference between different type of Normalisation.
+- Difference between SQL and NoSQL
 
 <br/>
 <i><u name="os">Operating System</u></i>
