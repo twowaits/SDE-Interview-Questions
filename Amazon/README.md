@@ -38,8 +38,9 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 
 <br/>
 <i><u name="dbms">DBMS</u></i>
-- Difference between different type of Normalisation.
-- Difference between SQL and NoSQL
+
+ - Difference between different type of Normalisation.
+ - Difference between SQL and NoSQL
 
 <br/>
 <i><u name="os">Operating System</u></i>
