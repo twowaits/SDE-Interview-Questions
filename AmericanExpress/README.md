@@ -19,6 +19,9 @@ ____
   Return the number of pairs of students and subjects.
 - Find LCA of a binary tree.
 - Given two integers A and B, return the number of integers from the range [A,,,B] inclusive that can be expressed as the product of two consecutive integers.
+- Given an integer N, return the maximum possible value obtained by inserting one '5' digit inside the decimal representation of integer N.
+- Write a function that, given a string S consisting of N lowercase letters, returns the minimum number of letters that must be deleted to obtain a word in which every letter occurs a unique number of times. We only care about occurrences of letters that appear at least once in result.
+- Subarray Sum Equals K Problem
 
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -45,3 +48,6 @@ ____
 <i><u name="misc">Miscellaneous</u></i>
 - 3 bulbs and 3 switches puzzle 
 - A bee traveling between two trains puzzle
+
+<b name="references">References</b><br/>
+- Leetcode Discuss
