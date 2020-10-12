@@ -26,6 +26,14 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
  
 - Given two sorted linked lists, merge them so that the resulting linked list is also sorted.
 </br>
+- Amazon would like to know how much inventory exists in their closed inventory compartments. Given a string s
+consisting of items as "*" and closed compartments as an open and close "|", an array of starting indices
+startIndices, and an array of ending indices endIndices, determine the number of items in closed compartments
+within the substring between the two indices, inclusive.
+
+An item is represented as an asterisk ('*' = ascii decimal 42)
+A compartment is represented as a pair of pipes that may or may not have items between them ('|' = ascii decimal 124).
+
 
 ----
 <b name="tech">Technical Interview Questions</b>
