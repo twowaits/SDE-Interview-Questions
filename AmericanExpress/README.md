@@ -18,6 +18,7 @@ ____
 - Given a list of Students and Subjects along with credits of each, a student can select only those subjects whose credits are less than equal to his/her credits.
   Return the number of pairs of students and subjects.
 - Find LCA of a binary tree.
+- Given two integers A and B, return the number of integers from the range [A,,,B] inclusive that can be expressed as the product of two consecutive integers.
 
 <b name="tech">Technical Interview Questions</b>
 <br/>
