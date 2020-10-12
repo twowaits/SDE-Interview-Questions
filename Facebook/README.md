@@ -15,7 +15,7 @@ ____
 (To store them, we should store the value and index of those indexes that have a non-zero value, and then finding the dot product is very straight forward).
 - You have an array of n elements, and a sum. Check if any 2 elements in the array sum to the given sum.
 - Given an array A[] of N numbers and another number x, determine whether or not there exist three elements in A[] whose sum is exactly x.
-
+-You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad. Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad. You are given an API bool isBadVersion(version) which returns whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
 ----
 <b name="coding">Coding round questions</b><br/>
