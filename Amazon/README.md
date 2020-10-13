@@ -25,6 +25,7 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
  
 - Given two sorted linked lists, merge them so that the resulting linked list is also sorted.
+- Given a set of points find the one with the shortest distance from the origin.
 </br>
 
 ----
@@ -41,6 +42,7 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 
  - Difference between different type of Normalisation.
  - Difference between SQL and NoSQL
+ - Define the ACID properties.
 
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -73,3 +75,5 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
+
+ - Describe the main features of object oriented programming.
