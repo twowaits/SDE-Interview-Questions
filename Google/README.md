@@ -8,7 +8,7 @@
    * [DBMS](#dbms)
    * [Operating System](#os)
    * [Design](#design)
-
+* [References](#ref)
 ____
 
 
@@ -101,7 +101,7 @@ From each cell, you can either move to four directions: left, right, up or down.
 -Implement a Generic LRU Cache in java.
 
 -Design a logger system that receive a stream of messages along with its timestamps, each message should be printed if and only if it is not printed in the last 10 seconds.<br>
-	Given a message and a timestamp (in seconds granularity), return true if 	the message should be printed in the given timestamp, otherwise returns 	false.<br>
+	Given a message and a timestamp (in seconds granularity), return true if the message should be printed in the given timestamp, otherwise returns 	false.<br>
 	It is possible that several messages arrive roughly at the same time.<br>
 
 <br/><br/>
@@ -118,8 +118,11 @@ From each cell, you can either move to four directions: left, right, up or down.
 <br/><br/>
 <i><u name="design">Design</u></i>
 
-- You have given a set of points across the globe as latitudes and longitudes ?   How will you determine points which are within a particular mile ?
+- You have given a set of points across the globe as latitudes and longitudes ?  How will you determine points which are within a particular mile ?
 - Can you design data package transfer from London to Tokyo ?
 - Design a distributed system for storing a static set of (key, value) pairs which will behave like a hash table, the user will provide you key and system will return value.
 - Design Algorithm for Lift to get minimum waiting time on each floor ?
 
+<b name="ref">References</b><br/>
+[leetcode.com]
+[https://javarevisited.blogspot.com/2012/01/google-interview-questions-answers-top.html]
