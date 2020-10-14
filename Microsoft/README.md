@@ -1,33 +1,34 @@
-
 # Microsoft Interview Questions
-* [Coding Round Questions](#coding)
-* [Technical Interview Questions](#tech)
-   * [Data Structures and Algorithms](#dsalg)
-   * [DBMS](#dbms)
-   * [Operating System](#os)
-   * [System Design](#design)
-   * [Miscellaneous](#misc)
-* [References](#ref)
 
-____
+- [Coding Round Questions](#coding)
+- [Technical Interview Questions](#tech)
+  - [Data Structures and Algorithms](#dsalg)
+  - [DBMS](#dbms)
+  - [Operating System](#os)
+  - [System Design](#design)
+  - [Miscellaneous](#misc)
+- [References](#ref)
+
+---
+
 <b name="coding">Coding round questions</b><br/>
 
 - Write a program to check if a binary tree is BST or not.
 - Write a program to reverse digits of an integer.
 - Write a function that calculates the day of the week for any particular date in the past or future.
 - Given a binary tree and data value of a node. The task is to find the sum of cousin nodes of a given node. If the given node has no cousins then return -1.
--Given a positive number N. The task is to round N to the nearest multiple of 10. The number can be so big and can contain 1000 of digits.
+  -Given a positive number N. The task is to round N to the nearest multiple of 10. The number can be so big and can contain 1000 of digits.
 - At an ATM Machine, you are given an amount to withdraw and some denominations of the Notes available in the ATM Machine. Find the number of ways in which you can withdraw the amount.
 - You are given 2 Linked List where each List represents a number, i.e if the linked list of length 3 is represented as 2->4->1 then it represents the number 241. You need to implement a function that computes the sum of these 2 numbers(represented as a linked list) and the resultant number should also be represented as a linked list.
 - Implement a function that accepts two integers arrays 'arr1' and 'arr2' of sizes n and m respectively as its argument to find and return the sum of all uncommon elements in two arrays(elements which are present in only one of the array). Return -1 if both arrays are null. If one of the arrays is null then return the sum of all elements of the other array.
 - A function accepts 2 int arrays - value array 'valarr' and index array 'indexarr', both of length 'l', as its arguments. Implement the function to permute the given value array according to the index array provided. Return the modified value array from the function.
 - Given a string of consecutive digits and a number Y, the task is to find the number of minimum sets such that every set follows the below rule:
-    1. Set should contain consecutive numbers
-    1. No digit can be used more than once.
-    1. The number in the set should not be more than Y.
+  1. Set should contain consecutive numbers
+  1. No digit can be used more than once.
+  1. The number in the set should not be more than Y.
 - Given two numbers n,m find a number closest to n and divisible by m.
 - Given a string consisting of only 0,1,A,B,C where A=AND B=OR and C=
-XOR. Calculate the value of the string moving from left to right assuming no order of precedence.
+  XOR. Calculate the value of the string moving from left to right assuming no order of precedence.
 - Find length of longest AP in given set of numbers.
 - Reverse words in a given string
 - Given an array that contains both positive and negative integers, find the product of the maximum product subarray. Expected Time complexity is O(n) and only O(1) extra space can be used.
@@ -35,11 +36,14 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Given two strings, modify 1st string such that all the common characters of the two strings are removed and the uncommon characters of the 2nd string are concatenated with uncommon characters of the 1st string. Eg: String 1 - 'aacdb' , String 2 – 'gafd' & Output – cbgf.
 - Given a linked list, segregate its even and odd position nodes in such a way that odd position nodes before even positioned nodes and even positioned nodes are appended after odd positioned nodes but in a reverse order. Eg: linked list: – 1 -> 2 -> 3 -> 4 -> 5 -> 6 , Output: – 1 -> 3-> 5 -> 6 -> 4-> 2.
 - Given a JSON string find the max depth of the string.
-
+- Given N candies and K people. In the first turn, the first person gets 1 candy, the second gets 2 candies, and so on till K people. In the next turn, the first person gets K+1 candies, the second person gets k+2 candies and so on. If the number of candies is less than the required number of candies at every turn, then the person receives the remaining number of candies. The task is to find the total number of candies every person has at the end.
+- Given a binary matrix of size NxN where 1 denotes that the number i can be converted to j, and 0 denotes it cannot be converted to. Also given are two numbers X( < N)and Y(< N) , the task is to find the minimum number of steps required to convert the number X to Y. If there is no such way possible, print -1.
+- Find the nth node from the end of a singly linked list
 
 </br>
 
-----
+---
+
 <b name="tech">Technical Interview Questions</b>
 <br/>
 
@@ -61,20 +65,28 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - How will you delete a node in a doubly-linked list?
 - Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack.
 - Implement a DS that supports 3 operations.
-    1. Insert
-    2. Delete
-    3. Get Random Element (Return a uniformly random element from the set of elements)
-  It is guaranteed that the elements are unique. Implement the DS such that it supports all these operations in O(1) time.    
-- Given a matrix find a submatrix with the maximum sum. 
-- Given a row-wise and column-wise sorted matrix find a given element. 
+  1. Insert
+  2. Delete
+  3. Get Random Element (Return a uniformly random element from the set of elements)
+     It is guaranteed that the elements are unique. Implement the DS such that it supports all these operations in O(1) time.
+- Given a matrix find a submatrix with the maximum sum.
+- Given a row-wise and column-wise sorted matrix find a given element.
 - Find the lowest common ancestor of a binary tree which has links to its parents.
-<br/>
+- You have three jars that are all mislabeled. One contains peanut butter jelly beans, another grape jelly jelly beans and the third has a mix of both (not necessarily half-half mix).
+How many minimum jelly beans would you have to pull out to find out how to fix the labels on the jars?
+Labels on jars are as follows:
+Jar 1 : Peanut butter
+Jar 2 : Grape
+Jar 3 : P.b. / Grape
+
+  <br/>
 
 <i><u name="dbms">DBMS</u></i>
 
 - Difference between Vertical and Horizontal Scaling.
 - Sharding
 - Indexing in DBMS.
+- What SQL structure is utilized to limit the column values of a table?
 
 <br/>
 <i><u name="os">Operating System</u></i>
@@ -84,18 +96,20 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Thrashing in OS
 - Difference between virtual addressing and translation lookaside buffer(TLB)
 - As a developer how would you make your programs knowing the fact that the system implements paging.
-<br/>
+- Number of Processes with one Fork
+  <br/>
 
 <i><u name="design">System Design</u></i>
 
-- How is a URL shortened?  
+- How is a URL shortened?
 - Define the LRU cache and what data structure would you use to implement it?
 - Questions based on locked transactions in the banking sector. What will happen if 2 transactions are being made from the same account exactly at the same time? What are the different checks made by the bank to keep a check on frauds?
 - Design an elevator system
 - Design a service or tool that monitor the number of requests per a window time a service agrees to allow. If the number of request exceeds the rate limiter blocks all the excess calls.
 - Design a Restaurant Management System.
 - You are in charge of writing a software for a slot machine. On press of a button, the slot machine should output the roll of 2 dice. Constraints: Do not use the random library and secondly the probability of the dice rolls should be equal.
-<br/>
+- Design undo and redo operations.
+  <br/>
 
 <i><u name="misc">Miscellaneous</u></i>
 
@@ -104,11 +118,13 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Extra-curricular activities
 - Given two very big numbers (each more than 500 digits), multiply them.
 - Three Qualities why we should hire you?
-</br>
+- Do you consider yourself successful?
+- What is your greatest strength & weakness?
+  </br>
 
-----
+---
+
 <b name="ref">References</b><br/>
 
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
 - [Leetcode](https://leetcode.com/)
-
