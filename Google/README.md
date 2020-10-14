@@ -7,7 +7,7 @@
    * [Data Structures and Algorithms](#dsalg)
    * [DBMS](#dbms)
    * [Operating System](#os)
-   * [Design](#design)
+   * [Miscellaneous](#misc)
 * [References](#ref)
 ____
 
@@ -121,7 +121,7 @@ You may assume that the intervals were initially sorted according to their start
 <br/><br/>
 
 
-<i><u name="design">Design</u></i>
+<i><u name="misc">Miscellaneous</u></i>
 
 - You have been given a set of points across the globe as latitudes and longitudes. How will you determine points which are within a particular mile ?
 - Can you design data package transfer from London to Tokyo ?
