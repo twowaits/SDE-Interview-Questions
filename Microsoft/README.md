@@ -35,8 +35,8 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Given two strings, modify 1st string such that all the common characters of the two strings are removed and the uncommon characters of the 2nd string are concatenated with uncommon characters of the 1st string. Eg: String 1 - 'aacdb' , String 2 – 'gafd' & Output – cbgf.
 - Given a linked list, segregate its even and odd position nodes in such a way that odd position nodes before even positioned nodes and even positioned nodes are appended after odd positioned nodes but in a reverse order. Eg: linked list: – 1 -> 2 -> 3 -> 4 -> 5 -> 6 , Output: – 1 -> 3-> 5 -> 6 -> 4-> 2.
 - Given a JSON string find the max depth of the string.
-
-
+- Given n dice and each face has value from 1 to x. Calculate the number of ways a value SUM can be obtained by rolling those dice.
+- Evaluate an infix expression in one pass without converting to postfix notation.
 </br>
 
 ----
@@ -68,6 +68,8 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Given a matrix find a submatrix with the maximum sum. 
 - Given a row-wise and column-wise sorted matrix find a given element. 
 - Find the lowest common ancestor of a binary tree which has links to its parents.
+- Partition an array into two disjoit subsets so that they have minimum absolute difference of their sums.
+- Calculate Height of a Binary Tree.
 <br/>
 
 <i><u name="dbms">DBMS</u></i>
@@ -75,7 +77,7 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Difference between Vertical and Horizontal Scaling.
 - Sharding
 - Indexing in DBMS.
-
+- Joins in DBMS
 <br/>
 <i><u name="os">Operating System</u></i>
 
@@ -95,6 +97,7 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Design a service or tool that monitor the number of requests per a window time a service agrees to allow. If the number of request exceeds the rate limiter blocks all the excess calls.
 - Design a Restaurant Management System.
 - You are in charge of writing a software for a slot machine. On press of a button, the slot machine should output the roll of 2 dice. Constraints: Do not use the random library and secondly the probability of the dice rolls should be equal.
+- Design a T9 Keypad predictor. i.e, you just write the numbers and it shows at most 5 suggestions of words that can be formed , or words having this as a prefix.
 <br/>
 
 <i><u name="misc">Miscellaneous</u></i>
