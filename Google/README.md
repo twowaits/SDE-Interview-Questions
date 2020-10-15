@@ -15,6 +15,10 @@ ____
 - Mention few implementations of Map interface in Java.
 - What is the advantage of using Heapsort over Mergesort?
 - Assume you're using a program which uses dynamic memory allocation and you're working with a libary which does not have malloc function.How would you implement your own malloc function?
+- which data structure is used to implement DFS and which one is used for BFS?
+- what is the lookup time for a HashSet?
+- Heap is implemented using which data structure?
+- which sorting algorithm is best in terms of time complexity?
 ____
 
 
@@ -34,3 +38,30 @@ ____
   Sample Input:  {i, like, sam, sung, Samsung, mobile, ice, cream, icecream, man, go, mango}, "ilikesamsungmobile"  <br/>
   Sample Output: I like sam sung mobile
                  I like Samsung mobile
+                 
+- Given two integer arrays A and B of size N.<br>
+  There are N gas stations along a circular route, where the amount of gas at station i is A[i].<br>
+  You have a car with an unlimited gas tank and it costs B[i] of gas to travel from station i<br>
+  to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.<br>
+  Return the minimum starting gas station’s index if you can travel around the circuit once, otherwise return -1.<br>
+  You can only travel in one direction. i to i+1, i+2, … n-1, 0, 1, 2.. Completing the circuit means starting at i and
+  ending up at i again.<br>
+  
+- Given a string A, partition A such that every substring of the partition is a palindrome.<br>
+  Return the minimum cuts needed for a palindrome partitioning of A.<br>
+    Sample Input: "aba"
+    Sample Output: 0 
+- Given a map containing employee to manager mappings, find all employees under each manager who directly or indirectly reports to him.<br>
+  For example, consider below employee-manager pairs :<br>
+   Sample Input: A->A<br>
+		 B->A<br>
+ 		 C->B<br>
+		 D->B<br>
+		 E->D<br>
+		 F->E<br>
+   Sample Output: A-> B, D, C, E, F<br>
+		  B-> D, C, E, F<br>
+		  C-><br>
+		  D-> E, F<br>
+		  E-> F<br>
+		  F-><br>

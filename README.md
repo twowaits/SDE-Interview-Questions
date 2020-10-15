@@ -1,29 +1,29 @@
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors)
 ![](https://github.com/rishabh115/Interview-Questions/blob/master/thumbnail.png)
 
-# Companies
+# Companies<sup title="Companies whose are articles are properly ready">*</sup>
 
-- [Expedia](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
+| | Companies|
+| ------ | ------ |
+| **E** | [Expedia](Expedia/README.md) |
+| **G** | [Grab](Grab/README.md) | 
+| **M** | [MobiKwik](MobiKwik/README.md) | 
+| **N** | [NEC Technologies](NEC%20Technologies/README.md) | 
+| **P** | [PayPal](PayPal/README.md) | 
+| **S** | [Samsung Research Institute](Samsung/README.md) | 
+| **U** | [Uber](Uber/README.md) | 
+| **Y** | [Yatra.com](Yatra.com/README.md) | 
+| **Z** | [Zomato](Zomato/README.md) | 
 
-- [Grab](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
+## Announcements👐
 
-- [MobiKwik](https://github.com/rishabh115/Interview-Questions/blob/master/MobiKwik/README.md)
-
-- [NEC Technologies](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
-
-- [PayPal](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
-
-- [Samsung Research Institute](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
-
-- [Uber](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
-
-- [Yatra.com](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
-
-- [Zomato](https://github.com/rishabh115/InterviewQuestions/blob/master/Zomato/README.md)
+There are many unfinished articles in this repo. Feel free to contribute or create the issue. 
 
 #### Note:
-     This repo is for educational purposes only.
+     This repo is for educational purposes only. If you are going to contribute, don't do symbolic  contribution. 
+     Strictly adhere to contributing guidelines and hacktoberfest rules. Fixing grammar, typos and formatting only
+     is complete non-sense. And non-sense is highly discouraged.
      
 ## Top Contributors ✨
 

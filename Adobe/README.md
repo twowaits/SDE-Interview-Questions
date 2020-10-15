@@ -25,6 +25,10 @@ ____
 - Level order traversal in spiral form
 - Remove duplicates from a sorted linked list
 - K’th Smallest/Largest Element in Unsorted Array
+- Smallest/highest element in the left/right side (Multiple time asked)
+- Stock span problem
+- Top View of a bst
+- Sort an array by their frequency
 - Validate if a given string is numeric.
   Examples: </br>
           "0" => true </br>
@@ -38,8 +42,11 @@ ____
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
+ - Implement LRU cache
+ - Find the numeric value of the integer passed as a string
+ - Search an element in an array rotated unknown number of times.
 - Explain quick sort
-- Implement a circular linked List where the values ​​of the nodes alternate between positive and negative. Ex: " 1-> -2 -> 3 -> -4 -> 1" 
+- Implement a circular linked List where the values of the nodes alternate between positive and negative. Ex: " 1-> -2 -> 3 -> -4 -> 1" 
 - How to remove a key in a leaf node without causing underflow in a B-tree ?
 - Explain FIFO
 - What is the advantage of the Heap over the Stack?
@@ -58,6 +65,7 @@ ____
 - What is a degree of Relation?
 
 <br/>
+
 <i><u name="os">Operating System</u></i>
 
 - Give an example of deadlock
