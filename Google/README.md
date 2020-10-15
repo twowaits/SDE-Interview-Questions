@@ -65,3 +65,7 @@ ____
 		  D-> E, F<br>
 		  E-> F<br>
 		  F-><br>
+- Given an array of N Integers. You are given q queries. Each query has 2 integers x and m. For each query, you are required to determine <br>
+   the array value that provides the maximum bitwise XOR value with x where the array value is not more than m.If there is no such value that <br>
+   satisfies then condition, then print -1.
+- Find the number of N digit integers divisible by both X and Y, print answer modulo 10^9+7
