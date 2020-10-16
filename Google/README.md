@@ -35,14 +35,14 @@ ____
 
 - All the queries are performed considering 1-based indexing.
 
-	######Input format 
+	###### Input format 
 The first line contains an integer N denoting the length of the array.
 The second line contains N space-separated integers denoting the elements of the array.
 The third line contains an integer Q denoting the number of queries.
 Next, Q lines contain the described type of query.
 Output format: For each query of type 5, print the output in a new line.
 
-	######Constraints
+	###### Constraints
 
 	2 ≤ N ≤ 5 x 105
 	2 ≤ Q ≤ 5 x 105
@@ -50,7 +50,7 @@ Output format: For each query of type 5, print the output in a new line.
 	0 ≤ arri , Val ≤ 105
 	It is guaranteed that at least one query is of type 5.
 
-	######Sample Input 1
+	###### Sample Input 1
 
 	10
 0 3 3 8 0 6 9 3 2 8
@@ -63,7 +63,7 @@ Left
 ? 9
 Right
 
-	######Sample Output 1
+	###### Sample Output 1
 	1
 	9
 
@@ -77,13 +77,13 @@ A match count of Q, denoted by match_count(Q), is the count of words that are is
 In other words, a word in the dictionary can contain any letters at the position ‘?’ but the remaining alphabets must match with the query word.
 You are given a query word Q and you are required to compute match_count(Q).
 
-	######Input format
+	###### Input format
 
 	 First-line contains two space-separated integers M and  N denoting the number of words in the dictionary and length of each word respectively.
 The next N lines contain one word each from the dictionary.
 The next line contains an integer Q denoting the number of query words for which u have to compute match_count()
 The next Q lines contain one query word each.
-	######Output format
+	###### Output format
 
 	For each query word, print match_count for specific words in a new line.
 
