@@ -23,7 +23,95 @@ ____
 
 
 <b name="coding">Coding round questions</b><br/>
+---
+### Google 2020-21 Intern Coding Round
+#### a) Array Queries -
+- You are given an array of integers whose length is N, you must perform the following five types of query on the given array : 
+	1. Left: Perform one cyclic left rotation.
+	2. Right: Perform one cyclic right rotation.
+	3. Update Pos Value: Update the value at index Pos of the array by Val.
+	4. Increment Pos: Increment value at index Pos of the array by 1.
+	5. Pos: Print the current value at index Pos.
 
+- All the queries are performed considering 1-based indexing.
+
+	######Input format 
+The first line contains an integer N denoting the length of the array.
+The second line contains N space-separated integers denoting the elements of the array.
+The third line contains an integer Q denoting the number of queries.
+Next, Q lines contain the described type of query.
+Output format: For each query of type 5, print the output in a new line.
+
+	######Constraints
+
+	2 ≤ N ≤ 5 x 105
+	2 ≤ Q ≤ 5 x 105
+	1 ≤ Pos ≤ N
+	0 ≤ arri , Val ≤ 105
+	It is guaranteed that at least one query is of type 5.
+
+	######Sample Input 1
+
+	10
+0 3 3 8 0 6 9 3 2 8
+10
+Increment 3
+Increment 1
+Left
+Increment 5
+Left
+? 9
+Right
+
+	######Sample Output 1
+	1
+	9
+
+Hint for solution-  Cyclic Rotation can be done in O(1).
+#### b) Match Count -
+
+- There are N-words in a dictionary such that each word is of fixed length M and consists of only lowercase English letters that are ('a', 'b', ……. ‘z’).
+
+	A query word denoted by Q. The length of query word in M. These words contain lowercase English letters but at some places instead of a letter between ‘a’, ‘b’, ……. ‘z’ there is ‘?’ .Refer to the Sample input section to understand this case.
+A match count of Q, denoted by match_count(Q), is the count of words that are is the dictionary and contain the same English letters (excluding a letter that can be in the position of ?) in the same position as the letters are there are in the query word Q.
+In other words, a word in the dictionary can contain any letters at the position ‘?’ but the remaining alphabets must match with the query word.
+You are given a query word Q and you are required to compute match_count(Q).
+
+	######Input format
+
+	 First-line contains two space-separated integers M and  N denoting the number of words in the dictionary and length of each word respectively.
+The next N lines contain one word each from the dictionary.
+The next line contains an integer Q denoting the number of query words for which u have to compute match_count()
+The next Q lines contain one query word each.
+	######Output format
+
+	For each query word, print match_count for specific words in a new line.
+
+	###### Constraints
+
+	1 ≤ N ≤ 5 x 104
+	1 ≤ M ≤ 7
+	1 ≤ Q ≤ 105
+
+	###### Sample Input 
+
+	5 3
+cat
+map
+bat
+man
+pen
+4
+?at
+ma?
+?a?
+######  Sample Output
+
+	2
+2
+4
+2
+---
 - Given (x, y) coordinates, create a function such that each coordinate is uniquely mapped to an integer. Also make sure that given an integer, you should be able to find (x, y) coordinates. So F(x, y) = z and also that inverse F(z) = (x, y).
 - You are given an array of million numbers and provided a range of index (say left, right). For multiple queries, each with input left and right indexes, output the maximum in that range.
 - Given an expression tree (a tree with mathematical operations as the root and left children, and the numbers as the leaves) calculate and return the value of the whole mathematical expression.
