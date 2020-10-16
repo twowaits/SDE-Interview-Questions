@@ -72,10 +72,10 @@ Hint for solution-  Cyclic Rotation can be done in O(1).
 
 - There are N-words in a dictionary such that each word is of fixed length M and consists of only lowercase English letters that are ('a', 'b', ……. ‘z’).
 
-	A query word denoted by Q. The length of query word in M. These words contain lowercase English letters but at some places instead of a letter between ‘a’, ‘b’, ……. ‘z’ there is ‘?’ .Refer to the Sample input section to understand this case.
-A match count of Q, denoted by match_count(Q), is the count of words that are is the dictionary and contain the same English letters (excluding a letter that can be in the position of ?) in the same position as the letters are there are in the query word Q.
-In other words, a word in the dictionary can contain any letters at the position ‘?’ but the remaining alphabets must match with the query word.
-You are given a query word Q and you are required to compute match_count(Q).
+	A query word denoted by Q. The length of query word in M. These words contain lowercase English letters but at some places instead of a letter between ‘a’, ‘b’, ……. ‘z’ 	there is ‘?’ .Refer to the Sample input section to understand this case.
+	A match count of Q, denoted by match_count(Q), is the count of words that are is the dictionary and contain the same English letters (excluding a letter that can be in 	the position of ?) in the same position as the letters are there are in the query word Q.
+	In other words, a word in the dictionary can contain any letters at the position ‘?’ but the remaining alphabets must match with the query word.
+	You are given a query word Q and you are required to compute match_count(Q).
 
 	Input format
 
