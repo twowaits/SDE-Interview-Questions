@@ -8,14 +8,14 @@ _____
 ##### Constraints:
 3<=N<=100
 ##### Sample Input:
-8
-21
-L 14
-R 23
-LL 7
-LR 70
-RR 11
-RRL 23
-RRR 32
+8<br/>
+21<br/>
+L 14<br/>
+R 23<br/>
+LL 7<br/>
+LR 70<br/>
+RR 11<br/>
+RRL 23<br/>
+RRR 32<br/>
 ##### Sample Output:
 46
