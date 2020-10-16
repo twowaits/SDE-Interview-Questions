@@ -16,7 +16,7 @@ ____
 - Write a code for a 2-D array such that it there’s a zero, it overwrites all the elements of the corresponding row and column as zero.
 - Write a code to find the previous shorter element in an array.
 - Given a world map such that all the places covered via land are represented by ‘L’ and rest by ‘W’. Since world is spherical hence rows and columns are cyclic (before row 1 row n comes and after row n row 1 same for column). Count the number of islands.
-- 
+ 
 ----
 <b name="tech">Technical Interview Questions</b>
 
