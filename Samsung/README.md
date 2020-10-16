@@ -15,6 +15,20 @@ ____
 <kbd>DFS</kbd>
 <kbd>BFS</kbd>
 <kbd>Bipartite-Graph</kbd>
+---
+#### Maximum / Minimum GCD of siblings (SRI-B 2020)
+<kbd>binary-trees</kbd>
+- You are given a binary tree with N nodes. (N<10^5).
+We can say GCD of a node = GCD(Left Child, Right Child) of the node.
+- We need to find the maximum as well as minimum GCD of sibling of the given binary tree.
+-Links to solution: https://www.geeksforgeeks.org/find-the-maximum-gcd-of-the-siblings-of-a-binary-tree/
+---
+#### Goldmine Problem  (SRI-B 2020)
+<kbd>dynamic-programming</kbd>
+- Given a gold mine of n*m dimensions. Each field in this mine contains a positive integer which is the amount of gold in tons. Initially the miner is at first column but can be at any row. He can move only (right->,right up /,right down\) that is from a given cell, the miner can move to the cell diagonally up towards the right or right or diagonally down towards the right. Find out maximum amount of gold he can collect.
+
+- Link to Solution: https://www.geeksforgeeks.org/gold-mine-problem/
+---
 - Company S has developed an industrial endoscope available to explore inner part of the decrepit water pipes.
   It is possible to explore the inner part of the pipes putting the endoscope in a certain part of the pipe.
   The endoscope can be moved in the pipe only. Meanwhile, when the pipes are connected, if the length of the endoscope is long enough to explore,  then it can inspect the connected pipes. However, we cannot observe every pipe because the length of the endoscope is limited.
