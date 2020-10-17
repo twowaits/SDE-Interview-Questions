@@ -65,3 +65,16 @@ ____
 		  D-> E, F<br>
 		  E-> F<br>
 		  F-><br>
+-Given an array A with N integers. You are required to answer Q queries of the following type:
+ L R
+ Determine the count of distinct prime numbers that divides all the array values from index L to R.
+ NOTE: Consider 1-based indexing
+ Sample input: 
+ The first line contains an integer T denoting the number of test cases.
+ The first line of each test case contains an integer N.
+ The second line of each test case contains N space-separated integers denoting A.
+ The third line contains integer Q.
+ Next, Q lines contain two space-separated integers denoting the queries.
+ Sample Output
+ Print the count of distinct prime numbers that divides all the array values from index L to R.
+
