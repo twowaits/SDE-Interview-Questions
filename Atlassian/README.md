@@ -17,7 +17,15 @@ ____
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
-
+Why we need to do algorithm analysis?
+What is asymptotic analysis of an algorithm?
+What are common operations that can be performed on a data-structure
+What are some examples of divide and conquer algorithms
+What is stack and why do we use them?
+How depth first traversal works?
+What is tree traversal
+How Kruskal's algorithm works?
+What is interpolation search technique?
 <br/><br/>
 <i><u name="dbms">DBMS</u></i>
 
