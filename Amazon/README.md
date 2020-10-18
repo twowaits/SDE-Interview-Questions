@@ -43,6 +43,13 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
  - Difference between different type of Normalisation.
  - Difference between SQL and NoSQL
  - Define the ACID properties.
+ - What are the different types of languages that are available in the DBMS?
+ - Explain the concepts of a Primary key and Foreign Key.
+ - What is the concept of sub-query in terms of SQL?
+ - What is Correlated Subquery in DBMS
+ - What integrity rules exist in the DBMS
+ - What is 1NF,2NF,3NF,BCNF in the DBMS
+
 
 <br/>
 <i><u name="os">Operating System</u></i>
