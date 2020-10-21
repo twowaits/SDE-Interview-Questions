@@ -25,7 +25,10 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
            output: [6,4,7,9,5,4,2,4,8,2,2,7,9,0,7,9,3,1,8,5]
  
 - Given two sorted linked lists, merge them so that the resulting linked list is also sorted.
-- Given a set of points find the one with the shortest distance from the origin.
+- Given a set of points find the one with the shortest distance from the origin
+- Reverse the bits of an 32 bit unsigned integer A.
+- Find if Given number is power of 2 or not.
+More specifically, find if given number can be expressed as 2^k where k >= 1.
 </br>
 
 ----
@@ -43,6 +46,7 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
  - Difference between different type of Normalisation.
  - Difference between SQL and NoSQL
  - Define the ACID properties.
+ - What is Cursor? How to use a Cursor?
 
 <br/>
 <i><u name="os">Operating System</u></i>
