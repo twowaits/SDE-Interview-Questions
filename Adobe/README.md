@@ -7,7 +7,28 @@
 ____
 <b name="coding">Coding round questions</b><br/>
 - Count set bits in an integer
+   i=input("enter an integer") 
+   def countSetBits(n):
+     count=0
+   while(n):
+     count=+ n&1
+     n>>=1
+   return count
+   print(countSetBits(i))
+   
+   
 - Program for Binary To Decimal Conversion
+
+def binaryTodecimal(binary):
+ binary1=binary
+ decimal,i,n=0,0,0
+ while(binary!=0)
+  dec=binary%10
+  decimal=decimal+ dec*pow(2,i)
+  binary=binary//10
+  i+=1
+ print(decimal) 
+  
 - Check if a given array can represent Preorder Traversal of Binary Search Tree
 - Sort an array of 0s, 1s and 2s
 - Check if a number is a Palindrome
