@@ -120,3 +120,8 @@ Sample Output-
 <b name="ref">Reference</b>
 https://www.geeksforgeeks.org/ola-interview-experience-set-15-1-year-experienced-for-sde1/
 
+
+<b name="coding">Coding round questions</b><br/>
+- Implement simple queue library which support concurrent operation. The queue has to support these data type -> Integer, Long, Double, String. The queue has to support these operations-> push, pop, peek.
+- Implement a simple map library with supports concurrent operations. Map has to support Integer or string keys. Map value has to support these data type-> Integer, Long, Double, String. The map has to support these operations-> put, get, delete, exist.
+- Implement a simple in memory Filesystem library that support the following functionality-> create directory, create file, delete file, delete directory, list directory.
