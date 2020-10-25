@@ -29,6 +29,8 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Reverse the bits of an 32 bit unsigned integer A.
 - Find if Given number is power of 2 or not.
 More specifically, find if given number can be expressed as 2^k where k >= 1.
+- Print a binary tree in zig zag pattern. example given :  first row - Left to right
+Second row - Right to left .... and so on without using additional space.
 </br>
 
 ----
@@ -76,6 +78,9 @@ More specifically, find if given number can be expressed as 2^k where k >= 1.
   - Design a task management system like Trello with the following assumptions:
     1. User can move tasks from one lane to the other and move it back.
     2. This should have a state diagram with many end states.
+    
+  - What are different types of page fault avoiding algorithms and difference
+  
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
