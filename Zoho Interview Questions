@@ -1,0 +1,163 @@
+##Zoho Interview Coding Questions
+###For freshers, they mostly ask programming questions based on an array, string, and Linked lists.
+
+#Table of Contents	
+Coding Question 1: Based on String
+C Program
+Python Program
+Coding Question 2: Based on the Array
+C Program
+Python Program
+
+##Coding Question 1: Based on String
+Input: a1b2c3
+Output: abbccc
+Caution: Don't use inbuilt functions
+Explanation:
+
+After we have the number 1 so a repeats one time = a
+After b we have the number 2 so it repeats two times = bb
+After c we have the number 3 so it repeats three times = ccc
+Final Output: abbccc
+
+###Algorithm:
+
+1. Start the Program
+2. Get the input as a single string
+3. Loop through the entire string to find the numbers
+4. After finding the number, Repeat the previous character the same number of times
+5. For example a4 ( So you find the number 4 and print a 4 times)
+6. Follow the steps 3,4 for the entire string
+7. End the Program
+
+###C Program
+Prerequisite:
+basic data types in C
+loop statement in C
+
+###Code:
+
+#include<stdio.h>
+int main()
+{
+  char str[100]="a1b2c4";
+  int len=0;
+  while(str[length]!='\0')
+    len++;
+  for(int i=0; i<len; i++)
+  {
+    if(str[i]>'0' &amp;&amp; str[i]<'9')
+    {
+      int num=str[i]-'0';
+      for(int j=0; j<num; j++)
+      {
+        printf("%c", str[i-1]);
+      }
+    }
+  }
+}
+
+###Output:
+
+abbcccc
+Python Program
+If you know the Python basic syntax, you can implement the same program in Python in very few lines of code. That’s the beauty of Python programming.
+
+Prerequisite:
+range() function in Python
+Python for-loop
+
+##Code:
+
+msg="a1b2c4"
+out = ""
+ 
+for ind in range(0, len(msg), 2):
+  out += (msg[ind] * int(msg[ind+1]))
+ 
+print(out)
+
+###Output:
+abbcccc
+
+
+##Coding Question 2: Based on the Array
+Input: [2,1,0,-8,-9]
+Output: 0.4 , 0.2 , 0.4
+
+###Explanation:
+First, find the total number of elements in the array = 5
+Find the total number of positive numbers=2
+Find the total number of neutral numbers=1
+(0 is the only neutral number)
+Find the total number of negative numbers=2
+Output = [ (no of positive number/length of array), (no of neutral numbers/length of array), (no of negative numbers/length of array) ]
+=[⅖, ⅕, ⅖]
+=[0.4, 0.2, 0.4]
+
+Algorithm:
+Start the Program
+Get the input as an array
+Find the length of the array
+Find the number of positive, neutral, and negative numbers
+Divide each one of the above results with the length of the array and print the output as an array( Make sure you print the output in float format and use 0.1f for one precision)
+Stop the program
+##C Program
+Here we are using sizeof() operator.
+
+#include<stdio.h>
+int main()
+{
+  int a[]={1,2,4,-8,-1,0};
+ 
+  int n=sizeof(a)/sizeof(int);
+  int np, nz, nn;
+  for(int i=0; i<n; i++)
+  {
+    if(a[i]>0)
+    {
+      np++;
+    }
+    else if(a[i]<0)
+    {
+      ne --;
+    }
+    else
+    {
+      nz++;
+    }
+  }
+  printf("%0.1f , %0.1f , %0.1f ", np/n, nz/n, nn/n);
+  return 0;
+}
+
+###Output:
+0.6 , 0.2, 0.4
+
+##Python Program
+Let’s solve the same question in Python programming.
+
+list_data =  [2,1,0,-8,-9]
+ 
+count_positive = 0
+count_neutral = 0
+count_negative = 0
+length_arr = len(list_data)
+ 
+for val in list_data:
+  if val>0:
+    count_positive += 1
+  elif val<0:
+    count_negative += 1
+    else:
+      count_neutral += 1
+ 
+print(
+  count_positive/length_arr, 
+  count_neutral/length_arr, 
+  count_negative/length_arr
+)
+
+###Output:
+0.4 0.2 0.4
+There can be multiple types of coding questions asked based on the string, array. If you get the basics, you can solve these coding challenges in C/C++, Java, Python, or any programming languages of your choice.
