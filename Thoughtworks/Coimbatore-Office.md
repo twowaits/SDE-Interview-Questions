@@ -1,8 +1,19 @@
-I applied to the diversity challenge February 2020. The first round was a coding round conducted through the HackerEarth portal. Followed by that I had a technical interview at the Coimbatore office and then two other interviews through Zoom.
+# ThoughtWorks Interview Questions
+
+* [Coding Round Questions](##Coding Round)
+
+* [Technical Interview Questions](##In-office Interviews)
+
+* {Social Change Interview}(##Social Change Interview)
+
+* {Leadership Interview}(##Leadership Interview)
+
+
+
 
 
 ## Coding Round
-All the questions asked for this round can be found in the HackerEarth platform.
+All the questions asked for this round can be found in HackerEarth platform.
 
 
 ## In-office Interviews
@@ -34,10 +45,10 @@ For the second technical interview questions on the latest technologies and syst
 
 
 On completing the in-office interviews, 2 Zoom meetings were scheduled.
-## Social change interview
+## Social Change Interview
 In this round we discussed about CAA, LGBTQ rights, Kashmir issue and more social issues. This is a discussion round and you should be ready to accept the other person's ideas too. 
 
-## Leadership interview
+## Leadership Interrview
 In this round, various activities you have done during your calling is days will be evaluated.
 
 Once I completed all the rounds I received the offer letter. 
