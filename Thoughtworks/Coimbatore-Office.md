@@ -4,9 +4,9 @@
 
 * [Technical Interview Questions](##In-office Interviews)
 
-* {Social Change Interview}(##Social Change Interview)
+* [Social Change Interview](##Social Change Interview)
 
-* {Leadership Interview}(##Leadership Interview)
+* [Leadership Interview](##Leadership Interview)
 
 
 
