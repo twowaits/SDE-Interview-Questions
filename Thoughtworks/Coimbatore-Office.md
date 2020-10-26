@@ -7,7 +7,10 @@ All the questions asked for this round can be found in the HackerEarth platform.
 
 ## In-office Interviews
 So, the first found in the in office interview was peer coding interview round. Here, a simple programming question was given. The question was a taxi fare system.
-You have to code this in your system and once you're done with this, an extra feature have to be added. The things to not in this round are to give appropriate names for variables, give comments wherever required and make sure that the logic is correct even if the program does not run. 
+You have to code this in your system and once you're done with this, an extra feature have to be added. The things to not in this round are to give appropriate names for variables, give comments wherever required and make sure that the logic is correct even if the program does not run.
+### Question:
+Write the function for a taxi fare system where first five kilometres the rate is fixed at Rs.50, for the next 10 kilometre the rate is Rs.12.5/km and for rest it is Rs.18.5/km.
+Enhancement: For the first ride of a passenger give him a discount of 5% and now for every alternate trip a discount of 4%. The passenger can be identified using his 10 digit phone number.
 
 On clearing this round you will have 2 technical interviews. The first technical interview round would be on basic OOPS concepts, database, data structures and some logical questions. 
 1. How to implement stack using queue?
