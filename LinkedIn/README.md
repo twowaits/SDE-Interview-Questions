@@ -15,6 +15,17 @@ ____
 
 * Given a string, find the number of distinct palindromic substrings (should optimise time complexity)
 
+* Find the common palindromic sequence ( A sequence which does not need to be contiguous and is a pallindrome), which is common in itself.
+You need to return the length of longest palindromic subsequence in string.
+
+* Find the contiguous subarray within an array (containing at least one number) which has the largest product.
+
+* Check if a given array can represent Preorder Traversal of Binary Search Tree.
+
+* Given a square chessboard of N x N size, the position of Knight and position of a target is given. We need to find out the minimum steps a Knight will take to reach the target position.
+
+*Given a word , you need to check if any permutation of the word would be a palindrome.
+
 ____
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -34,6 +45,8 @@ ____
 * Given a matrix of 0 s and 1 s Find the number of connected components having 1s 
 
 * Given a tree check if it is a binary search tree or not constraints: space complexity O(1)
+
+* A map based design for implementing a code to check for isomorphic words in a file. Efficient approach.
 
 <i><u name="misc">Miscellaneous</u></i>
 * Asked questions on my resume and challenges faced in my project. Other behavioral question.
