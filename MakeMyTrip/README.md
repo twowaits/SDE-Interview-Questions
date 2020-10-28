@@ -12,9 +12,17 @@ ____
 
 - Given an Array of integers and an integer K and indexes L and R. You have to find an element that is most repeated in between L and R when array is repeated k-1 times.
 
+- Given a pair of coordinates (X1, Y1)(source) and (X2, Y2)(destination), the task is to check if it is possible to reach the destination form the source by the following movements from any cell (X, Y):
+
+(X + Y, Y)
+(X, Y + X)
+Note: All coordinates are positive and can be as large as 1018.
+
 - Given a list of string url's, sort them according to their count and when two strings have same count sort them lexicographically.
 
 - You are given an array of numbers and for each ith element in the array you have to calculate the absolute difference between the count of numbers that are to the left of i and are greater than ith element, and the count of numbers that are to the right of i and are lesser than ith element?
+
+- Given a String S1 and String S2. Convert string S1 to a palindrome string such as S2 is a substring of that palindromic string. The only operation allowed on S1 is the replacement of any character with any other character. Find the minimum number of operations required.
 
 - You are given a tree with N nodes and Q queries. Next line contains N integers representing the color associated with each ith node. For each query you are given a node numbers. Now you have to mark all nodes as special which are in its subtree and have the same color as this node.Once a node is marked special, it remains special in the subsequent queries. So for each query you have to output the number of special nodes in the tree.
 
@@ -40,6 +48,10 @@ ____
 
 - Differences between B TREES and B+ TREES.
 
+- Difference between RDMS and NoSQL.
+
+- Difference between Thread and Process.
+
 - 16 GB RAM, 256 GB Hard Disk and there are two csv files such as one is a customer file of 100MB having (customer ID, customer name) and other is a order file of 200GB having (order ID, customer ID and some order related details). Task is to inner join those two files based on customer ID with using SQL.
 
 - Difference between primary and foreign keys.
@@ -50,3 +62,5 @@ ____
 - Questions in this section.
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
+
+- What happens when you type the URL in your browser?
