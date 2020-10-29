@@ -15,6 +15,8 @@ ____
 
 * Given a string, find the number of distinct palindromic substrings (should optimise time complexity)
 
+* Given the pointer to the root of the tree and two values val1 and val2 . Find the length of path between the values val1 and val2 in the binary tree.
+
 ____
 <b name="tech">Technical Interview Questions</b>
 <br/>
