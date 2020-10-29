@@ -24,7 +24,7 @@ You need to return the length of longest palindromic subsequence in string.
 
 * Given a square chessboard of N x N size, the position of Knight and position of a target is given. We need to find out the minimum steps a Knight will take to reach the target position.
 
-*Given a word , you need to check if any permutation of the word would be a palindrome.
+* Given a word , you need to check if any permutation of the word would be a palindrome.
 
 ____
 <b name="tech">Technical Interview Questions</b>
