@@ -46,6 +46,58 @@ ____
   Return the minimum starting gas station’s index if you can travel around the circuit once, otherwise return -1.<br>
   You can only travel in one direction. i to i+1, i+2, … n-1, 0, 1, 2.. Completing the circuit means starting at i and
   ending up at i again.<br>
+ 
+- Given an array of size n, find the majority element. The majority element is the element that appears more than floor(n/2) times.<br>
+  You may assume that the array is non-empty and the majority element always exist in the array.<br>
+      Sample Input: [2, 1, 2]<br>
+      Sample Output: 2 which occurs 2 times which is greater than 3/2.<br>
+
+- Given a 2D binary matrix filled with 0’s and 1’s, find the largest rectangle containing all ones and return its area.<br>
+  Bonus if you can solve it in O(n^2) or less.<br>
+      Sample Input: A = [  1 1 1<br>
+                           0 1 1<br>
+                           1 0 0 ]<br>
+      Sample Output : 4 
+    As the max area rectangle is created by the 2x2 rectangle created by (0,1), (0,2), (1,1) and (1,2).<br>
+
+- Given two sequences A, B, count number of unique ways in sequence A, to form a subsequence that is identical to the sequence B.<br>
+  Subsequence : A subsequence of a string is a new string which is formed from the original string by deleting some (can be none) of<br> the characters without disturbing the relative positions of the remaining characters. (ie, “ACE” is a subsequence of “ABCDE” while<br> “AEC” is not).<br>
+      Sample Input Format:<br>
+          
+      The first argument of input contains a string, A.<br>
+      The second argument of input contains a string, B.<br>
+      Output Format:<br>
+          
+       Return an integer representing the answer as described in the problem statement.<br>
+      Constraints:<br>
+          
+       1 <= length(A), length(B) <= 700<br>
+      Example :<br>
+      
+      Input 1:<br>
+           A = "abc"<br>
+           B = "abc"<br>
+      Output 1:<br>
+           1
+
+       Explanation 1:<br>
+          Both the strings are equal.<br>
+
+      Input 2:<br>
+           A = "rabbbit" <br>
+           B = "rabbit"<br>
+
+      Output 2:<br>
+           3<br>
+
+       Explanation 2:<br>
+          These are the possible removals of characters:<br>
+           => A = "ra_bbit" <br>
+           => A = "rab_bit" <br>
+           => A = "rabb_it"<br>
+        
+     Note: "_" marks the removed character.<br>
+
   
 - Given a string A, partition A such that every substring of the partition is a palindrome.<br>
   Return the minimum cuts needed for a palindrome partitioning of A.<br>
