@@ -95,3 +95,4 @@ ____
   'Z' -> 26
   Given an encoded message A containing digits, determine the total number of ways to decode it modulo 10^9+7.<br>
   
+- Given two numbers, the task is to find the HCF of two numbers using Command Line Arguments. GCD (Greatest Common Divisor) or HCF (Highest Common Factor) of two numbers is the   largest number that divides both of them.<br> 
