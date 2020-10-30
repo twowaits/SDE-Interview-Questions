@@ -65,3 +65,10 @@ ____
 		  D-> E, F<br>
 		  E-> F<br>
 		  F-><br>
+-Given a valid sentence without any spaces between the words and a dictionary of valid English words, find all possible ways to break the sentence in individual dictionary words.
+For example, Consider the following dictionary 
+            { i, like, sam, sung, samsung, mobile, ice, 
+              and, cream, icecream, man, go, mango}
+            Input: "ilikesamsungmobile"
+            Output: i like sam sung mobile
+                    i like samsung mobile
