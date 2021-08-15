@@ -83,5 +83,4 @@ ____
 - What is the size of an empty class in C++ and Java? Why is it not zero? sizeof(); returns 1 in the case of C++.
 - Explain compile time polymorphism and runtime polymorphism.
 - What is the reason for single inheritance in Java?
-- What is the reason for single inheritance in Java ?
 - How to compute 33/5 without using ‘/’, ‘%’ and ‘*’ operator.
