@@ -8,6 +8,7 @@
    * [System Design](#design)
 ____
 <b name="coding">Coding round questions</b><br/>
+<p>Vishal hacktober fest 2021</p>
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
