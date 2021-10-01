@@ -9,6 +9,7 @@
 ____
 <b name="coding">Coding round questions</b><br/>
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
+- Given a Binary Tree (BT), convert it to a Doubly Linked List(DLL) In-Place. The left and right pointers in nodes are to be used as previous and next pointers respectively in converted DLL. The order of nodes in DLL must be same as Inorder of the given Binary Tree. The first node of Inorder traversal (leftmost node in BT) must be the head node of the DLL.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
 - Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
