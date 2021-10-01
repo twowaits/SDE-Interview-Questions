@@ -42,3 +42,8 @@ Tried Bruteforce and my Complexity
 isLock()  O(1)
 Lock()    O(N)
 unLock()  O(1)
+
+<footer>
+<p style="float:left; width: 60%; text-align:center;">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"></a><br />Refrences <a rel="license" href="https://akash-kumar916.medium.com/juspay-interview-experience-internship-oncampus-2020-c3bfe1e306ac">Check out</a>
+</footer>
