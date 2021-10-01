@@ -65,3 +65,8 @@ ____
 		  D-> E, F<br>
 		  E-> F<br>
 		  F-><br>
+- Given an array arr[] of N integers representing the position of N points along a straight line and an integer K, <br>
+  the task is to find the minimum value of the maximum distance between adjacent points after adding K points anywhere in between,<br>
+  not necessarily on an integer position. <br>
+  Sample Input: arr[] = {2, 4, 8, 10}, K = 1
+  Sample Output: 2
