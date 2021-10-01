@@ -42,7 +42,7 @@ Thanks goes to these wonderful people:
 </table>     
 
 
-Like this repo ? Contribute new questions this hacktoberfest and be a part of it. #Hacktoberfest_2019
+Like this repo ? Contribute new questions this hacktoberfest and be a part of it. #Hacktoberfest_2021
 #### For contributing see <a href="https://github.com/rishabh115/InterviewQuestions/blob/master/CONTRIBUTING.md">Contributing guidelines</a> .
 
 ## Similar projects:
