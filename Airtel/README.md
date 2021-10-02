@@ -1,4 +1,10 @@
 ## Airtel Interview Questions
+
+* [Assesment Process](#testProcess)
+* [Assesment Questions](#assesmentQuestions)
+* [Technical Interview -1](#TI1)
+* [Technical Interview -2](#TI2)
+* [HR Interview](#HR)
 ________
 <b name = "testProcess">Online test process </b><br/> 
 
