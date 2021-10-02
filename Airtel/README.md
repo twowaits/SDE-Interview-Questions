@@ -38,6 +38,7 @@ The interview ended with a puzzle: https://www.brainzilla.com/brain-teasers/ridd
 
 At last, I asked him a few questions about technologies used in Airtel, his role as a fresher, and the answer to my puzzle. My interview lasted 30 mins.
 
+----
 <b name = "TI2">Technical Interview - 2</b>
 
 The interview started with my introduction, and very quickly, we jumped into the discussion about my best project. I explained my project and my role. The interviewer was pretty interested, so he asked me to show some codes used in the project and explain them. 
@@ -45,6 +46,7 @@ I shared my GitHub and explained the approaches, difficulties, and logic. I also
 
 Unlike other interviews, my whole discussion was on my single project, and he was satisfied with the answers. At last, I asked him two questions.
 
+----
 <b name = "HR">HR Interview</b>
 
 The interviewer gave me her introduction and described his team and work. Then I gave my introduction. 
