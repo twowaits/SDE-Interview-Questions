@@ -47,6 +47,7 @@ ____
 - Given a square matrix, turn it by 90 degrees in anti-clockwise direction without using any extra space.
 - Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. For simplicity, assume that all bars have same width and the width is 1 unit.
 - Given that integers are read from a data stream. Find median of elements read so for in efficient way. For simplicity assume there are no duplicates. 
+- Flatten a multilevel linked list and optimized it.
 
 <i><u name="dbms">DBMS</u></i>
 
