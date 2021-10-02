@@ -29,6 +29,9 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Reverse the bits of an 32 bit unsigned integer A.
 - Find if Given number is power of 2 or not.
 More specifically, find if given number can be expressed as 2^k where k >= 1.
+- You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right.
+  You can only see the k numbers in the window. Each time the sliding window moves right by one position.
+  Return the max sliding window
 </br>
 
 ----
