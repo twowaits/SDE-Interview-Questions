@@ -30,6 +30,7 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Find if Given number is power of 2 or not.
 More specifically, find if given number can be expressed as 2^k where k >= 1.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Given a binary tree, print it's to view.
 - Find whether one binary tree is present in another binary tree.
 =======
@@ -37,7 +38,10 @@ More specifically, find if given number can be expressed as 2^k where k >= 1.
 - Find whether one binary tree is present in another binary tree.
 - Merge k sorted arrays.
 - Given a matrix where each row and each column is sorted, check whether the given number is present in the matrix.
->>>>>>> Added Amazon coding round questions
+- Given a binary tree, print it's top view.
+- Find whether one binary tree is present in another binary tree.
+- Merge k sorted arrays.
+- Given a matrix where each row and each column is sorted, check whether the given number is present in the matrix.
 </br>
 
 ----
