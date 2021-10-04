@@ -95,13 +95,9 @@ More specifically, find if given number can be expressed as 2^k where k >= 1.
   <br/>
   <br/>
   <i><u name="misc">Miscellaneous</u></i>
-=======
+
   - Design a task management system like Trello with the following assumptions:
     1. User can move tasks from one lane to the other and move it back.
     2. This should have a state diagram with many end states.
   - Design a Circular Buffer having the abilty of variable partitioning.
-<br/>
-<br/>
-<i><u name="misc">Miscellaneous</u></i>
-
-- Describe the main features of object oriented programming.
+  - Describe the main features of object oriented programming.
