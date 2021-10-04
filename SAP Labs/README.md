@@ -6,7 +6,9 @@ ____
 <b name="coding">Coding round questions</b><br/>
 
 - Given an array of strings dates[], the task is to sort these dates in ascending order.Each date is of the form dd/mm/yyyy.
-
+- Sort an array of 0s, 1s and 2s
+- Check if a number is Bleak
+- 
 - Print pair of numbers from given array having minimum absolute value.
 <br>
 <br>
