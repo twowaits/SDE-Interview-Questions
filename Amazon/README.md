@@ -8,6 +8,16 @@
    * [System Design](#design)
 ____
 <b name="coding">Coding round questions</b><br/>
+- Given a square matrix, turn it by 90 degrees in a clockwise direction without using any extra space.
+  Example: 
+  Input:
+  1 2 3 
+  4 5 6
+  7 8 9  
+  Output:
+  7 4 1 
+  8 5 2
+  9 6 3
 - Given an array of distinct elements and a number x, find if there is a pair with product equal to x.
 - Given a string ‘str’ of digits and an integer ‘n’, build the lowest possible number by removing ‘n’ digits from the string and not changing the order of input digits.
 - Given a number, find its corresponding Roman numeral.
