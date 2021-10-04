@@ -8,6 +8,13 @@ ____
 - Given an array of strings dates[], the task is to sort these dates in ascending order.Each date is of the form dd/mm/yyyy.
 - Sort an array of 0s, 1s and 2s
 - Check if a number is Bleak
+- Construct BST from Postorder
+- Given a string, remove spaces from it. <br>
+    Input:
+    S = "geeks  for geeks"
+    Output: geeksforgeeks
+    Explanation: All the spaces have been 
+    removed.
 - 
 - Print pair of numbers from given array having minimum absolute value.
 <br>
@@ -16,7 +23,10 @@ ____
 <br>
 
 - Implement the fastest Sorting technique.
-
+- What is a class and object in C++. Explain by taking an example.
+- What is static and use of it? Give a real life example where you would use it?
+- What is use of inheritance?
+- What is difference between authorization and authentication?
 - Given a sentence find the word which has maximum length and is even.<br>
   eg: String s= I like to eat banana <br>
   output: banana  

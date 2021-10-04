@@ -15,11 +15,11 @@
 - "Critique" a snippet of code pasted on collabedit.
 - Given an array with all elements sorted on each individual row and column find the K-th smallest one.
 - Implement a hast table.
-- Given an integer. Find how many structurally unique binary search trees are there that stores the values from 1 to that integer (inclusive). 
+- Given an integer. Find how many structurally unique binary search trees are there that stores the values from 1 to that integer (inclusive). <br>
 Input:
 N = 2
 Output: 2
-Explanation:for N = 2, there are 2 unique
+Explanation:for N = 2, there are 2 unique<br>
 BSTs
      1               2  
       \            /
