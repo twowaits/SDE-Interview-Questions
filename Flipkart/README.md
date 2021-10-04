@@ -70,6 +70,8 @@
 
 - Given an array of integers(both positive and negative), you have to compute the minimum value of abs(sum of all numbers)
   You can change the sign of any element any number of times.
+  
+- Given the start and end coordinates of a knight in a chess board, return the minimum number of moves required by the knight to go from the start to the end position. (Knight's movement: move two squares vertically and one square horizontally, or two squares horizontally and one square vertically). If it is impossible to reach the end position, return -1.
 
 <i><u name="dbms">DBMS</u></i>
 
