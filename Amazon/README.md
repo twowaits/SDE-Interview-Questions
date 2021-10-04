@@ -29,6 +29,7 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Reverse the bits of an 32 bit unsigned integer A.
 - Find if Given number is power of 2 or not.
 More specifically, find if given number can be expressed as 2^k where k >= 1.
+- Given a string of parenthesis like {()[{]).Check if it balanced or not.
 </br>
 
 ----
@@ -39,7 +40,7 @@ More specifically, find if given number can be expressed as 2^k where k >= 1.
  - Given n fences, WAP to paint them with k colours such that not more than 2 consecutive fences are of same colour.
  - Suppose there are 2 glasses with capacities 5 litres and 3 litres. The glasses can only be completely filled or completely emptied. The water can be transferred from one glass to another, for eg. 5 ltrs glass can transfer all water to 3 ltrs glass and 2 ltrs of water will be left in 5 ltrs of glass. You cannot partially empty or fill any glass. The goal is to get 4 ltrs of water in any one glass. WAP to do this with n number of glasses with given capacities for each and the final capacity to achieve being k in any 1 glass. Print the least number of steps required to do so.
  - Given a large 2D array with numbers increasing as you go right or you go down. Convert this into a sorted 1D array in fixed amount of memory. (Hint: Heaps)
-
+ - Given a large 1D array of 0's and 1's.Find the largest subarray which contains equal numbers of 0's and 1's. (Hint: Similar to largest subarray with zero sum)
 <br/>
 <i><u name="dbms">DBMS</u></i>
 
@@ -76,6 +77,7 @@ More specifically, find if given number can be expressed as 2^k where k >= 1.
   - Design a task management system like Trello with the following assumptions:
     1. User can move tasks from one lane to the other and move it back.
     2. This should have a state diagram with many end states.
+  - Design a Circular Buffer having the abilty of variable partitioning.
 <br/>
 <br/>
 <i><u name="misc">Miscellaneous</u></i>
