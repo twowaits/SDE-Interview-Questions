@@ -35,16 +35,25 @@
 - Imagine that an employee tree represents the formal employee heirarchy at Amazon. Manager nodes have child nodes for each employee that reports to them; each of these employees can, in turn, have child nodes representing the number of months the employee has spent at the company. Team tenure is computed as the average tuenure of the manager and all the company employees working below the manager. The oldest team has the highest team tenure. Write an algorithm to find the manager of the team with the highest tenure. An employee must have child nodes to be a manager.
   </br>
 
----
+- Maximize partitions such that no two substrings have any common character
+- Find Square Root of a whole number without using standard functions 
+- Priority Inversion
+- Detect cycle in a directed graph
+- Recursively Reversing a linked list
+
+More specifically, find if given number can be expressed as 2^k where k >= 1.
+- Given a string of parenthesis like {()[{]).Check if it balanced or not.
+</br>
 
 <b name="tech">Technical Interview Questions</b>
 <br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
 
-- There is an infinite stream of Products. Write a program to print top 10 cheapest products at any given point of time. Do it within fixed amount of memory i.e. you can't consume unknown amount of memory. (Hint: Heaps)
-- Given n fences, WAP to paint them with k colours such that not more than 2 consecutive fences are of same colour.
-- Suppose there are 2 glasses with capacities 5 litres and 3 litres. The glasses can only be completely filled or completely emptied. The water can be transferred from one glass to another, for eg. 5 ltrs glass can transfer all water to 3 ltrs glass and 2 ltrs of water will be left in 5 ltrs of glass. You cannot partially empty or fill any glass. The goal is to get 4 ltrs of water in any one glass. WAP to do this with n number of glasses with given capacities for each and the final capacity to achieve being k in any 1 glass. Print the least number of steps required to do so.
-- Given a large 2D array with numbers increasing as you go right or you go down. Convert this into a sorted 1D array in fixed amount of memory. (Hint: Heaps)
+ - There is an infinite stream of Products. Write a program to print top 10 cheapest products at any given point of time. Do it within fixed amount of memory i.e. you can't consume unknown amount of memory. (Hint: Heaps)
+ - Given n fences, WAP to paint them with k colours such that not more than 2 consecutive fences are of same colour.
+ - Suppose there are 2 glasses with capacities 5 litres and 3 litres. The glasses can only be completely filled or completely emptied. The water can be transferred from one glass to another, for eg. 5 ltrs glass can transfer all water to 3 ltrs glass and 2 ltrs of water will be left in 5 ltrs of glass. You cannot partially empty or fill any glass. The goal is to get 4 ltrs of water in any one glass. WAP to do this with n number of glasses with given capacities for each and the final capacity to achieve being k in any 1 glass. Print the least number of steps required to do so.
+ - Given a large 2D array with numbers increasing as you go right or you go down. Convert this into a sorted 1D array in fixed amount of memory. (Hint: Heaps)
+ - Given a large 1D array of 0's and 1's.Find the largest subarray which contains equal numbers of 0's and 1's. (Hint: Similar to largest subarray with zero sum)
 
 <br/>
 <i><u name="dbms">DBMS</u></i>
@@ -86,5 +95,13 @@
   <br/>
   <br/>
   <i><u name="misc">Miscellaneous</u></i>
+=======
+  - Design a task management system like Trello with the following assumptions:
+    1. User can move tasks from one lane to the other and move it back.
+    2. This should have a state diagram with many end states.
+  - Design a Circular Buffer having the abilty of variable partitioning.
+<br/>
+<br/>
+<i><u name="misc">Miscellaneous</u></i>
 
 - Describe the main features of object oriented programming.
