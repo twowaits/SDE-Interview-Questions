@@ -32,6 +32,9 @@ More specifically, find if given number can be expressed as 2^k where k >= 1.
 - You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right.
   You can only see the k numbers in the window. Each time the sliding window moves right by one position.
   Return the max sliding window
+- Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
+- Given an unsorted integer array nums, return the smallest missing positive integer.
+  You must implement an algorithm that runs in O(n) time and uses constant extra space.
 </br>
 
 ----
