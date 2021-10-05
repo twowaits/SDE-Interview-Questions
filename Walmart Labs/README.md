@@ -10,20 +10,9 @@
 
 <b name="coding">Coding round questions</b><br/>
 
-- Given an expression string x. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
-For example, the function should return 'true' for exp = “[()]{}{[()()]()}” and 'false' for exp = “[(])”.
-
-<p>Ex - Input:
-{([])}<br/>
-Output: 
-true<br/>
-Explanation: 
-{ ( [ ] ) }. Same colored brackets can form 
-balaced pairs, with 0 number of 
-unbalanced bracket.
-<br/>
-Reference  -  
-
+- Parenthesis Checker
+- Stock Buy and Sell
+- Longest Consecutive Subsequence
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
@@ -45,4 +34,5 @@ Reference  -
 
  <b name="ref">References</b><br/>
   - https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/
-  -
+  - https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
+  - https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1
