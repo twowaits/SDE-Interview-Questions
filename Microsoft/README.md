@@ -70,6 +70,11 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Find the lowest common ancestor of a binary tree which has links to its parents.
 - Partition an array into two disjoit subsets so that they have minimum absolute difference of their sums.
 - Calculate Height of a Binary Tree.
+- Given an un-directed graph, find if the graph contains any cycle.
+- Find if an array is subset of another array.
+- Suggest DS for text prediction and spell check. Follow up to this were -
+    1. Write the implementation of Trie.
+    2. How can you reduce the space complexity of Trie?
 <br/>
 
 <i><u name="dbms">DBMS</u></i>
@@ -86,6 +91,9 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Thrashing in OS
 - Difference between virtual addressing and translation lookaside buffer(TLB)
 - As a developer how would you make your programs knowing the fact that the system implements paging.
+- How is deadlock created?
+- Talk about Semaphores and Critical Section.
+- Different types of Job Scheduling algorithms? What is starvation?
 <br/>
 
 <i><u name="design">System Design</u></i>
@@ -98,6 +106,10 @@ XOR. Calculate the value of the string moving from left to right assuming no ord
 - Design a Restaurant Management System.
 - You are in charge of writing a software for a slot machine. On press of a button, the slot machine should output the roll of 2 dice. Constraints: Do not use the random library and secondly the probability of the dice rolls should be equal.
 - Design a T9 Keypad predictor. i.e, you just write the numbers and it shows at most 5 suggestions of words that can be formed , or words having this as a prefix.
+- Design 'Ride Now' feature in Ola Ride App.
+- Low level design of employee-manager "out-of-office" status provider that returns details of an employee if working on a given day otherwise keep going up the heirarchy of their managers until one is available.
+- Design camera class present in smartphones in such a way that multiple instances of that object are not created everytime camera is accessed.
+- Design a class that returns correct payment object when one of different types of payment methods (credit card, debit card, netbanking, UPI...etc) is given as input.
 <br/>
 
 <i><u name="misc">Miscellaneous</u></i>
