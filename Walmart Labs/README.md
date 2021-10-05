@@ -1,7 +1,19 @@
 
 <b name="coding">Coding round questions</b><br/>
 
-- Questions in this section.
+- Given an expression string x. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
+For example, the function should return 'true' for exp = “[()]{}{[()()]()}” and 'false' for exp = “[(])”.
+
+Ex - Input:
+{([])}
+Output: 
+true
+Explanation: 
+{ ( [ ] ) }. Same colored brackets can form 
+balaced pairs, with 0 number of 
+unbalanced bracket.
+
+Reference  - https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/ 
 
 ----
 <b name="tech">Technical Interview Questions</b>
