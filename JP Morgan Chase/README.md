@@ -44,3 +44,11 @@ ____
 - Longest Increasing Subsequence
 
 - Aptitude Questions -> CS theory, Probability, Linear Algebra
+
+- Given an int, print 1 if the number of occurrences of current index and element at this index is same, else print 0
+Ex. 22 -> 0
+Ex. 2020 -> 1, because 0: there are 2 zeroes, 1: there is 0 ones, 2: there are 2 twos, 3: there is 0 threes
+
+- Given a string of shuffled numbers (in the string form), print the corresponding integer in a sorted way
+Ex. neo -> 1
+Ex. rneheetotow -> 123
