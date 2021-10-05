@@ -36,7 +36,7 @@ Ex. [-3,5,0,9,4], k = 2 -> return 5
 <b name="tech">Technical interview questions</b><br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
 
-- Convmemrting Decimal Number lying between 1 to 3999 to Roman Numerals.m
+- Converting Decimal Number lying between 1 to 3999 to Roman Numerals.m
 - Given an array of distinct elements. The task is to find triplets in the array whose sum is zero.
 - Given an array with positive number the task is that we find largest subset from array that contain elements which are Fibonacci numbers.
 - Given a string of numbers, the task is to find the maximum value from the string, you can add a ‘+’ or ‘*’ sign between any two numbers.
