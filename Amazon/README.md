@@ -40,8 +40,10 @@
 - Priority Inversion
 - Detect cycle in a directed graph
 - Recursively Reversing a linked list
-
-More specifically, find if given number can be expressed as 2^k where k >= 1.
+- Given a binary tree, print it's top view.
+- Find whether one binary tree is present in another binary tree.
+- Merge k sorted arrays.
+- Given a matrix where each row and each column is sorted, check whether the given number is present in the matrix.
 - Given a string of parenthesis like {()[{]).Check if it balanced or not.
 </br>
 
