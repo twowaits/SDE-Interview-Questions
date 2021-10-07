@@ -41,7 +41,7 @@
  - What is CDN. Explain with a sample, the flow of a website loading.
 
 <br/>
-<i><u name="design">Java</u></i>
+<i><u name="java">Java</u></i>
 
  - Concepts of OOPS.
  - Explain SOLID Principle.
