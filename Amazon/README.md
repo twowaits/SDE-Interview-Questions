@@ -45,6 +45,11 @@
 - Merge k sorted arrays.
 - Given a matrix where each row and each column is sorted, check whether the given number is present in the matrix.
 - Given a string of parenthesis like {()[{]).Check if it balanced or not.
+- Assembly Line Scheduling(Dynamic programming)
+- The Celebrity Problem
+- Given a string S consisting only of opening and closing parenthesis 'ie '('  and ')', find out the length of the longest valid(well-formed) parentheses substring.
+NOTE: Length of the smallest valid substring ( ) is 2.
+
 </br>
 
 <b name="tech">Technical Interview Questions</b>
