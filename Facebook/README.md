@@ -15,6 +15,10 @@ ____
 (To store them, we should store the value and index of those indexes that have a non-zero value, and then finding the dot product is very straight forward).
 - You have an array of n elements, and a sum. Check if any 2 elements in the array sum to the given sum.
 - Given an array A[] of N numbers and another number x, determine whether or not there exist three elements in A[] whose sum is exactly x.
+- Given an array of strings, return the common prefixes, if not found return an empty array.
+Ex. ['abcd', 'abb', 'acd'] -> return 'a'
+- Given an array of ints, return the kth largest element in the array.
+Ex. [-3,5,0,9,4], k = 2 -> return 5
 
 
 ----
@@ -32,7 +36,7 @@ ____
 <b name="tech">Technical interview questions</b><br/>
 <i><u name="dsalg">Data Structures and Algorithms</u></i>
 
-- Converting Decimal Number lying between 1 to 3999 to Roman Numerals.
+- Converting Decimal Number lying between 1 to 3999 to Roman Numerals.m
 - Given an array of distinct elements. The task is to find triplets in the array whose sum is zero.
 - Given an array with positive number the task is that we find largest subset from array that contain elements which are Fibonacci numbers.
 - Given a string of numbers, the task is to find the maximum value from the string, you can add a ‘+’ or ‘*’ sign between any two numbers.
