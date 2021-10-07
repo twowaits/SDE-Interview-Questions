@@ -17,7 +17,7 @@
 | **Z** | [Zomato](Zomato/README.md) | 
 
 ## Announcements👐
-
+<i><b>📣This repo is not participating in hacktoberfest this year. </b></i>     
 There are many unfinished articles in this repo. Feel free to contribute or create the issue. 
 
 #### Note:
@@ -42,7 +42,6 @@ Thanks goes to these wonderful people:
 </table>     
 
 
-Like this repo ? Contribute new questions this hacktoberfest and be a part of it. #Hacktoberfest_2019
 #### For contributing see <a href="https://github.com/rishabh115/InterviewQuestions/blob/master/CONTRIBUTING.md">Contributing guidelines</a> .
 
 ## Similar projects:
