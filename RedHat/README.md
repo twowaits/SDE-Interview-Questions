@@ -22,7 +22,11 @@
 
  - Given a sentence and asked to reverse each word from it.
  - A simple BFS implementation question.
+ - Intersection of Linked Lists.
  - Discussion on projects.
  - Discussion on OS and Object-Oriented concepts.
+ - Discussion on corner cases for a programming question.
+ - Loop exceptional cases.
+ - Basic programming language (which you use/prefer) conceptual questions.
 
 <br/>
