@@ -19,6 +19,9 @@ ____
 - what is the lookup time for a HashSet?
 - Heap is implemented using which data structure?
 - which sorting algorithm is best in terms of time complexity?
+- Immutable data structure among these: tuples, lists, dictionaries
+- Minimum height of the binary tree of 800 nodes?
+- What is the method used to cut spaces from front and back of a string in Python?
 ____
 
 
