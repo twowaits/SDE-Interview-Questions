@@ -38,3 +38,4 @@ ____
 
 - Explain the difference between processes and threads.
 - Explain different CPU scheduling algorithms.
+- Explain  
